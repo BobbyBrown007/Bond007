@@ -1,444 +1,493 @@
 #EXTM3U 
 #EXTINF:-1,####ENGLAND#####
-#EXTINF:-1,UK: Sky_Sports_1
-http://asia.loginto.me:8000/live/malik/malik/202.ts
-#EXTINF:-1,UK: Sky_Sports_2
-http://asia.loginto.me:8000/live/malik/malik/203.ts 
-#EXTINF:-1,UK: Sky_Sports_3
-http://asia.loginto.me:8000/live/malik/malik/204.ts 
-#EXTINF:-1,UK: Sky_Sports_4
-http://asia.loginto.me:8000/live/malik/malik/205.ts 
-#EXTINF:-1,UK: Sky_Sports_5
-http://asia.loginto.me:8000/live/malik/malik/206.ts 
-#EXTINF:-1,UK: Sky_Sports_1
-http://asia.loginto.me:8000/live/malik/malik/144.ts 
-#EXTINF:-1,UK: Sky_Sports_2
-http://asia.loginto.me:8000/live/malik/malik/145.ts 
-#EXTINF:-1,UK: Sky_Sports_3
-http://asia.loginto.me:8000/live/malik/malik/146.ts 
-#EXTINF:-1,UK: Sky_Sports_4
-http://asia.loginto.me:8000/live/malik/malik/147.ts 
-#EXTINF:-1,UK: Sky_Sports_5
-http://asia.loginto.me:8000/live/malik/malik/148.ts 
-#EXTINF:-1,UK: BT_Sports_1
-http://asia.loginto.me:8000/live/malik/malik/149.ts 
-#EXTINF:-1,UK: BT_Sports_2
-http://asia.loginto.me:8000/live/malik/malik/150.ts 
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/8744.ts
-#EXTINF:-1,UK: SKY_ACTION_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6106.ts
-#EXTINF:-1,UK: SKY_MOVIES_PREMIERE_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6095.ts
-#EXTINF:-1,UK: SKY_MOVIES_DISNEY_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6099.ts
-#EXTINF:-1,UK: SKY_MOVIES_FAMILY_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6097.ts
-#EXTINF:-1,UK: Sky_Movies_Greats
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6096.ts
-#EXTINF:-1,UK: SKY_MOVIES_SCIFI_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6094.ts
-#EXTINF:-1,UK: Sky_Movies_Showcase
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6092.ts
-#EXTINF:-1,UK: SKY_MOVIES_THRILLER_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6091.ts
-#EXTINF:-1,UK: True_Movies_1_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6083.ts
-#EXTINF:-1,UK: True_Movies_2_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6082.ts
-#EXTINF:-1,UK: Sky_Syfy
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6084.ts
-#EXTINF:-1,UK: Film_4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6137.ts
-#EXTINF:-1,UK: Fox
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6136.ts
-#EXTINF:-1,UK: DMAX_UK
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6141.ts
-#EXTINF:-1,UK: DRAMA
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6140.ts
+#EXTINF:-1,---SKYUK One----
+#EXTINF:-1,UK: Sky Sport 1 HD iptvsource_com
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2964.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2965.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2966.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2967.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2968.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2969.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/824.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/823.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/822.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/821.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/820.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/819.ts
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2826.ts
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1488.ts
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1487.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/818.ts
+#EXTINF:-1,UK: Sky News
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/4219.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2160.ts
+#EXTINF:-1,UK: BTSport Europe HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2737.ts
+#EXTINF:-1,UK: BTSportMosaic
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2744.ts
+#EXTINF:-1,UK: BTSportExtra1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2745.ts
+#EXTINF:-1,UK: Eurosport2.HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3318.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1872.ts
+#EXTINF:-1,UK: Premier Sports
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2828.ts
+#EXTINF:-1,UK: ESPN HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1871.ts
+#EXTINF:-1,UK: RACING HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2162.ts
+#EXTINF:-1,UK:Sky Movies Premiere HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1317.ts
+#EXTINF:-1,UK: E! Entertainment iptvsource_com
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1943.ts
+#EXTINF:-1,UK:Sky Movies Comedy
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/925.ts
+#EXTINF:-1,UK:BBC3
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1190.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2385.ts
+#EXTINF:-1,UK:BBC  News
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1191.ts
+#EXTINF:-1,UK:BBC 4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1192.ts
+#EXTINF:-1,UK:BBC 2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1193.ts
+#EXTINF:-1,UK:BBC 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1194.ts
+#EXTINF:-1,UK:-|  TV3
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2154.ts
 #EXTINF:-1,UK: YESTERDAY
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6079.ts
-#EXTINF:-1,UK: BBC_1_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6164.ts
-#EXTINF:-1,UK: BBC_2_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6163.ts
-#EXTINF:-1,UK: BBC_3_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6162.ts
-#EXTINF:-1,UK: BBC_4_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6161.ts
-#EXTINF:-1,UK: BBC_NEW_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6160.ts
-#EXTINF:-1,UK: CBS_Action
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6158.ts
-#EXTINF:-1,UK: CBS_Drama
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6157.ts
-#EXTINF:-1,UK: CBS_REALITY
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6156.ts
-#EXTINF:-1,UK: STAR GOLD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6226.ts
-#EXTINF:-1,UK: STAR PLUS
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6228.ts
-#EXTINF:-1,UK: STAR UTSAV HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6229.ts
-#EXTINF:-1,UK: STAR VIJOY
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6230.ts
-#EXTINF:-1,UK: Universal Channel
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6066.ts
-#EXTINF:-1,UK: LONDON LIVE
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6074.ts
-#EXTINF:-1,UK:STAR LIFE OK
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6227.ts
-#EXTINF:-1,UK_ITV_1_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6133.ts
-#EXTINF:-1,UK_ITV_2_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6132.ts
-#EXTINF:-1,UK_ITV_3_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6131.ts
-#EXTINF:-1,UK_ITV_4_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6130.ts
-#EXTINF:-1,UK: Sky_Sports_1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6088.ts
-#EXTINF:-1,UK: Sky_Sports_4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6069.ts
-#EXTINF:-1,UK: Sky_Sports_5
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6068.ts
-#EXTINF:-1,UK: Sky_Sports_F1_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6086.ts
-#EXTINF:-1,UK: Sky_Sports_News
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6085.ts
-#EXTINF:-1,UK: EUROSPORT_1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6139.ts
-#EXTINF:-1,UK: EuroSport_2
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6138.ts
-#EXTINF:-1,UK_FOX_SPORTS_2_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6134.ts
-#EXTINF:-1,UK_MIO_STADIUM_1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6128.ts
-#EXTINF:-1,UK_MIO_STADIUM_2
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6127.ts
-#EXTINF:-1,UK_MIO_STADIUM_3
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6126.ts
-#EXTINF:-1,UK_MIO_STADIUM_4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6125.ts
-#EXTINF:-1,UK_MIO_STADIUM_5
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6124.ts
-#EXTINF:-1,UK: boxnation
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6159.ts
-#EXTINF:-1,UK: CHELSEA TV HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6108.ts
-#EXTINF:-1,UK:  Zee Punjabi
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6672.ts
-#EXTINF:-1,UK: Sky_BT_Sport_2_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6104.ts
-#EXTINF:-1,UK: 4 Seven_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6166.ts
-#EXTINF:-1,UK: Cartoon Network
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6078.ts
-#EXTINF:-1,UK: Channel_4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6155.ts
-#EXTINF:-1,UK: Channel_5
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6154.ts
-#EXTINF:-1,UK: Channel_5_Star
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6153.ts
-#EXTINF:-1,UK: Channel_5_USA
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6152.ts
-#EXTINF:-1,UK_CTH_STADIUM_1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6150.ts
-#EXTINF:-1,UK_CTH_STADIUM_3_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6149.ts
-#EXTINF:-1,UK_CTH_STADIUM_4_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6148.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6077.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6076.ts
-#EXTINF:-1,UK: DISCOVERY_INVESTIGATION
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6145.ts
-#EXTINF:-1,UK: DISCOVERY_SCIENCE
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6144.ts
-#EXTINF:-1,UK: Discovery_Shed
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6143.ts
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6075.ts
-#EXTINF:-1,UK: Disney_XD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6142.ts
-#EXTINF:-1,UK_More_4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6120.ts
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2152.ts
+#EXTINF:-1,UK: VH1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2153.ts
+#EXTINF:-1,UK: True Movies 2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1447.ts
+#EXTINF:-1,UK: True Movies 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1446.ts
+#EXTINF:-1,UK: CBS REALITY
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3082.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3081.ts
+#EXTINF:-1,UK: Mototrs TV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2155.ts
+#EXTINF:-1,UK: TLC
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2156.ts
+#EXTINF:-1,UK: Watch
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3087.ts
+#EXTINF:-1,UK: Quest
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3089.ts
+#EXTINF:-1,UK: mov4men1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3096.ts
+#EXTINF:-1,UK: BABY TV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/4986.ts
+#EXTINF:-1,UK: AMC
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/4985.ts
+#EXTINF:-1,UK: Home
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3090.ts
+#EXTINF:-1,UK: Gold iptvsource_com
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3091.ts
+#EXTINF:-1,UK: Food
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3093.ts
+#EXTINF:-1,UK: Film 4 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3095.ts
+#EXTINF:-1,UK: Drama
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3092.ts
+#EXTINF:-1,UK: Dave HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3088.ts
+#EXTINF:-1,UK: Channel 5
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3085.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3084.ts
+#EXTINF:-1,UK: At The Races
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3097.ts
+#EXTINF:-1,UK: Alibi
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3094.ts
+#EXTINF:-1,UK: 5 Usa
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3086.ts
+#EXTINF:-1,UK: 3E
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/3083.ts
+#EXTINF:-1,UK: TCM 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2158.ts
+#EXTINF:-1,UK: Sky Syfy
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2159.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/825.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/826.ts
+#EXTINF:-1,UK: Sky Movies Scifi / Horror
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1442.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1440.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1439.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/830.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/831.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1435.ts
+#EXTINF:-1,UK: TG4 iptvsource-com
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2739.ts
+#EXTINF:-1,UK: Sony TV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2747.ts
+#EXTINF:-1,UK: Sky Thriller
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2750.ts
+#EXTINF:-1,UK: SkySuperhero
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2751.ts
+#EXTINF:-1,UK:  Sky Movies Showcase
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2752.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2753.ts
+#EXTINF:-1,UK: SkyScFi/Horror
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2754.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2755.ts
+#EXTINF:-1,UK: SetantaIreland
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2743.ts
+#EXTINF:-1,UK: RTEjr
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2740.ts
+#EXTINF:-1,UK: RTE2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2741.ts
+#EXTINF:-1,UK: RTE1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2742.ts
+#EXTINF:-1,UK: BTSport//ESPN
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2746.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1434.ts
+#EXTINF:-1,UK: Nickelodeon
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2240.ts
+#EXTINF:-1,UK: Nick-Jr-Too
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2242.ts
+#EXTINF:-1,UK: Nick Junior
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2241.ts
+#EXTINF:-1,UK: National Geographic
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1448.ts
+#EXTINF:-1,UK: Nat Geografic
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1940.ts
+#EXTINF:-1,UK: BT Sport Extra 3 iptvsource-com
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7822.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7823.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7824.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7825.ts
+#EXTINF:-1,UK: BT Sport//ESPN
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7826.ts
+#EXTINF:-1,UK: eir Sport 1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7827.ts
+#EXTINF:-1,UK: Get Lucky TV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7831.ts
+#EXTINF:-1,UK: Nicktoons
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7829.ts
+#EXTINF:-1,UK: Pick
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7830.ts
+#EXTINF:-1,UK: eir Sport 2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/7828.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1941.ts
+#EXTINF:-1,UK: MORE4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2161.ts
+#EXTINF:-1,UK: ITVBE
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2163.ts
+#EXTINF:-1,UK: ITV4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2164.ts
+#EXTINF:-1,UK: ITV3
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2165.ts
+#EXTINF:-1,UK: ITV2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2166.ts
+#EXTINF:-1,UK: ITV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2167.ts
+#EXTINF:-1,UK: HISTORY2
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2168.ts
+#EXTINF:-1,UK: FOX SPORTS
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2169.ts
+#EXTINF:-1,UK: MTV Classic
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2955.ts
+#EXTINF:-1,UK: MTV Base
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2956.ts
 #EXTINF:-1,UK: MTV
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6119.ts
-#EXTINF:-1,UK: MTV_Base
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6118.ts
-#EXTINF:-1,UK: MTV_Classic
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6117.ts
-#EXTINF:-1,UK: MTV_Dance
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6116.ts
-#EXTINF:-1,UK: MTV_Hits
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6115.ts
-#EXTINF:-1,UK: MTV_Music
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6114.ts
-#EXTINF:-1,UK: MTV_Rocks
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6113.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6073.ts
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC CHANNEL
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6072.ts
-#EXTINF:-1,UK: NICKTOONS
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6071.ts
-#EXTINF:-1,UK: NICK_JUNIOR
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6112.ts
-#EXTINF:-1,UK: NICK_JUNIOR_Too
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6111.ts
-#EXTINF:-1,UK: Premier_Sports
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6110.ts
-#EXTINF:-1,UK: RACING_UK
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6109.ts
-#EXTINF:-1,UK: Setanta_Sports
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6107.ts
-#EXTINF:-1,UK: SKY NEWS HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6070.ts
-#EXTINF:-1,UK: Sky_BT_Sport_1_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6105.ts
-#EXTINF:-1,UK: Sky_BT_SPORT_EUROPE_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6103.ts
-#EXTINF:-1,UK: Sky_BT_Sport_Extra_HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6102.ts
-#EXTINF:-1,UK: Sky_BT_Sport_SPPN
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6101.ts
-#EXTINF:-1,UK: Sky_MUTV
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6090.ts
-#EXTINF:-1,UK: VH-1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6081.ts
-#EXTINF:-1,UK: VH1_Classic
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/6080.ts
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/8659.ts
-#EXTINF:-1,AR: VIP BeIN sport 1 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4652.ts
-#EXTINF:-1,AR: VIP Bein Sports 2 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4653.ts
-#EXTINF:-1,AR: VIP Bein Sports 3 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4654.ts
-#EXTINF:-1,AR: VIP Bein Sports 4 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4655.ts
-#EXTINF:-1,AR: VIP Bein Sports 5 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4656.ts
-#EXTINF:-1,AR: VIP Bein Sports 6 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4657.ts
-#EXTINF:-1,AR: VIP Bein Sports 7 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4658.ts
-#EXTINF:-1,AR: VIP Bein Sports 8 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4659.ts
-#EXTINF:-1,AR: VIP Bein Sports 9 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4660.ts
-#EXTINF:-1,AR: VIP Bein Sports 10 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4661.ts
-#EXTINF:-1,AR: Bein Sport_ HD1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1394.ts
-#EXTINF:-1,AR: Bein Sport_HD2
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1395.ts
-#EXTINF:-1,AR: Bein Sport_ HD3
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1396.ts
-#EXTINF:-1,AR: Bein Sport_ HD4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1397.ts
-#EXTINF:-1,AR: Bein Sport_ HD5
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1398.ts
-#EXTINF:-1,AR: Bein Sport_ HD6
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1399.ts
-#EXTINF:-1,AR: Bein Sport_ HD7
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1400.ts
-#EXTINF:-1,AR: Bein Sport_ HD8
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1401.ts
-#EXTINF:-1,AR: Bein Sport_ HD 9
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1402.ts
-#EXTINF:-1,AR: Bein Sport_ HD 10
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1403.ts
-#EXTINF:-1,AR: VIP Bein Sports 11 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1404.ts
-#EXTINF:-1,AR: VIP Bein Sports 12 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/1405.ts
-#EXTINF:-1,AR: beIN Sports _HD 1
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/4770.ts
-#EXTINF:-1,AR: beIN Sports _HD 2
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/15.ts
-#EXTINF:-1,AR: beIN Sports _HD 3
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/16.ts
-#EXTINF:-1,AR: beIN Sports _HD 4
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/17.ts
-#EXTINF:-1,AR: beIN Sports _HD 5
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/18.ts
-#EXTINF:-1,AR: beIN Sports _HD 6
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/19.ts
-#EXTINF:-1,AR: beIN Sports _HD 7
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/20.ts
-#EXTINF:-1,AR: beIN Sports _HD 8
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/21.ts
-#EXTINF:-1,AR: bein Sports _9HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/22.ts
-#EXTINF:-1,AR: beIN Sports  HD 10
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/23.ts
-#EXTINF:-1,AR: beIN Sports  HD 11
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/25.ts
-#EXTINF:-1,AR: beIN Sports 12HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/24.ts
-#EXTINF:-1,US: ABC HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12541.ts
-#EXTINF:-1,US: ABC News HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12540.ts
-#EXTINF:-1,US: AFN MOVIE
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12539.ts
-#EXTINF:-1,US: AFN PULSE
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12538.ts
-#EXTINF:-1,US: AFN SPORTS
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12537.ts
-#EXTINF:-1,US: AFN SPORTS 2
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12536.ts
-#EXTINF:-1,US: Amazing Facts TV
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12535.ts
-#EXTINF:-1,US: Weather Channel
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12430.ts
-#EXTINF:-1,US: WGN News Chicago
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12429.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12428.ts
-#EXTINF:-1,US: World Fashion HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12427.ts
-#EXTINF:-1,US: WWE
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12426.ts
-#EXTINF:-1,US: WXYZ TV
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12425.ts
-#EXTINF:-1,Al - Khirba series - the first episode
-https://youtu.be/u7yonlyDHdI
-#EXTINF:-1,USA: ABC
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12608.ts
-#EXTINF:-1,USA: Action Max HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12566.ts
-#EXTINF:-1,USA: Animal Planet
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12607.ts
-#EXTINF:-1,USA: Bein Sports
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12565.ts
-#EXTINF:-1,USA: Bloomberg
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12606.ts
-#EXTINF:-1,USA: CAN: TSN 1 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12572.ts
-#EXTINF:-1,USA: CAN: TSN 2 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12571.ts
-#EXTINF:-1,USA: CAN: TSN 3 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12570.ts
-#EXTINF:-1,USA: CAN: TSN 4 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12569.ts
-#EXTINF:-1,USA: CAN: TSN 5 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12568.ts
-#EXTINF:-1,USA: Cartoon Network
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12605.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12585.ts
-#EXTINF:-1,USA: Cinemax HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12612.ts
-#EXTINF:-1,USA: CNBC
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12611.ts
-#EXTINF:-1,USA: Comedy Central
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12576.ts
-#EXTINF:-1,USA: Discovery HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12610.ts
-#EXTINF:-1,USA: E!
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12604.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12593.ts
-#EXTINF:-1,USA: ESPN News HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12592.ts
-#EXTINF:-1,USA: ESPN U HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12591.ts
-#EXTINF:-1,USA: ESPN USA HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12590.ts
-#EXTINF:-1,USA: Fight Network
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12584.ts
-#EXTINF:-1,USA: Fox HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12575.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12589.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12588.ts
-#EXTINF:-1,USA: Fox Sports South
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12567.ts
-#EXTINF:-1,USA: Fox Sports West
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12557.ts
-#EXTINF:-1,USA: FX
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12564.ts
-#EXTINF:-1,USA: FXX
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12563.ts
-#EXTINF:-1,USA: Golf HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12583.ts
-#EXTINF:-1,USA: HBO Comedy
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12562.ts
-#EXTINF:-1,USA: HBO Signature
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12561.ts
-#EXTINF:-1,USA: HBO Zone
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12560.ts
-#EXTINF:-1,USA: HGTV
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12609.ts
-#EXTINF:-1,USA: Investigation Discovery HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12559.ts
-#EXTINF:-1,USA: Ion Television
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12553.ts
-#EXTINF:-1,USA: MLB Network HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12554.ts
-#EXTINF:-1,USA: MoreMax HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12558.ts
-#EXTINF:-1,USA: NBA HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12587.ts
-#EXTINF:-1,USA: NBC
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12574.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12595.ts
-#EXTINF:-1,USA: NFL Channel HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12586.ts
-#EXTINF:-1,USA: NHL Network HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12582.ts
-#EXTINF:-1,USA: Nickelodeon HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12603.ts
-#EXTINF:-1,USA: PAC-12 Arizona HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12552.ts
-#EXTINF:-1,USA: PAC-12 Bay Area HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12551.ts
-#EXTINF:-1,USA: PAC-12 Los Angeles HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12550.ts
-#EXTINF:-1,USA: PAC-12 Mountain HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12549.ts
-#EXTINF:-1,USA: PAC-12 Oregon HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12548.ts
-#EXTINF:-1,USA: PAC-12 Washington HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12547.ts
-#EXTINF:-1,USA: Sports Net 360 HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12579.ts
-#EXTINF:-1,USA: Sports Net One HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12573.ts
-#EXTINF:-1,USA: Sports Net Ontario HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12578.ts
-#EXTINF:-1,USA: Sports Net Pacific HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12546.ts
-#EXTINF:-1,USA: Sports Net West HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12545.ts
-#EXTINF:-1,USA: Sports Net World HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12577.ts
-#EXTINF:-1,USA: Starz HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12556.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12581.ts
-#EXTINF:-1,USA: TNT HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12594.ts
-#EXTINF:-1,USA: USA NETWORK HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12555.ts
-#EXTINF:-1,USA: USA: A&E
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12602.ts
-#EXTINF:-1,USA: USA: ABC News
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12601.ts
-#EXTINF:-1,USA: USA: ESPN Deportes
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12600.ts
-#EXTINF:-1,USA: USA: TLC HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12599.ts
-#EXTINF:-1,USA: USA: Univision Deportes
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12598.ts
-#EXTINF:-1,USA: USA: Willow Cricket HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12597.ts
-#EXTINF:-1,USA: Viceland
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12596.ts
-#EXTINF:-1,USA: WWE Network HD
-http://worldiptv.one:25461/live/cviptvskype/naOUhtajTY/12580.ts
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2957.ts
+#EXTINF:-1,UK: SKY LIVING
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2958.ts
+#EXTINF:-1,UK: Film 4 UK
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/834.ts
+#EXTINF:-1,UK: FILM 4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2170.ts
+#EXTINF:-1,UK: F1
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2171.ts
+#EXTINF:-1,UK: E4
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2172.ts
+#EXTINF:-1,UK: CARTOON NETWORK
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/5656.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/5655.ts
+#EXTINF:-1,UK: MUTV
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/5654.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1936.ts
+#EXTINF:-1,UK: Discovery Science
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1937.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1938.ts
+#EXTINF:-1,UK: Discovery History
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1939.ts
+#EXTINF:-1,SPORTS | CTH Stadium 6
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1690.ts
+#EXTINF:-1,Adult S FULL HD 15
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/4832.ts
+#EXTINF:-1,UK: Discovery Channel
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1935.ts
+#EXTINF:-1,UK: Animal Planet
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/1942.ts
+#EXTINF:-1,UK:  DISNEY XD
+http://orbit-iptv.com:2500/live/ydgzMBQyhl/zEIgubZqLP/2173.ts
+#EXTINF:-1,UK:MTV ROCKS
+http://192.99.47.130:8000/live/stalker/stalker/345.ts
+#EXTINF:-1,UK:MTV MUSIC
+http://192.99.47.130:8000/live/stalker/stalker/344.ts
+#EXTINF:-1,UK:MTV HITS
+http://192.99.47.130:8000/live/stalker/stalker/343.ts
+#EXTINF:-1,UK:MTV DANCE
+http://192.99.47.130:8000/live/stalker/stalker/342.ts
+#EXTINF:-1,UK:MTV CLASSIC
+http://192.99.47.130:8000/live/stalker/stalker/341.ts
+#EXTINF:-1,UK:MTV BASE
+http://192.99.47.130:8000/live/stalker/stalker/340.ts
+#EXTINF:-1,UK:SPORT F1
+http://192.99.47.130:8000/live/stalker/stalker/435.ts
+#EXTINF:-1,UK:SPORT 3
+http://192.99.47.130:8000/live/stalker/stalker/432.ts
+#EXTINF:-1,UK:SONY TV
+http://192.99.47.130:8000/live/stalker/stalker/423.ts
+#EXTINF:-1,UK:SKY SPORT MIX
+http://192.99.47.130:8000/live/stalker/stalker/430.ts
+#EXTINF:-1,UK:SKY SPORT 5
+http://192.99.47.130:8000/live/stalker/stalker/434.ts
+#EXTINF:-1,UK:SKY SPORT 4
+http://192.99.47.130:8000/live/stalker/stalker/433.ts
+#EXTINF:-1,UK:SKY SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/431.ts
+#EXTINF:-1,UK:SKY SPORT 1
+http://192.99.47.130:8000/live/stalker/stalker/429.ts
+#EXTINF:-1,UK:SKY NEWS
+http://192.99.47.130:8000/live/stalker/stalker/425.ts
+#EXTINF:-1,UK:SKY BOX EVENTS
+http://192.99.47.130:8000/live/stalker/stalker/440.ts
+#EXTINF:-1,UK:HORROR CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/422.ts
+#EXTINF:-1,UK:FOX
+http://192.99.47.130:8000/live/stalker/stalker/451.ts
+#EXTINF:-1,UK:EURO SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/438.ts
+#EXTINF:-1,UK:EURO SPORT 1
+http://192.99.47.130:8000/live/stalker/stalker/437.ts
+#EXTINF:-1,UK:CBEEBIS
+http://192.99.47.130:8000/live/stalker/stalker/420.ts
+#EXTINF:-1,UK:BOOMERANG
+http://192.99.47.130:8000/live/stalker/stalker/421.ts
+#EXTINF:-1,UK:BLOOMBERG
+http://192.99.47.130:8000/live/stalker/stalker/428.ts
+#EXTINF:-1,UK:BBC NEWS
+http://192.99.47.130:8000/live/stalker/stalker/426.ts
+#EXTINF:-1,UK:AT THE RACES
+http://192.99.47.130:8000/live/stalker/stalker/439.ts
+#EXTINF:-1,UK: PREMIERE SPORT
+http://192.99.47.130:8000/live/stalker/stalker/436.ts
+#EXTINF:-1,UK:TCM
+http://192.99.47.130:8000/live/stalker/stalker/333.ts
+#EXTINF:-1,UK:SYFY
+http://192.99.47.130:8000/live/stalker/stalker/331.ts
+#EXTINF:-1,UK:SONY MOVIES
+http://192.99.47.130:8000/live/stalker/stalker/332.ts
+#EXTINF:-1,uk:sky living
+http://192.99.47.130:8000/live/stalker/stalker/350.ts
+#EXTINF:-1,uk:real lives
+http://192.99.47.130:8000/live/stalker/stalker/349.ts
+#EXTINF:-1,UK:NICK JR TOO
+http://192.99.47.130:8000/live/stalker/stalker/348.ts
+#EXTINF:-1,UK:NATIONAL WILD OESTE
+http://192.99.47.130:8000/live/stalker/stalker/346.ts
+#EXTINF:-1,uk:national geography OESTE
+http://192.99.47.130:8000/live/stalker/stalker/347.ts
+#EXTINF:-1,UK:MOVIES PREMIERS
+http://192.99.47.130:8000/live/stalker/stalker/339.ts
+#EXTINF:-1,UK:MOVIES TRILLER
+http://192.99.47.130:8000/live/stalker/stalker/351.ts
+#EXTINF:-1,UK:MOVIES SYFY
+http://192.99.47.130:8000/live/stalker/stalker/354.ts
+#EXTINF:-1,UK:MOVIES SHOWCASE
+http://192.99.47.130:8000/live/stalker/stalker/352.ts
+#EXTINF:-1,UK:MOVIES SELECT
+http://192.99.47.130:8000/live/stalker/stalker/353.ts
+#EXTINF:-1,UK:MOVIES FAMILY
+http://192.99.47.130:8000/live/stalker/stalker/355.ts
+#EXTINF:-1,UK:MOVIES DISNEY
+http://192.99.47.130:8000/live/stalker/stalker/358.ts
+#EXTINF:-1,UK:MOVIES COMEDY
+http://192.99.47.130:8000/live/stalker/stalker/357.ts
+#EXTINF:-1,UK:MOVIES ACTION
+http://192.99.47.130:8000/live/stalker/stalker/356.ts
+#EXTINF:-1,UK:MOTOR TV
+http://192.99.47.130:8000/live/stalker/stalker/338.ts
+#EXTINF:-1,UK:ID INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/337.ts
+#EXTINF:-1,UK:HOME AND HEALTH
+http://192.99.47.130:8000/live/stalker/stalker/336.ts
+#EXTINF:-1,UK:HEAT TV
+http://192.99.47.130:8000/live/stalker/stalker/334.ts
+#EXTINF:-1,UK:E!
+http://192.99.47.130:8000/live/stalker/stalker/329.ts
+#EXTINF:-1,UK:DISNEY XD
+http://192.99.47.130:8000/live/stalker/stalker/328.ts
+#EXTINF:-1,UK:DISNEY JUNIOR
+http://192.99.47.130:8000/live/stalker/stalker/327.ts
+#EXTINF:-1,UK:DISCOVERY TURBO
+http://192.99.47.130:8000/live/stalker/stalker/326.ts
+#EXTINF:-1,UK:DISCOVERY SCIENCIE
+http://192.99.47.130:8000/live/stalker/stalker/325.ts
+#EXTINF:-1,UK:DISCOVERY HISTORY
+http://192.99.47.130:8000/live/stalker/stalker/324.ts
+#EXTINF:-1,UK:DISCOVERY
+http://192.99.47.130:8000/live/stalker/stalker/323.ts
+#EXTINF:-1,UK:CRIME AND INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/322.ts
+#EXTINF:-1,UK:COMEDY CENTRAL
+http://192.99.47.130:8000/live/stalker/stalker/321.ts
+#EXTINF:-1,UK:CNN INTERNATIONAL
+http://192.99.47.130:8000/live/stalker/stalker/320.ts
+#EXTINF:-1,UK:BT SPORT 3
+http://192.99.47.130:8000/live/stalker/stalker/318.ts
+#EXTINF:-1,UK:BT SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/317.ts
+#EXTINF:-1,UK:BT SPORT
+http://192.99.47.130:8000/live/stalker/stalker/316.ts
+#EXTINF:-1,uk:BT ESPN
+http://192.99.47.130:8000/live/stalker/stalker/319.ts
+#EXTINF:-1,UK:BOXNATION
+http://192.99.47.130:8000/live/stalker/stalker/315.ts
+#EXTINF:-1,UK:BABY TV
+http://192.99.47.130:8000/live/stalker/stalker/314.ts
+#EXTINF:-1,UK:ANIMAL PLANET OESTE
+http://192.99.47.130:8000/live/stalker/stalker/313.ts
+#EXTINF:-1,UK:ABC NEWS
+http://192.99.47.130:8000/live/stalker/stalker/665.ts
+#EXTINF:-1,UK:FOX NEWS
+http://192.99.47.130:8000/live/stalker/stalker/664.ts
+#EXTINF:-1,UK:golf
+http://192.99.47.130:8000/live/stalker/stalker/671.ts
+#EXTINF:-1,USA:FOX SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/12.ts
+#EXTINF:-1,USA:FOX SPORT 1
+http://192.99.47.130:8000/live/stalker/stalker/11.ts
+#EXTINF:-1,USA:ESPN2
+http://192.99.47.130:8000/live/stalker/stalker/8.ts
+#EXTINF:-1,USA:ESPN NEWS
+http://192.99.47.130:8000/live/stalker/stalker/10.ts
+#EXTINF:-1,USA:WE
+http://192.99.47.130:8000/live/stalker/stalker/9.ts
+#EXTINF:-1,USA:DISCOVERY SCIENCIE
+http://192.99.47.130:8000/live/stalker/stalker/21.ts
+#EXTINF:-1,USA:CNBC
+http://192.99.47.130:8000/live/stalker/stalker/285.ts
+#EXTINF:-1,USA:ANIMAL PLANET
+http://192.99.47.130:8000/live/stalker/stalker/36.ts
+#EXTINF:-1,USA:TRAVEL CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/330.ts
+#EXTINF:-1,USA:CW
+http://192.99.47.130:8000/live/stalker/stalker/597.ts
+#EXTINF:-1,USA:ENCORE WESTERN
+http://192.99.47.130:8000/live/stalker/stalker/553.ts
+#EXTINF:-1,USA:ENCORE SUSPENSO
+http://192.99.47.130:8000/live/stalker/stalker/551.ts
+#EXTINF:-1,USA:TRU TV
+http://192.99.47.130:8000/live/stalker/stalker/547.ts
+#EXTINF:-1,USA:MSNBC
+http://192.99.47.130:8000/live/stalker/stalker/548.ts
+#EXTINF:-1,USA:FYI
+http://192.99.47.130:8000/live/stalker/stalker/549.ts
+#EXTINF:-1,USA:NBA PASS 6
+http://192.99.47.130:8000/live/stalker/stalker/540.ts
+#EXTINF:-1,USA:NBA PASS 5
+http://192.99.47.130:8000/live/stalker/stalker/539.ts
+#EXTINF:-1,USA:NBA PASS 4
+http://192.99.47.130:8000/live/stalker/stalker/538.ts
+#EXTINF:-1,USA:NBA PASS 3
+http://192.99.47.130:8000/live/stalker/stalker/537.ts
+#EXTINF:-1,USA:NBA PASS 2
+http://192.99.47.130:8000/live/stalker/stalker/536.ts
+#EXTINF:-1,USA:NBA PASS
+http://192.99.47.130:8000/live/stalker/stalker/535.ts
+#EXTINF:-1,usa:spectrum deportes
+http://192.99.47.130:8000/live/stalker/stalker/531.ts
+#EXTINF:-1,USA:LMN
+http://192.99.47.130:8000/live/stalker/stalker/529.ts
+#EXTINF:-1,PR:WEATHER CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/528.ts
+#EXTINF:-1,USA:FOX SPORT NORTH
+http://192.99.47.130:8000/live/stalker/stalker/527.ts
+#EXTINF:-1,usa:fox news
+http://192.99.47.130:8000/live/stalker/stalker/511.ts
+#EXTINF:-1,USA:SPORT NET NUEVA YORK
+http://192.99.47.130:8000/live/stalker/stalker/454.ts
+#EXTINF:-1,USA:YES CHANNEL
+http://192.99.47.130:8000/live/stalker/stalker/29.ts
+#EXTINF:-1,USA:VICELAND
+http://192.99.47.130:8000/live/stalker/stalker/30.ts
+#EXTINF:-1,USA:UNIMAX ESTE
+http://192.99.47.130:8000/live/stalker/stalker/25.ts
+#EXTINF:-1,USA:TSN5
+http://192.99.47.130:8000/live/stalker/stalker/307.ts
+#EXTINF:-1,USA:TSN4
+http://192.99.47.130:8000/live/stalker/stalker/306.ts
+#EXTINF:-1,USA:TSN3
+http://192.99.47.130:8000/live/stalker/stalker/305.ts
+#EXTINF:-1,USA:TSN2
+http://192.99.47.130:8000/live/stalker/stalker/304.ts
+#EXTINF:-1,USA:TSN1
+http://192.99.47.130:8000/live/stalker/stalker/303.ts
+#EXTINF:-1,USA:TLC
+http://192.99.47.130:8000/live/stalker/stalker/24.ts
+#EXTINF:-1,USA:STARZ BLACK
+http://192.99.47.130:8000/live/stalker/stalker/22.ts
+#EXTINF:-1,USA:SPORT NET WORLD
+http://192.99.47.130:8000/live/stalker/stalker/294.ts
+#EXTINF:-1,USA:NFL
+http://192.99.47.130:8000/live/stalker/stalker/302.ts
+#EXTINF:-1,USA:NESN
+http://192.99.47.130:8000/live/stalker/stalker/19.ts
+#EXTINF:-1,USA:NBC UNIVERSO
+http://192.99.47.130:8000/live/stalker/stalker/18.ts
+#EXTINF:-1,USA:NATIONAL WILD
+http://192.99.47.130:8000/live/stalker/stalker/26.ts
+#EXTINF:-1,USA:national geography
+http://192.99.47.130:8000/live/stalker/stalker/17.ts
+#EXTINF:-1,USA:MSG:NY
+http://192.99.47.130:8000/live/stalker/stalker/32.ts
+#EXTINF:-1,USA:ID INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/33.ts
+#EXTINF:-1,USA:HISTORY
+http://192.99.47.130:8000/live/stalker/stalker/34.ts
+#EXTINF:-1,USA:HBO SIGNATURE
+http://192.99.47.130:8000/live/stalker/stalker/28.ts
+#EXTINF:-1,USA:HBO LATINO
+http://192.99.47.130:8000/live/stalker/stalker/27.ts
+#EXTINF:-1,USA:H2
+http://192.99.47.130:8000/live/stalker/stalker/267.ts
