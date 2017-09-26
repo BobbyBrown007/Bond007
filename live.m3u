@@ -1,579 +1,3992 @@
 #EXTM3U 
 #EXTINF:-1,####ENGLAND#####
 #EXTM3U
-#EXTINF:-1,. A&E HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/25583.ts
-#EXTINF:-1,. ABC HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/7383.ts
-#EXTINF:-1,. Animal Planet HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8905.ts
-#EXTINF:-1,. BEIN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6143.ts
-#EXTINF:-1,. Big Ten Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1746.ts
-#EXTINF:-1,. Boomerang HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8907.ts
-#EXTINF:-1,. Bravo HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8908.ts
-#EXTINF:-1,. Cartoon Network USA HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/482.ts
-#EXTINF:-1,. CBS HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/484.ts
-#EXTINF:-1,. CBS Sports Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8210.ts
-#EXTINF:-1,. Cinemax HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6139.ts
-#EXTINF:-1,. Cinemax Moremax HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/524.ts
-#EXTINF:-1,. Cinemax Thrillermax HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8208.ts
-#EXTINF:-1,. CMT HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8909.ts
-#EXTINF:-1,. CNN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8910.ts
-#EXTINF:-1,. Comedy Central HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1683.ts
-#EXTINF:-1,. Crime & Investigation HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8378.ts
-#EXTINF:-1,. CW HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8018.ts
-#EXTINF:-1,. Discovery HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/24675.ts
-#EXTINF:-1,. Discovery Family HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1745.ts
-#EXTINF:-1,. Discovery Science HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8209.ts
-#EXTINF:-1,. Disney HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6140.ts
-#EXTINF:-1,. Disney Jr. HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8191.ts
-#EXTINF:-1,. Disney XD HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/25587.ts
-#EXTINF:-1,. DIY HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6226.ts
-#EXTINF:-1,. E! HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8915.ts
-#EXTINF:-1,. El Rey Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6557.ts
-#EXTINF:-1,. EPIX HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8347.ts
-#EXTINF:-1,. EPIX2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8628.ts
-#EXTINF:-1,. ESPN
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35502.ts
-#EXTINF:-1,. ESPN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1645.ts
-#EXTINF:-1,. ESPN2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/5426.ts
-#EXTINF:-1,. ESPNDeportes HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/30563.ts
-#EXTINF:-1,. Food Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8916.ts
-#EXTINF:-1,. Fox News HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8917.ts
-#EXTINF:-1,. FOX Business Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8203.ts
-#EXTINF:-1,. FOX HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/9137.ts
-#EXTINF:-1,. Fox Sports 1 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/879.ts
-#EXTINF:-1,. Fox Sports 2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8918.ts
-#EXTINF:-1,. FreeForm HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1744.ts
-#EXTINF:-1,. FX HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/937.ts
-#EXTINF:-1,. FXX HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8156.ts
-#EXTINF:-1,. GSN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/7607.ts
-#EXTINF:-1,. Hallmark HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/906.ts
-#EXTINF:-1,. Hallmark Movies&Mysteries HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8920.ts
-#EXTINF:-1,. HBO HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/25586.ts
-#EXTINF:-1,. HBO2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8629.ts
-#EXTINF:-1,. HBOComedy HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/9138.ts
-#EXTINF:-1,. HBOFamily HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8507.ts
-#EXTINF:-1,. HBOSignature HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8664.ts
-#EXTINF:-1,. HBOZone HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8665.ts
-#EXTINF:-1,. HGTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8943.ts
-#EXTINF:-1,. History HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/6141.ts
-#EXTINF:-1,. ID HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8921.ts
-#EXTINF:-1,. IFC HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8922.ts
-#EXTINF:-1,. Lifetime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8923.ts
-#EXTINF:-1,. LMN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8924.ts
-#EXTINF:-1,. MSNBC HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8421.ts
-#EXTINF:-1,. MTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8926.ts
-#EXTINF:-1,. MTVLive HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8505.ts
-#EXTINF:-1,. NatGeo HD USA
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8927.ts
-#EXTINF:-1,. Nat Geo Wild HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8928.ts
-#EXTINF:-1,. Nick HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/938.ts
-#EXTINF:-1,. Nick Jr. HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8288.ts
-#EXTINF:-1,. Nicktoons HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8420.ts
-#EXTINF:-1,. NBC HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8020.ts
-#EXTINF:-1,. NBCSN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1785.ts
-#EXTINF:-1,. OWN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/531.ts
-#EXTINF:-1,. SEC Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8157.ts
-#EXTINF:-1,. Showtime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/25581.ts
-#EXTINF:-1,. Showtime2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35500.ts
-#EXTINF:-1,. ShowtimeFamily Zone HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8666.ts
-#EXTINF:-1,. Spike HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/24678.ts
-#EXTINF:-1,. Sportsman HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35507.ts
-#EXTINF:-1,. Sprout HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/7606.ts
-#EXTINF:-1,. Sundance HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8630.ts
-#EXTINF:-1,. SyFy HD USA
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8930.ts
-#EXTINF:-1,. TBS HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/849.ts
-#EXTINF:-1,. Tennis HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8192.ts
-#EXTINF:-1,. TNT HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8932.ts
-#EXTINF:-1,. Travel Channel HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8935.ts
-#EXTINF:-1,. TruTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1646.ts
-#EXTINF:-1,. Universal HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8190.ts
-#EXTINF:-1,. Velocity HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8188.ts
-#EXTINF:-1,. VH1 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8944.ts
-#EXTINF:-1,. WE HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/8939.ts
-#EXTINF:-1,. WWE
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33286.ts
-#EXTINF:-1,. WWE HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/26301.ts
-#EXTINF:-1,NHL02: Pittsburgh @ Nashville 8:00 PM ET
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34484.ts
-#EXTINF:-1,|CA| ABC Spark HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33979.ts
-#EXTINF:-1,|CA| CHARD HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33983.ts
-#EXTINF:-1,|CA| Comedy HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33997.ts
-#EXTINF:-1,|CA| Cooking HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33996.ts
-#EXTINF:-1,|CA| Disney Channel West HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34000.ts
-#EXTINF:-1,|CA| FS2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33984.ts
-#EXTINF:-1,|CA| GOLF HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34007.ts
-#EXTINF:-1,|CA| HGTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33982.ts
-#EXTINF:-1,|CA| History HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33980.ts
-#EXTINF:-1,|CA| K HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33985.ts
-#EXTINF:-1,|CA| Lifetime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33991.ts
-#EXTINF:-1,|CA| MovieTime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33992.ts
-#EXTINF:-1,|CA| Nat Geo HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33987.ts
-#EXTINF:-1,|CA| Nat Geo Wild HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33986.ts
-#EXTINF:-1,|CA| RDI HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33998.ts
-#EXTINF:-1,|CA| Showcase HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33981.ts
-#EXTINF:-1,|CA| Slice HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33988.ts
-#EXTINF:-1,|CA| SuperChannel 2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33995.ts
-#EXTINF:-1,|CA| TMN 1E HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33993.ts
-#EXTINF:-1,|CA| TMN 4E/1W HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33994.ts
-#EXTINF:-1,|CA| TWN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33999.ts
-#EXTINF:-1,|CA| AMI
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34912.ts
-#EXTINF:-1,|CA| Animal Planet HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34908.ts
-#EXTINF:-1,|CA| AUX
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34913.ts
-#EXTINF:-1,|CA| BNN HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34911.ts
-#EXTINF:-1,|CA| Book Television
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34915.ts
-#EXTINF:-1,CA Bravo HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33974.ts
-#EXTINF:-1,|CA| CBS SPORTS HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34909.ts
-#EXTINF:-1,|CA| CMT
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34916.ts
-#EXTINF:-1,|CA| Cpac
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34917.ts
-#EXTINF:-1,|CA| Crime Investigation
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34947.ts
-#EXTINF:-1,|CA| CTV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34918.ts
-#EXTINF:-1,|CA| Documentary Channel HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34923.ts
-#EXTINF:-1,|CA| Discovery HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34910.ts
-#EXTINF:-1,|CA| Discovery Science
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34921.ts
-#EXTINF:-1,|CA| DISNEY HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34926.ts
-#EXTINF:-1,|CA| DIY
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34922.ts
-#EXTINF:-1,|CA| Deja View
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34919.ts
-#EXTINF:-1,|CA| DTOUR HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34924.ts
-#EXTINF:-1,|CA| ESPN Classic
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34925.ts
-#EXTINF:-1,|CA| Food Network HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33976.ts
-#EXTINF:-1,|CA| FX HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34928.ts
-#EXTINF:-1,|CA| FYI
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34929.ts
-#EXTINF:-1,|CA| G4
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34930.ts
-#EXTINF:-1,|CA| Gusto
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34951.ts
-#EXTINF:-1,|CA| ICI HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34940.ts
-#EXTINF:-1,|CA| IFC
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34960.ts
-#EXTINF:-1,|CA| K:HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34961.ts
-#EXTINF:-1,|CA| Lifetime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34952.ts
-#EXTINF:-1,|CA| MovieTime HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34953.ts
-#EXTINF:-1,|CA| MTV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34950.ts
-#EXTINF:-1,|CA| MTV2
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34949.ts
-#EXTINF:-1,|CA| MUCH
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34948.ts
-#EXTINF:-1,|CA| NatGeo HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34945.ts
-#EXTINF:-1,|CA| NatGeo Wild HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34946.ts
-#EXTINF:-1,|CA| NBA TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34944.ts
-#EXTINF:-1,|CA| Nick
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34943.ts
-#EXTINF:-1,|CA| OLN
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34942.ts
-#EXTINF:-1,|CA| OWN
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34941.ts
-#EXTINF:-1,|CA| ShowCase HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34939.ts
-#EXTINF:-1,|CA| Telemundo
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34927.ts
-#EXTINF:-1,|CA| TV Encore
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34962.ts
-#EXTINF:-1,|CA| Viceland
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34914.ts
-#EXTINF:-1,|CA| YTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33975.ts
-#EXTINF:-1,|CA| A&E HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35110.ts
-#EXTINF:-1,|CA| Cartoon Network
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35131.ts
-#EXTINF:-1,|CA| City HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35127.ts
-#EXTINF:-1,|CA| CNBC
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35111.ts
-#EXTINF:-1,|CA| CTV HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35126.ts
-#EXTINF:-1,|CA| Disney JR
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35130.ts
-#EXTINF:-1,|CA| Fishing
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35107.ts
-#EXTINF:-1,|CA| Game tv
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35123.ts
-#EXTINF:-1,|CA| Global HD BC
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35125.ts
-#EXTINF:-1,|CA| HD ??????????
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35113.ts
-#EXTINF:-1,|CA| HIFI HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35112.ts
-#EXTINF:-1,|CA| ID HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35109.ts
-#EXTINF:-1,|CA| Love Nature HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35115.ts
-#EXTINF:-1,|CA| MSNBC
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35114.ts
-#EXTINF:-1,|CA| Omni
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35128.ts
-#EXTINF:-1,|CA| Omni2 HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35121.ts
-#EXTINF:-1,|CA| Onmi HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35120.ts
-#EXTINF:-1,|CA| Slice HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34938.ts
-#EXTINF:-1,|CA| Smithsonian HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35116.ts
-#EXTINF:-1,|CA| Sundance
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35117.ts
-#EXTINF:-1,|CA| TTV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35129.ts
-#EXTINF:-1,|CA| TVA HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35118.ts
-#EXTINF:-1,|CA| TVO
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35124.ts
-#EXTINF:-1,|CA| Unis tv
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35119.ts
-#EXTINF:-1,|CA| W HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35108.ts
-#EXTINF:-1,|CA| Yes HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35122.ts
-#EXTINF:-1,5 USA
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34800.ts
-#EXTINF:-1,5STAR
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34814.ts
-#EXTINF:-1,AMC from BT
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34891.ts
-#EXTINF:-1,ATN India
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/33989.ts
-#EXTINF:-1,Baby TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34542.ts
-#EXTINF:-1,BBC Four HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34621.ts
-#EXTINF:-1,BBC News
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34618.ts
-#EXTINF:-1,BBC One
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34627.ts
-#EXTINF:-1,BBC Parliment
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35102.ts
-#EXTINF:-1,BBC Two
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34625.ts
-#EXTINF:-1,Bike
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34862.ts
-#EXTINF:-1,BET:BlackEntTv
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34808.ts
-#EXTINF:-1,BT Sport 1
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34521.ts
-#EXTINF:-1,BT Sport 2
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34520.ts
-#EXTINF:-1,BT Sport 3
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34519.ts
-#EXTINF:-1,BT Sport Extra 2
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34894.ts
-#EXTINF:-1,BT Sport Extra 3
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34863.ts
-#EXTINF:-1,BT Sport Extra 4
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34853.ts
-#EXTINF:-1,BT Sport Extra 5
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34875.ts
-#EXTINF:-1,BT Sport Extra 6
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34850.ts
-#EXTINF:-1,BT Sport//ESPN
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34815.ts
-#EXTINF:-1,Cartoonito
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34535.ts
-#EXTINF:-1,CBBC
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34623.ts
-#EXTINF:-1,CBBC HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34622.ts
-#EXTINF:-1,CBeebies
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34620.ts
-#EXTINF:-1,CBeebies HD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34813.ts
-#EXTINF:-1,CBS Action
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34560.ts
-#EXTINF:-1,CBS Drama
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34561.ts
-#EXTINF:-1,CBS Reality
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34817.ts
-#EXTINF:-1,Channel 5
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34805.ts
-#EXTINF:-1,Channel AKA
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/31645.ts
-#EXTINF:-1,Channels 24
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34820.ts
-#EXTINF:-1,Chart Show TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34816.ts
-#EXTINF:-1,Chartshow Hits
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34880.ts
-#EXTINF:-1,ComedyCentral
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34848.ts
-#EXTINF:-1,ComedyXtra
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34849.ts
-#EXTINF:-1,Crime Inv
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34876.ts
-#EXTINF:-1,Dave
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34578.ts
-#EXTINF:-1,Discovery History
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34879.ts
-#EXTINF:-1,Discovery Science
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34895.ts
-#EXTINF:-1,Discovery
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34554.ts
-#EXTINF:-1,Disney Chnl
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34833.ts
-#EXTINF:-1,Disney Junior
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34823.ts
-#EXTINF:-1,Disney XD
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34540.ts
-#EXTINF:-1,DisneyChnl
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34538.ts
-#EXTINF:-1,Drama
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34885.ts
-#EXTINF:-1,E!
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34846.ts
-#EXTINF:-1,Eden
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34831.ts
-#EXTINF:-1,Flava
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34892.ts
+#EXTM3U
+#EXTINF:-1,ITV 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/76.ts
+#EXTINF:-1,ITV 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/77.ts
+#EXTINF:-1,ITV 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/78.ts
+#EXTINF:-1,ITV 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/79.ts
+#EXTINF:-1,NBC New-York
+http://system.fpiptv.com:8080/live/rosa/rosa/442.ts
+#EXTINF:-1,MSNBC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/425.ts
+#EXTINF:-1,Lifetime HD US
+http://system.fpiptv.com:8080/live/rosa/rosa/428.ts
 #EXTINF:-1,Gold
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34570.ts
-#EXTINF:-1,Good Food
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34856.ts
-#EXTINF:-1,History
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34878.ts
-#EXTINF:-1,Home & Health
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34838.ts
-#EXTINF:-1,horror channel
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34877.ts
-#EXTINF:-1,ID
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34841.ts
-#EXTINF:-1,Kix
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34852.ts
-#EXTINF:-1,MOTORS TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34821.ts
-#EXTINF:-1,Movies 24
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34847.ts
-#EXTINF:-1,MTV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34866.ts
-#EXTINF:-1,MTV Music
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34994.ts
-#EXTINF:-1,National Geographic
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34809.ts
-#EXTINF:-1,Pick
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34822.ts
-#EXTINF:-1,Really
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34807.ts
-#EXTINF:-1,s4c
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34614.ts
-#EXTINF:-1,Sky Living
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35051.ts
+http://system.fpiptv.com:8080/live/rosa/rosa/427.ts
+#EXTINF:-1,Tru TV ENG HD
+http://system.fpiptv.com:8080/live/rosa/rosa/445.ts
+#EXTINF:-1,FIGHT NETWORK
+http://system.fpiptv.com:8080/live/rosa/rosa/433.ts
+#EXTINF:-1,CNN US
+http://system.fpiptv.com:8080/live/rosa/rosa/421.ts
+#EXTINF:-1,OWN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1284.ts
+#EXTINF:-1,WE TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2781.ts
+#EXTINF:-1,5 Star
+http://system.fpiptv.com:8080/live/rosa/rosa/2793.ts
+#EXTINF:-1,5 USA
+http://system.fpiptv.com:8080/live/rosa/rosa/2791.ts
+#EXTINF:-1,ActionMax East HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2790.ts
+#EXTINF:-1,American Heroes Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/2789.ts
+#EXTINF:-1,Channel 4
+http://system.fpiptv.com:8080/live/rosa/rosa/2785.ts
+#EXTINF:-1,Channel 5
+http://system.fpiptv.com:8080/live/rosa/rosa/2784.ts
+#EXTINF:-1,TV Land HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2794.ts
+#EXTINF:-1,CNBC US
+http://system.fpiptv.com:8080/live/rosa/rosa/424.ts
+#EXTINF:-1,CBS New-York
+http://system.fpiptv.com:8080/live/rosa/rosa/441.ts
+#EXTINF:-1,ABC New-York
+http://system.fpiptv.com:8080/live/rosa/rosa/440.ts
+#EXTINF:-1,FOX 11 Los Angeles US
+http://system.fpiptv.com:8080/live/rosa/rosa/419.ts
+#EXTINF:-1,USA Network HD
+http://system.fpiptv.com:8080/live/rosa/rosa/101.ts
+#EXTINF:-1,Universal Channel HD USA
+http://system.fpiptv.com:8080/live/rosa/rosa/164.ts
+#EXTINF:-1,WGN News
+http://system.fpiptv.com:8080/live/rosa/rosa/678.ts
+#EXTINF:-1,WeatherNation
+http://system.fpiptv.com:8080/live/rosa/rosa/682.ts
+#EXTINF:-1,TRT World
+http://system.fpiptv.com:8080/live/rosa/rosa/687.ts
+#EXTINF:-1,RT International
+http://system.fpiptv.com:8080/live/rosa/rosa/688.ts
+#EXTINF:-1,RT Documentary
+http://system.fpiptv.com:8080/live/rosa/rosa/674.ts
+#EXTINF:-1,RT US
+http://system.fpiptv.com:8080/live/rosa/rosa/677.ts
+#EXTINF:-1,RT UK
+http://system.fpiptv.com:8080/live/rosa/rosa/684.ts
+#EXTINF:-1,Press TV
+http://system.fpiptv.com:8080/live/rosa/rosa/690.ts
+#EXTINF:-1,Destination America
+http://system.fpiptv.com:8080/live/rosa/rosa/1117.ts
+#EXTINF:-1,NewsmaxTV
+http://system.fpiptv.com:8080/live/rosa/rosa/697.ts
+#EXTINF:-1,France 24
+http://system.fpiptv.com:8080/live/rosa/rosa/689.ts
+#EXTINF:-1,Euronews
+http://system.fpiptv.com:8080/live/rosa/rosa/691.ts
+#EXTINF:-1,Deutsche Welle
+http://system.fpiptv.com:8080/live/rosa/rosa/694.ts
+#EXTINF:-1,CHching!
+http://system.fpiptv.com:8080/live/rosa/rosa/699.ts
+#EXTINF:-1,CBS News
+http://system.fpiptv.com:8080/live/rosa/rosa/676.ts
+#EXTINF:-1,C-Span
+http://system.fpiptv.com:8080/live/rosa/rosa/679.ts
+#EXTINF:-1,C-Span  Book TV
+http://system.fpiptv.com:8080/live/rosa/rosa/680.ts
+#EXTINF:-1,C-Span American History TV
+http://system.fpiptv.com:8080/live/rosa/rosa/681.ts
+#EXTINF:-1,Bloomberg TV US
+http://system.fpiptv.com:8080/live/rosa/rosa/675.ts
+#EXTINF:-1,Bloomberg TV UK
+http://system.fpiptv.com:8080/live/rosa/rosa/685.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://system.fpiptv.com:8080/live/rosa/rosa/686.ts
+#EXTINF:-1,Al Jazeera
+http://system.fpiptv.com:8080/live/rosa/rosa/692.ts
+#EXTINF:-1,Travel Channel HD
+http://system.fpiptv.com:8080/live/rosa/rosa/100.ts
+#EXTINF:-1,TNT
+http://system.fpiptv.com:8080/live/rosa/rosa/94.ts
+#EXTINF:-1,TLC HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/52.ts
+#EXTINF:-1,TBS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/55.ts
+#EXTINF:-1,SYFY USA
+http://system.fpiptv.com:8080/live/rosa/rosa/163.ts
+#EXTINF:-1,SPIKE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/161.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/160.ts
+#EXTINF:-1,PBS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/98.ts
+#EXTINF:-1,NBC Sports Networks HD
+http://system.fpiptv.com:8080/live/rosa/rosa/99.ts
+#EXTINF:-1,Lifetime HD
+http://system.fpiptv.com:8080/live/rosa/rosa/71.ts
+#EXTINF:-1,HBO 2
+http://system.fpiptv.com:8080/live/rosa/rosa/12.ts
+#EXTINF:-1,H2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/15.ts
+#EXTINF:-1,Hallmark HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1285.ts
+#EXTINF:-1,FX HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/53.ts
+#EXTINF:-1,Nick 2 HD SP
+http://system.fpiptv.com:8080/live/rosa/rosa/490.ts
+#EXTINF:-1,Disney XD
+http://system.fpiptv.com:8080/live/rosa/rosa/486.ts
+#EXTINF:-1,Disney Jr
+http://system.fpiptv.com:8080/live/rosa/rosa/485.ts
+#EXTINF:-1,Disney Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/484.ts
+#EXTINF:-1,Cartoon Network
+http://system.fpiptv.com:8080/live/rosa/rosa/488.ts
+#EXTINF:-1,Boomerang ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/487.ts
+#EXTINF:-1,Nickelodeon ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/489.ts
+#EXTINF:-1,FOX NEWS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/37.ts
+#EXTINF:-1,Food Network HD
+http://system.fpiptv.com:8080/live/rosa/rosa/9.ts
+#EXTINF:-1,E! HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/57.ts
+#EXTINF:-1,DIY NETWORK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/75.ts
+#EXTINF:-1,Disney XD ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/24.ts
+#EXTINF:-1,Disney HD USA
+http://system.fpiptv.com:8080/live/rosa/rosa/22.ts
+#EXTINF:-1,NAT GEO WILD
+http://system.fpiptv.com:8080/live/rosa/rosa/40.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD US
+http://system.fpiptv.com:8080/live/rosa/rosa/28.ts
+#EXTINF:-1,History Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/72.ts
+#EXTINF:-1,Discovery Turbo
+http://system.fpiptv.com:8080/live/rosa/rosa/109.ts
+#EXTINF:-1,Investigation Discovery HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2.ts
+#EXTINF:-1,Discovery Velocity HD
+http://system.fpiptv.com:8080/live/rosa/rosa/106.ts
+#EXTINF:-1,DISCOVERY HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/38.ts
+#EXTINF:-1,ANIMAL PLANET HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/41.ts
+#EXTINF:-1,CTV Toronto
+http://system.fpiptv.com:8080/live/rosa/rosa/10.ts
+#EXTINF:-1,Comedy Central HD US
+http://system.fpiptv.com:8080/live/rosa/rosa/89.ts
+#EXTINF:-1,Tennis Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/36.ts
+#EXTINF:-1,CNBC
+http://system.fpiptv.com:8080/live/rosa/rosa/116.ts
+#EXTINF:-1,CBSN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/88.ts
+#EXTINF:-1,CBC News
+http://system.fpiptv.com:8080/live/rosa/rosa/134.ts
+#EXTINF:-1,CBC HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/33.ts
+#EXTINF:-1,BRAVO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/54.ts
+#EXTINF:-1,BBC 4 HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/87.ts
+#EXTINF:-1,BBC 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/86.ts
+#EXTINF:-1,BBC 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/85.ts
+#EXTINF:-1,BBC 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/84.ts
+#EXTINF:-1,AMC USA
+http://system.fpiptv.com:8080/live/rosa/rosa/48.ts
+#EXTINF:-1,ABC News HD.
+http://system.fpiptv.com:8080/live/rosa/rosa/34.ts
+#EXTINF:-1,HGTV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1.ts
+#EXTINF:-1,News Bronx
+http://system.fpiptv.com:8080/live/rosa/rosa/1155.ts
+#EXTINF:-1,News Brooklyn
+http://system.fpiptv.com:8080/live/rosa/rosa/1157.ts
+#EXTINF:-1,News Connecticut
+http://system.fpiptv.com:8080/live/rosa/rosa/1159.ts
+#EXTINF:-1,News Hudson Valley
+http://system.fpiptv.com:8080/live/rosa/rosa/1161.ts
+#EXTINF:-1,News Long Island
+http://system.fpiptv.com:8080/live/rosa/rosa/1163.ts
+#EXTINF:-1,News New Jersey
+http://system.fpiptv.com:8080/live/rosa/rosa/1165.ts
+#EXTINF:-1,News Westchester
+http://system.fpiptv.com:8080/live/rosa/rosa/1166.ts
 #EXTINF:-1,Sky News
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34975.ts
-#EXTINF:-1,Spike
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34812.ts
-#EXTINF:-1,Starz TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34804.ts
-#EXTINF:-1,SyFy
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34579.ts
-#EXTINF:-1,TCM
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34586.ts
-#EXTINF:-1,The Vault
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34811.ts
-#EXTINF:-1,tru TV
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34881.ts
-
-#EXTINF:-1,TR | GLDN beIN 1 HD [PLUS]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4285.ts
-#EXTINF:-1,TR | GLDN beIN 2 HD [PLUS]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4287.ts
-#EXTINF:-1,TR | GLDN beIN SARANSPORTS HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4286.ts
-#EXTINF:-1,TR | GLDN beIN 1 HD [MAG]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1682.ts
-#EXTINF:-1,TR | GLDN beIN 2 HD [MAG]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4194.ts
-#EXTINF:-1,TR | GLDN beIN 3 HD [MAG]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4195.ts
-#EXTINF:-1,TR | GLDN beIN 4 HD [MAG]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4196.ts
-#EXTINF:-1,TR | GLDN beIN 1 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4121.ts
-#EXTINF:-1,TR | GLDN beIN 2 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1684.ts
-#EXTINF:-1,TR | GLDN beIN 3 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1803.ts
-#EXTINF:-1,TR | GLDN beIN 4 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1804.ts
-#EXTINF:-1,TR | GLDN beIN 1 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/8.ts
-#EXTINF:-1,TR | GLDN beIN 91 - Sports1 max HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/3910.ts
-#EXTINF:-1,TR | GLDN beIN 92 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4284.ts
-#EXTINF:-1,TR | GLDN SMART HD [MAG]
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/3973.ts
-#EXTINF:-1,TR | DSMART SARANSPORT HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1829.ts
-#EXTINF:-1,TR | GLDN TVBU1 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/6.ts
-#EXTINF:-1,TR | GLDN TVBU2 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4293.ts
-#EXTINF:-1,TR | GLDN TVBU3 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/3769.ts
-#EXTINF:-1,TR | GLDN TVBU4 FULLHD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/3639.ts
-#EXTINF:-1,TR | EURO SPORT1 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1916.ts
-#EXTINF:-1,TR | EURO SPORT2 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1915.ts
-#EXTINF:-1,TR | A Spor HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/12.ts
-#EXTINF:-1,TR | FB tv
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/1914.ts
-#EXTINF:-1,TR | TRT1 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4199.ts
-#EXTINF:-1,TR | KANALD HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4203.ts
-#EXTINF:-1,TR | STAR HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4200.ts
-#EXTINF:-1,TR | ATV HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4206.ts
-#EXTINF:-1,TR | A2 TV
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4257.ts
-#EXTINF:-1,TR | SHOW HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4202.ts
-#EXTINF:-1,TR | TV8 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4198.ts
-#EXTINF:-1,TR | TV 8.5 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4197.ts
-#EXTINF:-1,TR | aHABER HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4266.ts
-#EXTINF:-1,TR | CNN TÃ¼rk HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4268.ts
-#EXTINF:-1,TR | Salon 1 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4262.ts
-#EXTINF:-1,TR | Salon 3 HD
-http://best.goldentv.eu:8899/live/YruHzUaH7s/tRKPgrc5E8/4264.ts
-
+http://system.fpiptv.com:8080/live/rosa/rosa/157.ts
+#EXTINF:-1,Sky Crime & Thriller
+http://system.fpiptv.com:8080/live/rosa/rosa/156.ts
+#EXTINF:-1,Sky Movies Select HD
+http://system.fpiptv.com:8080/live/rosa/rosa/154.ts
+#EXTINF:-1,Sky Movies Scifi-Horror HD
+http://system.fpiptv.com:8080/live/rosa/rosa/153.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://system.fpiptv.com:8080/live/rosa/rosa/152.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://system.fpiptv.com:8080/live/rosa/rosa/151.ts
+#EXTINF:-1,Sky Movies Family
+http://system.fpiptv.com:8080/live/rosa/rosa/150.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://system.fpiptv.com:8080/live/rosa/rosa/149.ts
+#EXTINF:-1,Sky Movies Disney
+http://system.fpiptv.com:8080/live/rosa/rosa/148.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://system.fpiptv.com:8080/live/rosa/rosa/147.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://system.fpiptv.com:8080/live/rosa/rosa/146.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://system.fpiptv.com:8080/live/rosa/rosa/145.ts
+#EXTINF:-1,Sky Atlantic
+http://system.fpiptv.com:8080/live/rosa/rosa/144.ts
+#EXTINF:-1,SHOWTIME HD
+http://system.fpiptv.com:8080/live/rosa/rosa/141.ts
+#EXTINF:-1,Movies US: MOREMAX
+http://system.fpiptv.com:8080/live/rosa/rosa/7557.ts
+#EXTINF:-1,HBO Zone
+http://system.fpiptv.com:8080/live/rosa/rosa/455.ts
+#EXTINF:-1,HBO Signature ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/450.ts
+#EXTINF:-1,HBO Family ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/453.ts
+#EXTINF:-1,HBO  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/448.ts
+#EXTINF:-1,HBO 2  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/449.ts
+#EXTINF:-1,Starz Edge ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/473.ts
+#EXTINF:-1,Starz East HD
+http://system.fpiptv.com:8080/live/rosa/rosa/471.ts
+#EXTINF:-1,Starz Comedy ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/475.ts
+#EXTINF:-1,Showtime 1
+http://system.fpiptv.com:8080/live/rosa/rosa/462.ts
+#EXTINF:-1,Showtime Showcase
+http://system.fpiptv.com:8080/live/rosa/rosa/467.ts
+#EXTINF:-1,BIG TEN TETWORK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/465.ts
+#EXTINF:-1,Showtime West
+http://system.fpiptv.com:8080/live/rosa/rosa/461.ts
+#EXTINF:-1,Showtime 2 ENG
+http://system.fpiptv.com:8080/live/rosa/rosa/463.ts
+#EXTINF:-1,Lifetime Movie Network  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/482.ts
+#EXTINF:-1,ITV Encore  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/468.ts
+#EXTINF:-1,Cinemax  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/456.ts
+#EXTINF:-1,Cinemax More HD
+http://system.fpiptv.com:8080/live/rosa/rosa/872.ts
+#EXTINF:-1,CINEMAX Action Max HD
+http://system.fpiptv.com:8080/live/rosa/rosa/871.ts
+#EXTINF:-1,Movies 24
+http://system.fpiptv.com:8080/live/rosa/rosa/480.ts
+#EXTINF:-1,The Movie Channel HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1245.ts
+#EXTINF:-1,Special Events 1 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/874.ts
+#EXTINF:-1,Special Events 2 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/875.ts
+#EXTINF:-1,Special Events 3 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/876.ts
+#EXTINF:-1,Special Events 4 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/988.ts
+#EXTINF:-1,Special Events 5 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/989.ts
+#EXTINF:-1,Special Events 6 - Floyd Mayweather vs. Conor McGregor
+http://system.fpiptv.com:8080/live/rosa/rosa/990.ts
+#EXTINF:-1,UFC NEXT FILMON
+http://system.fpiptv.com:8080/live/rosa/rosa/2541.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 1 HD - UFC
+http://system.fpiptv.com:8080/live/rosa/rosa/1220.ts
+#EXTINF:-1,PPV SPECIALS EVENTS 2 HD - WWE
+http://system.fpiptv.com:8080/live/rosa/rosa/1221.ts
+#EXTINF:-1,Pac12 Arizona
+http://system.fpiptv.com:8080/live/rosa/rosa/1130.ts
+#EXTINF:-1,Pac12 Bay Area
+http://system.fpiptv.com:8080/live/rosa/rosa/1131.ts
+#EXTINF:-1,Pac12 Los Angeles
+http://system.fpiptv.com:8080/live/rosa/rosa/1133.ts
+#EXTINF:-1,Pac12 Mountain
+http://system.fpiptv.com:8080/live/rosa/rosa/1134.ts
+#EXTINF:-1,Pac12 National
+http://system.fpiptv.com:8080/live/rosa/rosa/1132.ts
+#EXTINF:-1,Pac12 Oregon
+http://system.fpiptv.com:8080/live/rosa/rosa/1135.ts
+#EXTINF:-1,Pac12 Washington
+http://system.fpiptv.com:8080/live/rosa/rosa/1136.ts
+#EXTINF:-1,NBA LEAGUE PASS 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1180.ts
+#EXTINF:-1,NBA LEAGUE PASS 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1181.ts
+#EXTINF:-1,NBA LEAGUE PASS 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1182.ts
+#EXTINF:-1,NBA LEAGUE PASS 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1183.ts
+#EXTINF:-1,NBA LEAGUE PASS 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1184.ts
+#EXTINF:-1,NBA LEAGUE PASS 6 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1185.ts
+#EXTINF:-1,NBA LEAGUE PASS 7 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1186.ts
+#EXTINF:-1,NBA LEAGUE PASS 8 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1187.ts
+#EXTINF:-1,NBA LEAGUE PASS 9 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1188.ts
+#EXTINF:-1,NBA LEAGUE PASS 10 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1189.ts
+#EXTINF:-1,NFL RED ZONE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1200.ts
+#EXTINF:-1,NFL SUNDAY TICKET 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1190.ts
+#EXTINF:-1,NFL SUNDAY TICKET 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1191.ts
+#EXTINF:-1,NFL SUNDAY TICKET 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1192.ts
+#EXTINF:-1,NFL SUNDAY TICKET 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1193.ts
+#EXTINF:-1,NFL SUNDAY TICKET 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1194.ts
+#EXTINF:-1,NFL SUNDAY TICKET 6 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1195.ts
+#EXTINF:-1,NFL SUNDAY TICKET 7 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1196.ts
+#EXTINF:-1,NFL SUNDAY TICKET 8 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1197.ts
+#EXTINF:-1,NFL SUNDAY TICKET 9 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1198.ts
+#EXTINF:-1,NFL SUNDAY TICKET 10 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1199.ts
+#EXTINF:-1,NHL CENTER ICE 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1201.ts
+#EXTINF:-1,NHL CENTER ICE 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1202.ts
+#EXTINF:-1,NHL CENTER ICE 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1203.ts
+#EXTINF:-1,NHL CENTER ICE 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1204.ts
+#EXTINF:-1,NHL CENTER ICE 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1205.ts
+#EXTINF:-1,NHL CENTER ICE 6 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1206.ts
+#EXTINF:-1,MLB LIVE 1
+http://system.fpiptv.com:8080/live/rosa/rosa/2780.ts
+#EXTINF:-1,MLB LIVE 2
+http://system.fpiptv.com:8080/live/rosa/rosa/2779.ts
+#EXTINF:-1,MLB LIVE 3
+http://system.fpiptv.com:8080/live/rosa/rosa/2778.ts
+#EXTINF:-1,MLB LIVE 4
+http://system.fpiptv.com:8080/live/rosa/rosa/2777.ts
+#EXTINF:-1,MLB LIVE 5
+http://system.fpiptv.com:8080/live/rosa/rosa/2776.ts
+#EXTINF:-1,MLB LIVE 6
+http://system.fpiptv.com:8080/live/rosa/rosa/2775.ts
+#EXTINF:-1,MLB LIVE 7
+http://system.fpiptv.com:8080/live/rosa/rosa/2774.ts
+#EXTINF:-1,MLB LIVE 8
+http://system.fpiptv.com:8080/live/rosa/rosa/2773.ts
+#EXTINF:-1,MLB LIVE 9
+http://system.fpiptv.com:8080/live/rosa/rosa/2772.ts
+#EXTINF:-1,MLB LIVE 10
+http://system.fpiptv.com:8080/live/rosa/rosa/2771.ts
+#EXTINF:-1,MLB 1 replay
+http://system.fpiptv.com:8080/live/rosa/rosa/2769.ts
+#EXTINF:-1,MLB 1 Backup
+http://system.fpiptv.com:8080/live/rosa/rosa/2770.ts
+#EXTINF:-1,MLB 2 Backup
+http://system.fpiptv.com:8080/live/rosa/rosa/2768.ts
+#EXTINF:-1,MLB 3 Backup
+http://system.fpiptv.com:8080/live/rosa/rosa/2767.ts
+#EXTINF:-1,MLB 4 Backup
+http://system.fpiptv.com:8080/live/rosa/rosa/2766.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1227.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1228.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1229.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1230.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1231.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1232.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1233.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1234.ts
+#EXTINF:-1,Bein Sports 9 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1235.ts
+#EXTINF:-1,Bein Sports 10 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1236.ts
+#EXTINF:-1,BOXNation HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1170.ts
+#EXTINF:-1,WWE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/26.ts
+#EXTINF:-1,NBA TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/275.ts
+#EXTINF:-1,FOX Sports *
+http://system.fpiptv.com:8080/live/rosa/rosa/435.ts
+#EXTINF:-1,Fox Sports 3
+http://system.fpiptv.com:8080/live/rosa/rosa/437.ts
+#EXTINF:-1,MLB Live HD
+http://system.fpiptv.com:8080/live/rosa/rosa/436.ts
+#EXTINF:-1,Fox Sports 1 US
+http://system.fpiptv.com:8080/live/rosa/rosa/273.ts
+#EXTINF:-1,Fox Sports 2 HD US
+http://system.fpiptv.com:8080/live/rosa/rosa/274.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1122.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/310.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/309.ts
+#EXTINF:-1,A&E USA HD
+http://system.fpiptv.com:8080/live/rosa/rosa/58.ts
+#EXTINF:-1,ESPN US
+http://system.fpiptv.com:8080/live/rosa/rosa/1121.ts
+#EXTINF:-1,ESPN 2 US HD
+http://system.fpiptv.com:8080/live/rosa/rosa/270.ts
+#EXTINF:-1,BEIN SPORTS US HD
+http://system.fpiptv.com:8080/live/rosa/rosa/289.ts
+#EXTINF:-1,NFL NETWORK
+http://system.fpiptv.com:8080/live/rosa/rosa/277.ts
+#EXTINF:-1,MLB NETWORK
+http://system.fpiptv.com:8080/live/rosa/rosa/276.ts
+#EXTINF:-1,TSN 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/278.ts
+#EXTINF:-1,TSN 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/279.ts
+#EXTINF:-1,TSN 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/280.ts
+#EXTINF:-1,TSN 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/281.ts
+#EXTINF:-1,TSN 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/282.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/292.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/293.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/294.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/295.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/296.ts
+#EXTINF:-1,CBS Sports Network
+http://system.fpiptv.com:8080/live/rosa/rosa/333.ts
+#EXTINF:-1,NHL NETWORK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/336.ts
+#EXTINF:-1,SPORTSNET Pacific HD
+http://system.fpiptv.com:8080/live/rosa/rosa/68.ts
+#EXTINF:-1,Sportsnet Ontario HD
+http://system.fpiptv.com:8080/live/rosa/rosa/284.ts
+#EXTINF:-1,Sportsnet 360 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/283.ts
+#EXTINF:-1,SPORTSNET EAST HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1207.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1209.ts
+#EXTINF:-1,SPORTSNET WEST HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1208.ts
+#EXTINF:-1,SPORTSNET WORLD HD
+http://system.fpiptv.com:8080/live/rosa/rosa/1210.ts
+#EXTINF:-1,UFC Network Spanish
+http://system.fpiptv.com:8080/live/rosa/rosa/481.ts
+#EXTINF:-1,UK Sports : At The Races
+http://system.fpiptv.com:8080/live/rosa/rosa/7899.ts
+#EXTINF:-1,UK Sports : BoxNation
+http://system.fpiptv.com:8080/live/rosa/rosa/7898.ts
+#EXTINF:-1,UK Sports : BT Sport 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7897.ts
+#EXTINF:-1,UK Sports : BT Sport 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7896.ts
+#EXTINF:-1,UK Sports : BT Sport 3
+http://system.fpiptv.com:8080/live/rosa/rosa/7895.ts
+#EXTINF:-1,UK Sports : BT Sport ESPN
+http://system.fpiptv.com:8080/live/rosa/rosa/7894.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7880.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7879.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 3
+http://system.fpiptv.com:8080/live/rosa/rosa/7878.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 4
+http://system.fpiptv.com:8080/live/rosa/rosa/7877.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 5
+http://system.fpiptv.com:8080/live/rosa/rosa/7876.ts
+#EXTINF:-1,UK Sports : BT Sport Extra 6
+http://system.fpiptv.com:8080/live/rosa/rosa/7875.ts
+#EXTINF:-1,UK Sports : BT sports 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7883.ts
+#EXTINF:-1,UK Sports : BT Sports 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7882.ts
+#EXTINF:-1,UK Sports : BT Sports 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7881.ts
+#EXTINF:-1,UK Sports : BT Sports ESPN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7884.ts
+#EXTINF:-1,UK Sports : Eir Sport 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7892.ts
+#EXTINF:-1,UK Sports : Eir Sport 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7891.ts
+#EXTINF:-1,UK Sports : Horse & Country
+http://system.fpiptv.com:8080/live/rosa/rosa/7890.ts
+#EXTINF:-1,UK Sports : Motorsport TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7893.ts
+#EXTINF:-1,UK Sports : Premier Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/7889.ts
+#EXTINF:-1,UK Sports : Racing UK
+http://system.fpiptv.com:8080/live/rosa/rosa/7888.ts
+#EXTINF:-1,UK Sports : Racing UK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7887.ts
+#EXTINF:-1,UK Sports : Sky Box Office HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7885.ts
+#EXTINF:-1,UK Sports : Sky Sports Box Office
+http://system.fpiptv.com:8080/live/rosa/rosa/7886.ts
+#EXTINF:-1,Music Videos 1
+http://system.fpiptv.com:8080/live/rosa/rosa/701.ts
+#EXTINF:-1,Music Videos 2
+http://system.fpiptv.com:8080/live/rosa/rosa/702.ts
+#EXTINF:-1,Music Videos 3
+http://system.fpiptv.com:8080/live/rosa/rosa/703.ts
+#EXTINF:-1,Music Videos 4
+http://system.fpiptv.com:8080/live/rosa/rosa/704.ts
+#EXTINF:-1,Music Videos 5
+http://system.fpiptv.com:8080/live/rosa/rosa/705.ts
+#EXTINF:-1,Music Videos 6
+http://system.fpiptv.com:8080/live/rosa/rosa/706.ts
+#EXTINF:-1,Music Videos 7
+http://system.fpiptv.com:8080/live/rosa/rosa/707.ts
+#EXTINF:-1,Music Videos 8
+http://system.fpiptv.com:8080/live/rosa/rosa/708.ts
+#EXTINF:-1,Music Videos 9
+http://system.fpiptv.com:8080/live/rosa/rosa/709.ts
+#EXTINF:-1,Music Videos 10
+http://system.fpiptv.com:8080/live/rosa/rosa/710.ts
+#EXTINF:-1,Music Videos 11
+http://system.fpiptv.com:8080/live/rosa/rosa/711.ts
+#EXTINF:-1,Music Videos 12
+http://system.fpiptv.com:8080/live/rosa/rosa/712.ts
+#EXTINF:-1,Music Videos 13
+http://system.fpiptv.com:8080/live/rosa/rosa/713.ts
+#EXTINF:-1,CA : ABC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7612.ts
+#EXTINF:-1,CA : AMC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7611.ts
+#EXTINF:-1,CA : BNN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7610.ts
+#EXTINF:-1,CA : BRAVO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7609.ts
+#EXTINF:-1,CA : CBC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7608.ts
+#EXTINF:-1,CA : CBC NEWS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7607.ts
+#EXTINF:-1,CA : CBS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7606.ts
+#EXTINF:-1,CA : CITY HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7605.ts
+#EXTINF:-1,CA : CNN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7604.ts
+#EXTINF:-1,CA : CP 24 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7603.ts
+#EXTINF:-1,CA : CREATE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7602.ts
+#EXTINF:-1,CA : CTV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7601.ts
+#EXTINF:-1,CA : CW HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7600.ts
+#EXTINF:-1,CA : DISNEY JR HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7599.ts
+#EXTINF:-1,CA : DIY NETWORK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7598.ts
+#EXTINF:-1,CA : E! HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7597.ts
+#EXTINF:-1,CA : Food Network HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7596.ts
+#EXTINF:-1,CA : FOX HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7595.ts
+#EXTINF:-1,CA : FX HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7594.ts
+#EXTINF:-1,CA : FXX HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7593.ts
+#EXTINF:-1,CA : GLOBAL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7592.ts
+#EXTINF:-1,CA : GSN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7591.ts
+#EXTINF:-1,CA : HBO 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7590.ts
+#EXTINF:-1,CA : HBO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7589.ts
+#EXTINF:-1,CA : HGTV HD*
+http://system.fpiptv.com:8080/live/rosa/rosa/7588.ts
+#EXTINF:-1,CA : HISTORY HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7587.ts
+#EXTINF:-1,CA : HLN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7586.ts
+#EXTINF:-1,CA : Lifetime HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7585.ts
+#EXTINF:-1,CA : ME TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7584.ts
+#EXTINF:-1,CA : MOVIES HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7583.ts
+#EXTINF:-1,CA : MSNBC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7582.ts
+#EXTINF:-1,CA : NAT GEO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7581.ts
+#EXTINF:-1,CA : NAT GEO WILD HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7580.ts
+#EXTINF:-1,CA : NBC FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7579.ts
+#EXTINF:-1,CA : OutDoor Living Network HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7613.ts
+#EXTINF:-1,CA : OWN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7578.ts
+#EXTINF:-1,CA : PBS FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7577.ts
+#EXTINF:-1,CA : PBS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7576.ts
+#EXTINF:-1,CA : PBS PLUS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7575.ts
+#EXTINF:-1,CA : PEACH TREE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7574.ts
+#EXTINF:-1,CA : SHOWCASE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7573.ts
+#EXTINF:-1,CA : SLICE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7572.ts
+#EXTINF:-1,CA : SN ONE
+http://system.fpiptv.com:8080/live/rosa/rosa/7571.ts
+#EXTINF:-1,CA : SPACE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7570.ts
+#EXTINF:-1,CA : THE WEATHER CHANNEL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7614.ts
+#EXTINF:-1,CA : TLC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7569.ts
+#EXTINF:-1,CA : WORLD HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7568.ts
+#EXTINF:-1,AXN Latino
+http://system.fpiptv.com:8080/live/rosa/rosa/555.ts
+#EXTINF:-1,Warner Channel SP
+http://system.fpiptv.com:8080/live/rosa/rosa/546.ts
+#EXTINF:-1,UFC Network Spanish SD
+http://system.fpiptv.com:8080/live/rosa/rosa/524.ts
+#EXTINF:-1,Univision HD
+http://system.fpiptv.com:8080/live/rosa/rosa/494.ts
+#EXTINF:-1,Univision Deportes HD
+http://system.fpiptv.com:8080/live/rosa/rosa/530.ts
+#EXTINF:-1,Universal Channel America Latina
+http://system.fpiptv.com:8080/live/rosa/rosa/549.ts
+#EXTINF:-1,UniMAS
+http://system.fpiptv.com:8080/live/rosa/rosa/498.ts
+#EXTINF:-1,Tru TV America Latina
+http://system.fpiptv.com:8080/live/rosa/rosa/562.ts
+#EXTINF:-1,TNT Series SP
+http://system.fpiptv.com:8080/live/rosa/rosa/558.ts
+#EXTINF:-1,TNT America Latina
+http://system.fpiptv.com:8080/live/rosa/rosa/580.ts
+#EXTINF:-1,Tlnovelas America
+http://system.fpiptv.com:8080/live/rosa/rosa/502.ts
+#EXTINF:-1,TLC SP
+http://system.fpiptv.com:8080/live/rosa/rosa/554.ts
+#EXTINF:-1,Telemundo Los Angeles
+http://system.fpiptv.com:8080/live/rosa/rosa/497.ts
+#EXTINF:-1,Telemundo Internacional
+http://system.fpiptv.com:8080/live/rosa/rosa/504.ts
+#EXTINF:-1,Telemundo
+http://system.fpiptv.com:8080/live/rosa/rosa/505.ts
+#EXTINF:-1,TDN Mexico
+http://system.fpiptv.com:8080/live/rosa/rosa/527.ts
+#EXTINF:-1,TCM America Latina
+http://system.fpiptv.com:8080/live/rosa/rosa/587.ts
+#EXTINF:-1,Syfy SP
+http://system.fpiptv.com:8080/live/rosa/rosa/551.ts
+#EXTINF:-1,CubaVision CUBA
+http://system.fpiptv.com:8080/live/rosa/rosa/869.ts
+#EXTINF:-1,Tele Rebelde Cuba
+http://system.fpiptv.com:8080/live/rosa/rosa/2765.ts
+#EXTINF:-1,CubaVision Internacional CUBA
+http://system.fpiptv.com:8080/live/rosa/rosa/2764.ts
+#EXTINF:-1,Studio Universal
+http://system.fpiptv.com:8080/live/rosa/rosa/586.ts
+#EXTINF:-1,SPACE
+http://system.fpiptv.com:8080/live/rosa/rosa/584.ts
+#EXTINF:-1,RT SP
+http://system.fpiptv.com:8080/live/rosa/rosa/567.ts
+#EXTINF:-1,RCN Novelas
+http://system.fpiptv.com:8080/live/rosa/rosa/503.ts
+#EXTINF:-1,RCN Colombia
+http://system.fpiptv.com:8080/live/rosa/rosa/880.ts
+#EXTINF:-1,RCN 2 Colombia
+http://system.fpiptv.com:8080/live/rosa/rosa/879.ts
+#EXTINF:-1,CARACOL Colombia
+http://system.fpiptv.com:8080/live/rosa/rosa/878.ts
+#EXTINF:-1,NBC Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/981.ts
+#EXTINF:-1,Mega TV Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/980.ts
+#EXTINF:-1,Teleisla Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/982.ts
+#EXTINF:-1,Telemundo Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/983.ts
+#EXTINF:-1,Univision Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/984.ts
+#EXTINF:-1,Wapa
+http://system.fpiptv.com:8080/live/rosa/rosa/985.ts
+#EXTINF:-1,Wapa2
+http://system.fpiptv.com:8080/live/rosa/rosa/986.ts
+#EXTINF:-1,Paramount Channel SP
+http://system.fpiptv.com:8080/live/rosa/rosa/578.ts
+#EXTINF:-1,Nickelodeon SP
+http://system.fpiptv.com:8080/live/rosa/rosa/534.ts
+#EXTINF:-1,Nick Jr SP
+http://system.fpiptv.com:8080/live/rosa/rosa/535.ts
+#EXTINF:-1,NBC Universo HD
+http://system.fpiptv.com:8080/live/rosa/rosa/500.ts
+#EXTINF:-1,National Geographic SP
+http://system.fpiptv.com:8080/live/rosa/rosa/514.ts
+#EXTINF:-1,Nat Geo Wild Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/515.ts
+#EXTINF:-1,MundoFox
+http://system.fpiptv.com:8080/live/rosa/rosa/557.ts
+#EXTINF:-1,MultiPremier
+http://system.fpiptv.com:8080/live/rosa/rosa/573.ts
+#EXTINF:-1,MTV SP
+http://system.fpiptv.com:8080/live/rosa/rosa/568.ts
+#EXTINF:-1,MTV Hits SP
+http://system.fpiptv.com:8080/live/rosa/rosa/569.ts
+#EXTINF:-1,Mega TV
+http://system.fpiptv.com:8080/live/rosa/rosa/499.ts
+#EXTINF:-1,AmericaTeve MIAMI
+http://system.fpiptv.com:8080/live/rosa/rosa/1251.ts
+#EXTINF:-1,Max Prime *
+http://system.fpiptv.com:8080/live/rosa/rosa/606.ts
+#EXTINF:-1,Lifetime SP
+http://system.fpiptv.com:8080/live/rosa/rosa/563.ts
+#EXTINF:-1,Las Estrellas
+http://system.fpiptv.com:8080/live/rosa/rosa/492.ts
+#EXTINF:-1,Investigation Discovery SP
+http://system.fpiptv.com:8080/live/rosa/rosa/553.ts
+#EXTINF:-1,History Latino
+http://system.fpiptv.com:8080/live/rosa/rosa/513.ts
+#EXTINF:-1,HBO Plus West
+http://system.fpiptv.com:8080/live/rosa/rosa/602.ts
+#EXTINF:-1,HBO Plus Este
+http://system.fpiptv.com:8080/live/rosa/rosa/601.ts
+#EXTINF:-1,HBO Este
+http://system.fpiptv.com:8080/live/rosa/rosa/599.ts
+#EXTINF:-1,HBO Family SP
+http://system.fpiptv.com:8080/live/rosa/rosa/603.ts
+#EXTINF:-1,HBO 2 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/600.ts
+#EXTINF:-1,H2 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/512.ts
+#EXTINF:-1,Golden Multiplex
+http://system.fpiptv.com:8080/live/rosa/rosa/577.ts
+#EXTINF:-1,FX Latino
+http://system.fpiptv.com:8080/live/rosa/rosa/548.ts
+#EXTINF:-1,Fox Sports SP
+http://system.fpiptv.com:8080/live/rosa/rosa/520.ts
+#EXTINF:-1,Fox Sports 3 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/522.ts
+#EXTINF:-1,Fox Sports 2 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/521.ts
+#EXTINF:-1,Fox Movies SP
+http://system.fpiptv.com:8080/live/rosa/rosa/597.ts
+#EXTINF:-1,FOX Life
+http://system.fpiptv.com:8080/live/rosa/rosa/559.ts
+#EXTINF:-1,Fox SP
+http://system.fpiptv.com:8080/live/rosa/rosa/550.ts
+#EXTINF:-1,Fox Family
+http://system.fpiptv.com:8080/live/rosa/rosa/592.ts
+#EXTINF:-1,Fox Comedy
+http://system.fpiptv.com:8080/live/rosa/rosa/593.ts
+#EXTINF:-1,Fox Classics SP
+http://system.fpiptv.com:8080/live/rosa/rosa/598.ts
+#EXTINF:-1,Fox Cinema
+http://system.fpiptv.com:8080/live/rosa/rosa/594.ts
+#EXTINF:-1,Fox Action *
+http://system.fpiptv.com:8080/live/rosa/rosa/595.ts
+#EXTINF:-1,Fox 1 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/591.ts
+#EXTINF:-1,Fox 1
+http://system.fpiptv.com:8080/live/rosa/rosa/590.ts
+#EXTINF:-1,Film Zone
+http://system.fpiptv.com:8080/live/rosa/rosa/589.ts
+#EXTINF:-1,Estrella TV
+http://system.fpiptv.com:8080/live/rosa/rosa/493.ts
+#EXTINF:-1,ESPN SP
+http://system.fpiptv.com:8080/live/rosa/rosa/517.ts
+#EXTINF:-1,ESPN 2 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/518.ts
+#EXTINF:-1,ESPN 3 SP
+http://system.fpiptv.com:8080/live/rosa/rosa/519.ts
+#EXTINF:-1,E! SP
+http://system.fpiptv.com:8080/live/rosa/rosa/547.ts
+#EXTINF:-1,DW SP
+http://system.fpiptv.com:8080/live/rosa/rosa/506.ts
+#EXTINF:-1,Disney XD Norte
+http://system.fpiptv.com:8080/live/rosa/rosa/532.ts
+#EXTINF:-1,Disney Junior SP
+http://system.fpiptv.com:8080/live/rosa/rosa/533.ts
+#EXTINF:-1,Disney Channel SP
+http://system.fpiptv.com:8080/live/rosa/rosa/531.ts
+#EXTINF:-1,Discovery World
+http://system.fpiptv.com:8080/live/rosa/rosa/510.ts
+#EXTINF:-1,Discovery Theater
+http://system.fpiptv.com:8080/live/rosa/rosa/509.ts
+#EXTINF:-1,Discovery Kids America Latina
+http://system.fpiptv.com:8080/live/rosa/rosa/536.ts
+#EXTINF:-1,Discovery Home & Health SP
+http://system.fpiptv.com:8080/live/rosa/rosa/511.ts
+#EXTINF:-1,AZTECA 13 Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1358.ts
+#EXTINF:-1,AZTECA 7 Mexico Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1359.ts
+#EXTINF:-1,AZTECA Cinema Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1357.ts
+#EXTINF:-1,AZTECA Corazon Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1356.ts
+#EXTINF:-1,AZTECA Mundo Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1355.ts
+#EXTINF:-1,AZTECA Noticias Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1354.ts
+#EXTINF:-1,Canal 5 HD Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1361.ts
+#EXTINF:-1,GLITZ Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1360.ts
+#EXTINF:-1,Distrito Comedia
+http://system.fpiptv.com:8080/live/rosa/rosa/1362.ts
+#EXTINF:-1,GOLDEN EDGE Latino America
+http://system.fpiptv.com:8080/live/rosa/rosa/1352.ts
+#EXTINF:-1,Discovery SP
+http://system.fpiptv.com:8080/live/rosa/rosa/508.ts
+#EXTINF:-1,De Pelicula
+http://system.fpiptv.com:8080/live/rosa/rosa/570.ts
+#EXTINF:-1,Comedy Central SP
+http://system.fpiptv.com:8080/live/rosa/rosa/561.ts
+#EXTINF:-1,CNN SP
+http://system.fpiptv.com:8080/live/rosa/rosa/564.ts
+#EXTINF:-1,Claro Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/526.ts
+#EXTINF:-1,WIN Sport HD Colombia
+http://system.fpiptv.com:8080/live/rosa/rosa/870.ts
+#EXTINF:-1,Cinemax SP
+http://system.fpiptv.com:8080/live/rosa/rosa/583.ts
+#EXTINF:-1,Cinema Dinamita
+http://system.fpiptv.com:8080/live/rosa/rosa/572.ts
+#EXTINF:-1,CineLatino
+http://system.fpiptv.com:8080/live/rosa/rosa/574.ts
+#EXTINF:-1,CineCanal Prime
+http://system.fpiptv.com:8080/live/rosa/rosa/582.ts
+#EXTINF:-1,CineCanal
+http://system.fpiptv.com:8080/live/rosa/rosa/581.ts
+#EXTINF:-1,CBeebies SP
+http://system.fpiptv.com:8080/live/rosa/rosa/542.ts
+#EXTINF:-1,Cartoon Network SP
+http://system.fpiptv.com:8080/live/rosa/rosa/539.ts
+#EXTINF:-1,Canal Sony
+http://system.fpiptv.com:8080/live/rosa/rosa/543.ts
+#EXTINF:-1,Boomerang SP
+http://system.fpiptv.com:8080/live/rosa/rosa/538.ts
+#EXTINF:-1,Bein Sports SP
+http://system.fpiptv.com:8080/live/rosa/rosa/525.ts
+#EXTINF:-1,AZ Corazon
+http://system.fpiptv.com:8080/live/rosa/rosa/501.ts
+#EXTINF:-1,Antena 3
+http://system.fpiptv.com:8080/live/rosa/rosa/507.ts
+#EXTINF:-1,Animal Planet SP
+http://system.fpiptv.com:8080/live/rosa/rosa/516.ts
+#EXTINF:-1,AMC
+http://system.fpiptv.com:8080/live/rosa/rosa/585.ts
+#EXTINF:-1,A&E SP
+http://system.fpiptv.com:8080/live/rosa/rosa/552.ts
+#EXTINF:-1,Willax TV
+http://system.fpiptv.com:8080/live/rosa/rosa/811.ts
+#EXTINF:-1,W24
+http://system.fpiptv.com:8080/live/rosa/rosa/753.ts
+#EXTINF:-1,VTV Valle
+http://system.fpiptv.com:8080/live/rosa/rosa/796.ts
+#EXTINF:-1,Ve Plus TV
+http://system.fpiptv.com:8080/live/rosa/rosa/851.ts
+#EXTINF:-1,Valle TV de Aconcagua
+http://system.fpiptv.com:8080/live/rosa/rosa/793.ts
+#EXTINF:-1,TVX El Salvador
+http://system.fpiptv.com:8080/live/rosa/rosa/766.ts
+#EXTINF:-1,TVO Canal 23
+http://system.fpiptv.com:8080/live/rosa/rosa/785.ts
+#EXTINF:-1,TVJ Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/824.ts
+#EXTINF:-1,TVES Canal 10
+http://system.fpiptv.com:8080/live/rosa/rosa/768.ts
+#EXTINF:-1,TV Sur Canal 14
+http://system.fpiptv.com:8080/live/rosa/rosa/750.ts
+#EXTINF:-1,TV Marti
+http://system.fpiptv.com:8080/live/rosa/rosa/854.ts
+#EXTINF:-1,TV Maná Argentina SD
+http://system.fpiptv.com:8080/live/rosa/rosa/802.ts
+#EXTINF:-1,TV Azteca Honduras
+http://system.fpiptv.com:8080/live/rosa/rosa/849.ts
+#EXTINF:-1,TV 7 Ecuador
+http://system.fpiptv.com:8080/live/rosa/rosa/847.ts
+#EXTINF:-1,TV 5 Monde
+http://system.fpiptv.com:8080/live/rosa/rosa/860.ts
+#EXTINF:-1,TV 3
+http://system.fpiptv.com:8080/live/rosa/rosa/733.ts
+#EXTINF:-1,Tukanal TV
+http://system.fpiptv.com:8080/live/rosa/rosa/747.ts
+#EXTINF:-1,TRA Digital
+http://system.fpiptv.com:8080/live/rosa/rosa/816.ts
+#EXTINF:-1,TLX Telemax
+http://system.fpiptv.com:8080/live/rosa/rosa/798.ts
+#EXTINF:-1,TEN Canal 10
+http://system.fpiptv.com:8080/live/rosa/rosa/771.ts
+#EXTINF:-1,Televisora Venezolana Social
+http://system.fpiptv.com:8080/live/rosa/rosa/784.ts
+#EXTINF:-1,Teleuno
+http://system.fpiptv.com:8080/live/rosa/rosa/846.ts
+#EXTINF:-1,Telesur
+http://system.fpiptv.com:8080/live/rosa/rosa/852.ts
+#EXTINF:-1,Telesistema Canal 11
+http://system.fpiptv.com:8080/live/rosa/rosa/815.ts
+#EXTINF:-1,Telemedellin
+http://system.fpiptv.com:8080/live/rosa/rosa/780.ts
+#EXTINF:-1,TeleMax
+http://system.fpiptv.com:8080/live/rosa/rosa/840.ts
+#EXTINF:-1,TeleDanli Canal 9
+http://system.fpiptv.com:8080/live/rosa/rosa/773.ts
+#EXTINF:-1,Telecafé
+http://system.fpiptv.com:8080/live/rosa/rosa/779.ts
+#EXTINF:-1,Telearuba
+http://system.fpiptv.com:8080/live/rosa/rosa/826.ts
+#EXTINF:-1,Tele Universo
+http://system.fpiptv.com:8080/live/rosa/rosa/818.ts
+#EXTINF:-1,Tele Amiga
+http://system.fpiptv.com:8080/live/rosa/rosa/777.ts
+#EXTINF:-1,SMOTV Positive Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/751.ts
+#EXTINF:-1,RT en Español
+http://system.fpiptv.com:8080/live/rosa/rosa/865.ts
+#EXTINF:-1,RNN Canal 27
+http://system.fpiptv.com:8080/live/rosa/rosa/820.ts
+#EXTINF:-1,Red Guarani
+http://system.fpiptv.com:8080/live/rosa/rosa/743.ts
+#EXTINF:-1,Red Advenir
+http://system.fpiptv.com:8080/live/rosa/rosa/760.ts
+#EXTINF:-1,Real Madrid TV
+http://system.fpiptv.com:8080/live/rosa/rosa/727.ts
+#EXTINF:-1,RCG Televisión
+http://system.fpiptv.com:8080/live/rosa/rosa/835.ts
+#EXTINF:-1,Proyecto 40
+http://system.fpiptv.com:8080/live/rosa/rosa/842.ts
+#EXTINF:-1,Promar TV
+http://system.fpiptv.com:8080/live/rosa/rosa/789.ts
+#EXTINF:-1,PDVSA TV
+http://system.fpiptv.com:8080/live/rosa/rosa/787.ts
+#EXTINF:-1,PAT
+http://system.fpiptv.com:8080/live/rosa/rosa/759.ts
+#EXTINF:-1,Pacifico Television Virtual
+http://system.fpiptv.com:8080/live/rosa/rosa/812.ts
+#EXTINF:-1,Onda Cádiz TV
+http://system.fpiptv.com:8080/live/rosa/rosa/755.ts
+#EXTINF:-1,Niu TV
+http://system.fpiptv.com:8080/live/rosa/rosa/762.ts
+#EXTINF:-1,Navarra TV
+http://system.fpiptv.com:8080/live/rosa/rosa/739.ts
+#EXTINF:-1,Milenio Televisión
+http://system.fpiptv.com:8080/live/rosa/rosa/837.ts
+#EXTINF:-1,Canal 13 Puerto Rico
+http://system.fpiptv.com:8080/live/rosa/rosa/746.ts
+#EXTINF:-1,Logos TV
+http://system.fpiptv.com:8080/live/rosa/rosa/724.ts
+#EXTINF:-1,Lancelot TV
+http://system.fpiptv.com:8080/live/rosa/rosa/736.ts
+#EXTINF:-1,La Sexta
+http://system.fpiptv.com:8080/live/rosa/rosa/720.ts
+#EXTINF:-1,ITV Patagonia
+http://system.fpiptv.com:8080/live/rosa/rosa/792.ts
+#EXTINF:-1,GolTV
+http://system.fpiptv.com:8080/live/rosa/rosa/861.ts
+#EXTINF:-1,Globo TV Honduras
+http://system.fpiptv.com:8080/live/rosa/rosa/774.ts
+#EXTINF:-1,Galicia TV Europa
+http://system.fpiptv.com:8080/live/rosa/rosa/725.ts
+#EXTINF:-1,Galicia
+http://system.fpiptv.com:8080/live/rosa/rosa/735.ts
+#EXTINF:-1,Gala TV
+http://system.fpiptv.com:8080/live/rosa/rosa/845.ts
+#EXTINF:-1,Focus 49 Olelo
+http://system.fpiptv.com:8080/live/rosa/rosa/821.ts
+#EXTINF:-1,Euronews en Español
+http://euronews-es-p-cdn.hexaglobe.net/18a389506a5aabf68043e9f77b07f93b/599d42d9/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8
+#EXTINF:-1,ETB Sat
+http://system.fpiptv.com:8080/live/rosa/rosa/728.ts
+#EXTINF:-1,El Tiempo Television
+http://system.fpiptv.com:8080/live/rosa/rosa/867.ts
+#EXTINF:-1,El Pinguino TV
+http://system.fpiptv.com:8080/live/rosa/rosa/795.ts
+#EXTINF:-1,DXTV
+http://system.fpiptv.com:8080/live/rosa/rosa/862.ts
+#EXTINF:-1,DW Latinoamerica
+http://system.fpiptv.com:8080/live/rosa/rosa/859.ts
+#EXTINF:-1,Cosmovision
+http://system.fpiptv.com:8080/live/rosa/rosa/778.ts
+#EXTINF:-1,CORtv mex
+http://system.fpiptv.com:8080/live/rosa/rosa/841.ts
+#EXTINF:-1,Cinestream TV
+http://system.fpiptv.com:8080/live/rosa/rosa/829.ts
+#EXTINF:-1,CBA TV
+http://system.fpiptv.com:8080/live/rosa/rosa/830.ts
+#EXTINF:-1,Carolina TV
+http://system.fpiptv.com:8080/live/rosa/rosa/763.ts
+#EXTINF:-1,Capital TV
+http://system.fpiptv.com:8080/live/rosa/rosa/807.ts
+#EXTINF:-1,Capital 21 CDMX
+http://system.fpiptv.com:8080/live/rosa/rosa/839.ts
+#EXTINF:-1,Canal Uno
+http://system.fpiptv.com:8080/live/rosa/rosa/781.ts
+#EXTINF:-1,Canal Antiestrés
+http://system.fpiptv.com:8080/live/rosa/rosa/775.ts
+#EXTINF:-1,Canal 3/24
+http://system.fpiptv.com:8080/live/rosa/rosa/722.ts
+#EXTINF:-1,Canal 3 Culiacan
+http://system.fpiptv.com:8080/live/rosa/rosa/838.ts
+#EXTINF:-1,Canal 26 Argentina HD
+http://system.fpiptv.com:8080/live/rosa/rosa/803.ts
+#EXTINF:-1,Canal 25
+http://system.fpiptv.com:8080/live/rosa/rosa/819.ts
+#EXTINF:-1,Canal 2 Nicaragua
+http://system.fpiptv.com:8080/live/rosa/rosa/748.ts
+#EXTINF:-1,Canal 17 El Salvador
+http://system.fpiptv.com:8080/live/rosa/rosa/832.ts
+#EXTINF:-1,Cable Noticias
+http://system.fpiptv.com:8080/live/rosa/rosa/868.ts
+#EXTINF:-1,Belarus 24
+http://system.fpiptv.com:8080/live/rosa/rosa/827.ts
+#EXTINF:-1,Azteca 13
+http://system.fpiptv.com:8080/live/rosa/rosa/844.ts
+#EXTINF:-1,ATB Bolivia
+http://system.fpiptv.com:8080/live/rosa/rosa/764.ts
+#EXTINF:-1,Agrotendencia TV
+http://system.fpiptv.com:8080/live/rosa/rosa/790.ts
+#EXTINF:-1,7 TV Región de Murcia
+http://system.fpiptv.com:8080/live/rosa/rosa/741.ts
+#EXTINF:-1,360 TV
+http://system.fpiptv.com:8080/live/rosa/rosa/804.ts
+#EXTINF:-1,VIRGIN TV
+http://system.fpiptv.com:8080/live/rosa/rosa/965.ts
+#EXTINF:-1,VIAJAR HD
+http://system.fpiptv.com:8080/live/rosa/rosa/951.ts
+#EXTINF:-1,VH1
+http://system.fpiptv.com:8080/live/rosa/rosa/966.ts
+#EXTINF:-1,TV3
+http://system.fpiptv.com:8080/live/rosa/rosa/967.ts
+#EXTINF:-1,TNT HD Spain
+http://system.fpiptv.com:8080/live/rosa/rosa/977.ts
+#EXTINF:-1,TELEDEPORTE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/940.ts
+#EXTINF:-1,TELECINCO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/891.ts
+#EXTINF:-1,TCM HD
+http://system.fpiptv.com:8080/live/rosa/rosa/914.ts
+#EXTINF:-1,SYFY HD
+http://system.fpiptv.com:8080/live/rosa/rosa/919.ts
+#EXTINF:-1,RADIO MONTE-CARLO TV
+http://system.fpiptv.com:8080/live/rosa/rosa/968.ts
+#EXTINF:-1,RADIO 105
+http://system.fpiptv.com:8080/live/rosa/rosa/969.ts
+#EXTINF:-1,MOVISTAR DEPORTES
+http://system.fpiptv.com:8080/live/rosa/rosa/911.ts
+#EXTINF:-1,PANDA
+http://system.fpiptv.com:8080/live/rosa/rosa/958.ts
+#EXTINF:-1,ODISEA HD
+http://system.fpiptv.com:8080/live/rosa/rosa/953.ts
+#EXTINF:-1,NRJ12 MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/970.ts
+#EXTINF:-1,NOVA
+http://system.fpiptv.com:8080/live/rosa/rosa/897.ts
+#EXTINF:-1,NON STOP PEOPLE
+http://system.fpiptv.com:8080/live/rosa/rosa/901.ts
+#EXTINF:-1,NICKELODEON HD
+http://system.fpiptv.com:8080/live/rosa/rosa/957.ts
+#EXTINF:-1,NEOX
+http://system.fpiptv.com:8080/live/rosa/rosa/894.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/955.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://system.fpiptv.com:8080/live/rosa/rosa/956.ts
+#EXTINF:-1,MTV MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/972.ts
+#EXTINF:-1,MOVISTAR XTRA HD
+http://system.fpiptv.com:8080/live/rosa/rosa/909.ts
+#EXTINF:-1,MOVISTAR SERIES Xtra HD
+http://system.fpiptv.com:8080/live/rosa/rosa/908.ts
+#EXTINF:-1,MOVISTAR SERIES HD
+http://system.fpiptv.com:8080/live/rosa/rosa/907.ts
+#EXTINF:-1,MOVISTAR F1
+http://system.fpiptv.com:8080/live/rosa/rosa/944.ts
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/906.ts
+#EXTINF:-1,MOVISTAR DCINE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/905.ts
+#EXTINF:-1,MOVISTAR DCINE ESPANOL
+http://system.fpiptv.com:8080/live/rosa/rosa/910.ts
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://system.fpiptv.com:8080/live/rosa/rosa/904.ts
+#EXTINF:-1,MOVISTAR ACCION HD
+http://system.fpiptv.com:8080/live/rosa/rosa/903.ts
+#EXTINF:-1,Movistar Moto GP
+http://system.fpiptv.com:8080/live/rosa/rosa/945.ts
+#EXTINF:-1,Mega
+http://system.fpiptv.com:8080/live/rosa/rosa/893.ts
+#EXTINF:-1,M6 MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/975.ts
+#EXTINF:-1,M20
+http://system.fpiptv.com:8080/live/rosa/rosa/976.ts
+#EXTINF:-1,LA LIGA TV 1080
+http://system.fpiptv.com:8080/live/rosa/rosa/925.ts
+#EXTINF:-1,LA SEXTA HD
+http://system.fpiptv.com:8080/live/rosa/rosa/892.ts
+#EXTINF:-1,LA 2
+http://system.fpiptv.com:8080/live/rosa/rosa/888.ts
+#EXTINF:-1,LA 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/887.ts
+#EXTINF:-1,KISS TV
+http://system.fpiptv.com:8080/live/rosa/rosa/964.ts
+#EXTINF:-1,Barca TV
+http://system.fpiptv.com:8080/live/rosa/rosa/954.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://system.fpiptv.com:8080/live/rosa/rosa/912.ts
+#EXTINF:-1,HISTORIA
+http://system.fpiptv.com:8080/live/rosa/rosa/952.ts
+#EXTINF:-1,FOX LIFE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/918.ts
+#EXTINF:-1,FOX HD
+http://system.fpiptv.com:8080/live/rosa/rosa/917.ts
+#EXTINF:-1,FDF
+http://system.fpiptv.com:8080/live/rosa/rosa/895.ts
+#EXTINF:-1,ENERGY
+http://system.fpiptv.com:8080/live/rosa/rosa/898.ts
+#EXTINF:-1,DIVINITY
+http://system.fpiptv.com:8080/live/rosa/rosa/896.ts
+#EXTINF:-1,DISNEY XD Spain
+http://system.fpiptv.com:8080/live/rosa/rosa/978.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://system.fpiptv.com:8080/live/rosa/rosa/960.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/959.ts
+#EXTINF:-1,DISCOVERY CI
+http://system.fpiptv.com:8080/live/rosa/rosa/948.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/950.ts
+#EXTINF:-1,CUATRO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/890.ts
+#EXTINF:-1,COSMO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/922.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/921.ts
+#EXTINF:-1,CANAL COCINA
+http://system.fpiptv.com:8080/live/rosa/rosa/947.ts
+#EXTINF:-1,CANAL  TOROS
+http://system.fpiptv.com:8080/live/rosa/rosa/946.ts
+#EXTINF:-1,MOVISTAR GOLF
+http://system.fpiptv.com:8080/live/rosa/rosa/943.ts
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://system.fpiptv.com:8080/live/rosa/rosa/924.ts
+#EXTINF:-1,CANAL DEPORTES HD
+http://system.fpiptv.com:8080/live/rosa/rosa/941.ts
+#EXTINF:-1,CANAL  DEPORTES 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/942.ts
+#EXTINF:-1,CALLE 13 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/920.ts
+#EXTINF:-1,BOING
+http://system.fpiptv.com:8080/live/rosa/rosa/961.ts
+#EXTINF:-1,BEIN SPORT ES
+http://system.fpiptv.com:8080/live/rosa/rosa/931.ts
+#EXTINF:-1,BEIN LA LIGA 1080
+http://system.fpiptv.com:8080/live/rosa/rosa/926.ts
+#EXTINF:-1,BABY
+http://system.fpiptv.com:8080/live/rosa/rosa/962.ts
+#EXTINF:-1,AXN WHITE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/916.ts
+#EXTINF:-1,AXN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/915.ts
+#EXTINF:-1,ANTENA 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/889.ts
+#EXTINF:-1,ANDALUCIA TV
+http://system.fpiptv.com:8080/live/rosa/rosa/923.ts
+#EXTINF:-1,AMC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/913.ts
+#EXTINF:-1,A3SERIES
+http://system.fpiptv.com:8080/live/rosa/rosa/900.ts
+#EXTINF:-1,A&E
+http://system.fpiptv.com:8080/live/rosa/rosa/949.ts
+#EXTINF:-1,40 TV
+http://system.fpiptv.com:8080/live/rosa/rosa/963.ts
+#EXTINF:-1,#O HD
+http://system.fpiptv.com:8080/live/rosa/rosa/902.ts
+#EXTINF:-1,TPlay | 12 XEWT
+http://system.fpiptv.com:8080/live/rosa/rosa/2706.ts
+#EXTINF:-1,TPlay | 5* HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2707.ts
+#EXTINF:-1,TPlay | 7 Azteca
+http://system.fpiptv.com:8080/live/rosa/rosa/2663.ts
+#EXTINF:-1,TPlay | A&E
+http://system.fpiptv.com:8080/live/rosa/rosa/2708.ts
+#EXTINF:-1,TPlay | AMC
+http://system.fpiptv.com:8080/live/rosa/rosa/2709.ts
+#EXTINF:-1,TPlay | AMC  A
+http://system.fpiptv.com:8080/live/rosa/rosa/2710.ts
+#EXTINF:-1,TPlay | Animal Planet
+http://system.fpiptv.com:8080/live/rosa/rosa/2664.ts
+#EXTINF:-1,TPlay | AXN
+http://system.fpiptv.com:8080/live/rosa/rosa/2711.ts
+#EXTINF:-1,TPlay | AZ Clic!
+http://system.fpiptv.com:8080/live/rosa/rosa/2713.ts
+#EXTINF:-1,TPlay | AZ Corazon
+http://system.fpiptv.com:8080/live/rosa/rosa/2665.ts
+#EXTINF:-1,TPlay | AZCinema
+http://system.fpiptv.com:8080/live/rosa/rosa/2666.ts
+#EXTINF:-1,TPlay | AZMundo
+http://system.fpiptv.com:8080/live/rosa/rosa/2667.ts
+#EXTINF:-1,TPlay | Azteca 13
+http://system.fpiptv.com:8080/live/rosa/rosa/2668.ts
+#EXTINF:-1,TPlay | Azteca trece HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2670.ts
+#EXTINF:-1,TPlay | BANDAMAX
+http://system.fpiptv.com:8080/live/rosa/rosa/2671.ts
+#EXTINF:-1,TPlay | BBC Entertainment
+http://system.fpiptv.com:8080/live/rosa/rosa/2714.ts
+#EXTINF:-1,TPlay | Boomerang
+http://system.fpiptv.com:8080/live/rosa/rosa/2715.ts
+#EXTINF:-1,TPlay | Canal F1
+http://system.fpiptv.com:8080/live/rosa/rosa/2716.ts
+#EXTINF:-1,TPlay | Cartoon Network
+http://system.fpiptv.com:8080/live/rosa/rosa/2717.ts
+#EXTINF:-1,TPlay | CINECANAL
+http://system.fpiptv.com:8080/live/rosa/rosa/2719.ts
+#EXTINF:-1,TPlay | CINECANAL  A
+http://system.fpiptv.com:8080/live/rosa/rosa/2720.ts
+#EXTINF:-1,TPlay | CINEMAX
+http://system.fpiptv.com:8080/live/rosa/rosa/2672.ts
+#EXTINF:-1,TPlay | Comedy Central
+http://system.fpiptv.com:8080/live/rosa/rosa/2721.ts
+#EXTINF:-1,TPlay | De Pelicula HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2722.ts
+#EXTINF:-1,TPlay | Discovery
+http://system.fpiptv.com:8080/live/rosa/rosa/2675.ts
+#EXTINF:-1,TPlay | Discovery Civilization
+http://system.fpiptv.com:8080/live/rosa/rosa/2673.ts
+#EXTINF:-1,TPlay | Discovery KIDs
+http://system.fpiptv.com:8080/live/rosa/rosa/2674.ts
+#EXTINF:-1,TPlay | Discovery Science
+http://system.fpiptv.com:8080/live/rosa/rosa/2676.ts
+#EXTINF:-1,TPlay | Discovery TLC
+http://system.fpiptv.com:8080/live/rosa/rosa/2677.ts
+#EXTINF:-1,TPlay | Discovery TURBO
+http://system.fpiptv.com:8080/live/rosa/rosa/2678.ts
+#EXTINF:-1,TPlay | Discovery World
+http://system.fpiptv.com:8080/live/rosa/rosa/2679.ts
+#EXTINF:-1,TPlay | Disney Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/2723.ts
+#EXTINF:-1,TPlay | Disney Junior
+http://system.fpiptv.com:8080/live/rosa/rosa/2724.ts
+#EXTINF:-1,TPlay | Disney XD
+http://system.fpiptv.com:8080/live/rosa/rosa/2725.ts
+#EXTINF:-1,TPlay | E!
+http://system.fpiptv.com:8080/live/rosa/rosa/2726.ts
+#EXTINF:-1,TPlay | EDGE
+http://system.fpiptv.com:8080/live/rosa/rosa/2727.ts
+#EXTINF:-1,TPlay | ESPN
+http://system.fpiptv.com:8080/live/rosa/rosa/2683.ts
+#EXTINF:-1,TPlay | ESPN 2  A
+http://system.fpiptv.com:8080/live/rosa/rosa/2681.ts
+#EXTINF:-1,TPlay | ESPN 3
+http://system.fpiptv.com:8080/live/rosa/rosa/2682.ts
+#EXTINF:-1,TPlay | ESPN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2680.ts
+#EXTINF:-1,TPlay | FOX
+http://system.fpiptv.com:8080/live/rosa/rosa/2688.ts
+#EXTINF:-1,TPlay | FOX 1
+http://system.fpiptv.com:8080/live/rosa/rosa/2684.ts
+#EXTINF:-1,TPlay | FOX Action
+http://system.fpiptv.com:8080/live/rosa/rosa/2685.ts
+#EXTINF:-1,TPlay | FOX Cinema
+http://system.fpiptv.com:8080/live/rosa/rosa/2686.ts
+#EXTINF:-1,TPlay | FOX Classics
+http://system.fpiptv.com:8080/live/rosa/rosa/2687.ts
+#EXTINF:-1,TPlay | FOX Life
+http://system.fpiptv.com:8080/live/rosa/rosa/2689.ts
+#EXTINF:-1,TPlay | FOX Movies
+http://system.fpiptv.com:8080/live/rosa/rosa/2690.ts
+#EXTINF:-1,TPlay | FOX Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/2692.ts
+#EXTINF:-1,TPlay | FOX Sports 2
+http://system.fpiptv.com:8080/live/rosa/rosa/2691.ts
+#EXTINF:-1,TPlay | Fundacion Multimedios
+http://system.fpiptv.com:8080/live/rosa/rosa/2728.ts
+#EXTINF:-1,TPlay | FX
+http://system.fpiptv.com:8080/live/rosa/rosa/2730.ts
+#EXTINF:-1,TPlay | FX Latino
+http://system.fpiptv.com:8080/live/rosa/rosa/2729.ts
+#EXTINF:-1,TPlay | Gala TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2731.ts
+#EXTINF:-1,TPlay | Garage TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2732.ts
+#EXTINF:-1,TPlay | Golden HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2693.ts
+#EXTINF:-1,TPlay | H TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2734.ts
+#EXTINF:-1,TPlay | h&h Discovery
+http://system.fpiptv.com:8080/live/rosa/rosa/2694.ts
+#EXTINF:-1,TPlay | History
+http://system.fpiptv.com:8080/live/rosa/rosa/2695.ts
+#EXTINF:-1,TPlay | Investigation Discovery
+http://system.fpiptv.com:8080/live/rosa/rosa/2736.ts
+#EXTINF:-1,TPlay | ISAT
+http://system.fpiptv.com:8080/live/rosa/rosa/2737.ts
+#EXTINF:-1,TPlay | Las Estrellas
+http://system.fpiptv.com:8080/live/rosa/rosa/2738.ts
+#EXTINF:-1,TPlay | Lifetime
+http://system.fpiptv.com:8080/live/rosa/rosa/2696.ts
+#EXTINF:-1,TPlay | MTV
+http://system.fpiptv.com:8080/live/rosa/rosa/2698.ts
+#EXTINF:-1,TPlay | MTV HITS
+http://system.fpiptv.com:8080/live/rosa/rosa/2697.ts
+#EXTINF:-1,TPlay | MTV LIFE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2699.ts
+#EXTINF:-1,TPlay | NAT GEO WILD
+http://system.fpiptv.com:8080/live/rosa/rosa/2700.ts
+#EXTINF:-1,TPlay | National Geographic
+http://system.fpiptv.com:8080/live/rosa/rosa/2701.ts
+#EXTINF:-1,TPlay | NICK
+http://system.fpiptv.com:8080/live/rosa/rosa/2742.ts
+#EXTINF:-1,TPlay | Nick Jr.
+http://system.fpiptv.com:8080/live/rosa/rosa/2741.ts
+#EXTINF:-1,TPlay | NickToons
+http://system.fpiptv.com:8080/live/rosa/rosa/2743.ts
+#EXTINF:-1,TPlay | ONCE TV MEXICO
+http://system.fpiptv.com:8080/live/rosa/rosa/2744.ts
+#EXTINF:-1,TPlay | Proyecto 40
+http://system.fpiptv.com:8080/live/rosa/rosa/2745.ts
+#EXTINF:-1,TPlay | PX TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2746.ts
+#EXTINF:-1,TPlay | Sony Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/2712.ts
+#EXTINF:-1,TPlay | SPACE
+http://system.fpiptv.com:8080/live/rosa/rosa/2747.ts
+#EXTINF:-1,TPlay | SPACE  A
+http://system.fpiptv.com:8080/live/rosa/rosa/2748.ts
+#EXTINF:-1,TPlay | Studio Universal
+http://system.fpiptv.com:8080/live/rosa/rosa/2749.ts
+#EXTINF:-1,TPlay | SYFY
+http://system.fpiptv.com:8080/live/rosa/rosa/2750.ts
+#EXTINF:-1,TPlay | TBS
+http://system.fpiptv.com:8080/live/rosa/rosa/2751.ts
+#EXTINF:-1,TPlay | TCM
+http://system.fpiptv.com:8080/live/rosa/rosa/2752.ts
+#EXTINF:-1,TPlay | Tele HIT HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2753.ts
+#EXTINF:-1,TPlay | Telemundo
+http://system.fpiptv.com:8080/live/rosa/rosa/2702.ts
+#EXTINF:-1,TPlay | Theater Discovery
+http://system.fpiptv.com:8080/live/rosa/rosa/2703.ts
+#EXTINF:-1,TPlay | tlnovelas
+http://system.fpiptv.com:8080/live/rosa/rosa/2704.ts
+#EXTINF:-1,TPlay | TNT
+http://system.fpiptv.com:8080/live/rosa/rosa/2755.ts
+#EXTINF:-1,TPlay | TNT HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2754.ts
+#EXTINF:-1,TPlay | ToonCast
+http://system.fpiptv.com:8080/live/rosa/rosa/2756.ts
+#EXTINF:-1,TPlay | Tru TV Latino
+http://system.fpiptv.com:8080/live/rosa/rosa/2757.ts
+#EXTINF:-1,TPlay | Unicable
+http://system.fpiptv.com:8080/live/rosa/rosa/2758.ts
+#EXTINF:-1,TPlay | Universal Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/2760.ts
+#EXTINF:-1,TPlay | Universal Channel HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2759.ts
+#EXTINF:-1,TPlay | VH1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2705.ts
+#EXTINF:-1,TPlay | Warner Bross TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2761.ts
+#EXTINF:-1,Adult: Blacked
+http://system.fpiptv.com:8080/live/rosa/rosa/631.ts
+#EXTINF:-1,Adult: RedLight HD 2
+http://system.fpiptv.com:8080/live/rosa/rosa/881.ts
+#EXTINF:-1,Adult: RedLight HD
+http://system.fpiptv.com:8080/live/rosa/rosa/883.ts
+#EXTINF:-1,Adult: RedLight HD 1
+http://system.fpiptv.com:8080/live/rosa/rosa/884.ts
+#EXTINF:-1,Adult: RedLight HD 3
+http://system.fpiptv.com:8080/live/rosa/rosa/886.ts
+#EXTINF:-1,Adult: HUSTLER TV
+http://system.fpiptv.com:8080/live/rosa/rosa/634.ts
+#EXTINF:-1,Adult: Jasmin TV
+http://system.fpiptv.com:8080/live/rosa/rosa/629.ts
+#EXTINF:-1,Adult: HOT TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/651.ts
+#EXTINF:-1,Adult: Premiere Passie XXX
+http://system.fpiptv.com:8080/live/rosa/rosa/652.ts
+#EXTINF:-1,Adult: DESIRE
+http://system.fpiptv.com:8080/live/rosa/rosa/662.ts
+#EXTINF:-1,Adult: Adult HD 1
+http://system.fpiptv.com:8080/live/rosa/rosa/716.ts
+#EXTINF:-1,Adult: Adult HD 2
+http://system.fpiptv.com:8080/live/rosa/rosa/717.ts
+#EXTINF:-1,Adult: Adult HD 3
+http://system.fpiptv.com:8080/live/rosa/rosa/718.ts
+#EXTINF:-1,Adult: Adult HD 4
+http://system.fpiptv.com:8080/live/rosa/rosa/719.ts
+#EXTINF:-1,Colombia | Cable Noticias
+http://system.fpiptv.com:8080/live/rosa/rosa/2937.ts
+#EXTINF:-1,Colombia | Canal Antiestres
+http://system.fpiptv.com:8080/live/rosa/rosa/2936.ts
+#EXTINF:-1,Colombia | Canal U
+http://system.fpiptv.com:8080/live/rosa/rosa/2935.ts
+#EXTINF:-1,Colombia | Cantinazo
+http://system.fpiptv.com:8080/live/rosa/rosa/2933.ts
+#EXTINF:-1,Colombia | Caracol
+http://system.fpiptv.com:8080/live/rosa/rosa/2932.ts
+#EXTINF:-1,Colombia | Cosmovision
+http://system.fpiptv.com:8080/live/rosa/rosa/2930.ts
+#EXTINF:-1,Colombia | El Tiempo
+http://system.fpiptv.com:8080/live/rosa/rosa/2929.ts
+#EXTINF:-1,Colombia | Lifedesign
+http://system.fpiptv.com:8080/live/rosa/rosa/2928.ts
+#EXTINF:-1,Colombia | Mi Musica HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2927.ts
+#EXTINF:-1,Colombia | RCN
+http://system.fpiptv.com:8080/live/rosa/rosa/2926.ts
+#EXTINF:-1,Colombia | RCN Novelas
+http://system.fpiptv.com:8080/live/rosa/rosa/2924.ts
+#EXTINF:-1,Colombia | Tele Vida
+http://system.fpiptv.com:8080/live/rosa/rosa/2922.ts
+#EXTINF:-1,Colombia | Teleantioquia
+http://system.fpiptv.com:8080/live/rosa/rosa/2921.ts
+#EXTINF:-1,Colombia | Telecaribe
+http://system.fpiptv.com:8080/live/rosa/rosa/2919.ts
+#EXTINF:-1,Colombia | Teleislas
+http://system.fpiptv.com:8080/live/rosa/rosa/2918.ts
+#EXTINF:-1,Colombia | Telemedellin
+http://system.fpiptv.com:8080/live/rosa/rosa/2917.ts
+#EXTINF:-1,Colombia | Tigo Music
+http://system.fpiptv.com:8080/live/rosa/rosa/2915.ts
+#EXTINF:-1,Colombia | Trendy Musica
+http://system.fpiptv.com:8080/live/rosa/rosa/2914.ts
+#EXTINF:-1,Colombia | TV Agro
+http://system.fpiptv.com:8080/live/rosa/rosa/2913.ts
+#EXTINF:-1,AMERICA TV
+http://system.fpiptv.com:8080/live/rosa/rosa/2948.ts
+#EXTINF:-1,CANAL 13
+http://system.fpiptv.com:8080/live/rosa/rosa/2945.ts
+#EXTINF:-1,CANAL 9
+http://system.fpiptv.com:8080/live/rosa/rosa/2946.ts
+#EXTINF:-1,ESPN
+http://system.fpiptv.com:8080/live/rosa/rosa/2941.ts
+#EXTINF:-1,ESPN 2 ARG
+http://system.fpiptv.com:8080/live/rosa/rosa/2950.ts
+#EXTINF:-1,ESPN 3
+http://system.fpiptv.com:8080/live/rosa/rosa/2940.ts
+#EXTINF:-1,FOX SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/2943.ts
+#EXTINF:-1,FOX SPORT 2
+http://system.fpiptv.com:8080/live/rosa/rosa/2942.ts
+#EXTINF:-1,TELEFE
+http://system.fpiptv.com:8080/live/rosa/rosa/2947.ts
+#EXTINF:-1,TN
+http://system.fpiptv.com:8080/live/rosa/rosa/2944.ts
+#EXTINF:-1,TV PUBLICA
+http://system.fpiptv.com:8080/live/rosa/rosa/2949.ts
+#EXTINF:-1,TYC Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/2938.ts
+#EXTINF:-1,Canal 4 Argentina
+http://system.fpiptv.com:8080/live/rosa/rosa/2956.ts
+#EXTINF:-1,CANAL 26
+http://system.fpiptv.com:8080/live/rosa/rosa/2953.ts
+#EXTINF:-1,MY9-NY
+http://system.fpiptv.com:8080/live/rosa/rosa/2957.ts
+#EXTINF:-1,NBC Golf HD
+http://system.fpiptv.com:8080/live/rosa/rosa/2958.ts
+#EXTINF:-1,WORLD FISHING CA
+http://system.fpiptv.com:8080/live/rosa/rosa/2959.ts
+#EXTINF:-1,VELOCITY HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3051.ts
+#EXTINF:-1,Bein Sports Ñ
+http://system.fpiptv.com:8080/live/rosa/rosa/3337.ts
+#EXTINF:-1,FOX Deportes HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3340.ts
+#EXTINF:-1,ESPN Deportes HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3341.ts
+#EXTINF:-1,PPV 24/7: Bob Esponja SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3363.ts
+#EXTINF:-1,PPV 24/7: Canal Disney  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3362.ts
+#EXTINF:-1,PPV 24/7: Dragon Ball Z HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3360.ts
+#EXTINF:-1,PPV 24/7: El Chapulín Colorado SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3359.ts
+#EXTINF:-1,PPV 24/7: El Chavo del Ocho SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3358.ts
+#EXTINF:-1,PPV 24/7: Family Guy HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3357.ts
+#EXTINF:-1,PPV 24/7: Futurama HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3356.ts
+#EXTINF:-1,PPV 24/7: Los caballeros del Zodiaco  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3355.ts
+#EXTINF:-1,PPV 24/7: MacGyver SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3354.ts
+#EXTINF:-1,PPV 24/7: Malcolm  SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3353.ts
+#EXTINF:-1,PPV 24/7: Mr. Bean SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3352.ts
+#EXTINF:-1,PPV 24/7: Patoaventuras SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3351.ts
+#EXTINF:-1,PPV 24/7: Pocoyó SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3350.ts
+#EXTINF:-1,PPV 24/7: Scooby-Doo HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3345.ts
+#EXTINF:-1,PPV 24/7: South Park  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3344.ts
+#EXTINF:-1,PPV 24/7: Súper Campeones SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3343.ts
+#EXTINF:-1,PPV 24/7: The Simpsons HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3364.ts
+#EXTINF:-1,PPV 24/7: Two and half men
+http://system.fpiptv.com:8080/live/rosa/rosa/3346.ts
+#EXTINF:-1,BR - Band
+http://system.fpiptv.com:8080/live/rosa/rosa/3380.ts
+#EXTINF:-1,BR - Band News
+http://system.fpiptv.com:8080/live/rosa/rosa/3379.ts
+#EXTINF:-1,BR - Band Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/3378.ts
+#EXTINF:-1,BR - Combate
+http://system.fpiptv.com:8080/live/rosa/rosa/3377.ts
+#EXTINF:-1,BR - Eimax 1 Sport
+http://system.fpiptv.com:8080/live/rosa/rosa/3376.ts
+#EXTINF:-1,BR - Eimax 2 Sport
+http://system.fpiptv.com:8080/live/rosa/rosa/3375.ts
+#EXTINF:-1,BR - ESPN Brasil Sport
+http://system.fpiptv.com:8080/live/rosa/rosa/3374.ts
+#EXTINF:-1,BR - ESPN Sport
+http://system.fpiptv.com:8080/live/rosa/rosa/3373.ts
+#EXTINF:-1,BR - Fox Sports
+http://system.fpiptv.com:8080/live/rosa/rosa/3372.ts
+#EXTINF:-1,BR - Fox Sports 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3371.ts
+#EXTINF:-1,BR - GLOBO
+http://system.fpiptv.com:8080/live/rosa/rosa/3381.ts
+#EXTINF:-1,BR - Globo News
+http://system.fpiptv.com:8080/live/rosa/rosa/3370.ts
+#EXTINF:-1,BR - Record News
+http://system.fpiptv.com:8080/live/rosa/rosa/3369.ts
+#EXTINF:-1,BR - Rede Record
+http://system.fpiptv.com:8080/live/rosa/rosa/3368.ts
+#EXTINF:-1,BR - SporTV
+http://system.fpiptv.com:8080/live/rosa/rosa/3367.ts
+#EXTINF:-1,BR - SporTV 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3366.ts
+#EXTINF:-1,BR - SporTV 3
+http://system.fpiptv.com:8080/live/rosa/rosa/3365.ts
+#EXTINF:-1,PT -  A&E
+http://system.fpiptv.com:8080/live/rosa/rosa/3412.ts
+#EXTINF:-1,PT -  AXN WHITE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3413.ts
+#EXTINF:-1,PT - AXN BLACK HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3414.ts
+#EXTINF:-1,PT -AXN HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3415.ts
+#EXTINF:-1,PT -  Cartoon Network
+http://system.fpiptv.com:8080/live/rosa/rosa/3411.ts
+#EXTINF:-1,PT -  DISCOVERY CHANNEL
+http://system.fpiptv.com:8080/live/rosa/rosa/3410.ts
+#EXTINF:-1,PT -  Disney Junior
+http://system.fpiptv.com:8080/live/rosa/rosa/3409.ts
+#EXTINF:-1,PT -  E! ENTERTAINMENT
+http://system.fpiptv.com:8080/live/rosa/rosa/3408.ts
+#EXTINF:-1,PT -  Globo Premium
+http://system.fpiptv.com:8080/live/rosa/rosa/3406.ts
+#EXTINF:-1,PT -  HISTORIA
+http://system.fpiptv.com:8080/live/rosa/rosa/3407.ts
+#EXTINF:-1,PT -  Nickelodeon
+http://system.fpiptv.com:8080/live/rosa/rosa/3405.ts
+#EXTINF:-1,PT - AMC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3404.ts
+#EXTINF:-1,PT - NAT GEO WILD
+http://system.fpiptv.com:8080/live/rosa/rosa/3403.ts
+#EXTINF:-1,PT - NATIONAL GEOGRAPHIC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3402.ts
+#EXTINF:-1,PT -  BTV 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3401.ts
+#EXTINF:-1,PT -  EURONEWS
+http://system.fpiptv.com:8080/live/rosa/rosa/3400.ts
+#EXTINF:-1,PT -  EUROSPORT NEWS
+http://system.fpiptv.com:8080/live/rosa/rosa/3399.ts
+#EXTINF:-1,PT -  MOTORS TV
+http://system.fpiptv.com:8080/live/rosa/rosa/3398.ts
+#EXTINF:-1,PT -  MOTORVISION
+http://system.fpiptv.com:8080/live/rosa/rosa/3397.ts
+#EXTINF:-1,PT -  RTP 3
+http://system.fpiptv.com:8080/live/rosa/rosa/3394.ts
+#EXTINF:-1,PT -  SIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3393.ts
+#EXTINF:-1,PT -  SIC Radical
+http://system.fpiptv.com:8080/live/rosa/rosa/3392.ts
+#EXTINF:-1,PT -  SPORT TV 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3391.ts
+#EXTINF:-1,PT -  SPORT TV 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3390.ts
+#EXTINF:-1,PT - EUROSPORT 1
+http://system.fpiptv.com:8080/live/rosa/rosa/3389.ts
+#EXTINF:-1,PT - EUROSPORT 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3388.ts
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3387.ts
+#EXTINF:-1,PT - SPORT TV 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3386.ts
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3385.ts
+#EXTINF:-1,PT - TVE Internacional
+http://system.fpiptv.com:8080/live/rosa/rosa/3384.ts
+#EXTINF:-1,PT - TVI Reality
+http://system.fpiptv.com:8080/live/rosa/rosa/3382.ts
+#EXTINF:-1,CH: TELETRAK
+http://system.fpiptv.com:8080/live/rosa/rosa/3429.ts
+#EXTINF:-1,PE: AMERICA TELEVISION
+http://system.fpiptv.com:8080/live/rosa/rosa/3417.ts
+#EXTINF:-1,PE: ATV
+http://system.fpiptv.com:8080/live/rosa/rosa/3418.ts
+#EXTINF:-1,PE: FRECUENCIA LATINA
+http://system.fpiptv.com:8080/live/rosa/rosa/3419.ts
+#EXTINF:-1,PE: PANAMERICANA
+http://system.fpiptv.com:8080/live/rosa/rosa/3420.ts
+#EXTINF:-1,PE: PERU MAGICO
+http://system.fpiptv.com:8080/live/rosa/rosa/3421.ts
+#EXTINF:-1,PE: TV PERU
+http://system.fpiptv.com:8080/live/rosa/rosa/3422.ts
+#EXTINF:-1,CL: 13 CABLE
+http://system.fpiptv.com:8080/live/rosa/rosa/7549.ts
+#EXTINF:-1,CL: CANAL13
+http://system.fpiptv.com:8080/live/rosa/rosa/7548.ts
+#EXTINF:-1,CL: CDF PREMIUN
+http://system.fpiptv.com:8080/live/rosa/rosa/7547.ts
+#EXTINF:-1,CL: CHV
+http://system.fpiptv.com:8080/live/rosa/rosa/7546.ts
+#EXTINF:-1,CL: LA RED
+http://system.fpiptv.com:8080/live/rosa/rosa/7545.ts
+#EXTINF:-1,CL: MEGA
+http://system.fpiptv.com:8080/live/rosa/rosa/7544.ts
+#EXTINF:-1,CL: Teletrak
+http://system.fpiptv.com:8080/live/rosa/rosa/7543.ts
+#EXTINF:-1,CL: TVN
+http://system.fpiptv.com:8080/live/rosa/rosa/7542.ts
+#EXTINF:-1,CL: UCV
+http://system.fpiptv.com:8080/live/rosa/rosa/7541.ts
+#EXTINF:-1,CH: CNN CHILE
+http://system.fpiptv.com:8080/live/rosa/rosa/3435.ts
+#EXTINF:-1,Enlace Puerto Rico - Religion
+http://system.fpiptv.com:8080/live/rosa/rosa/3438.ts
+#EXTINF:-1,Logos TV PR
+http://system.fpiptv.com:8080/live/rosa/rosa/3436.ts
+#EXTINF:-1,NCN TV Puerto Rico SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3440.ts
+#EXTINF:-1,BYUtv International
+http://system.fpiptv.com:8080/live/rosa/rosa/3441.ts
+#EXTINF:-1,FR: ADO FM
+http://system.fpiptv.com:8080/live/rosa/rosa/3540.ts
+#EXTINF:-1,FR: CHANTE FRANCE
+http://system.fpiptv.com:8080/live/rosa/rosa/3544.ts
+#EXTINF:-1,FR: CHERIE FM
+http://system.fpiptv.com:8080/live/rosa/rosa/3551.ts
+#EXTINF:-1,FR: FRANCE CULTURE
+http://system.fpiptv.com:8080/live/rosa/rosa/3550.ts
+#EXTINF:-1,FR: FRANCE INFO RADIO
+http://system.fpiptv.com:8080/live/rosa/rosa/3549.ts
+#EXTINF:-1,FR: FRANCE INTER
+http://system.fpiptv.com:8080/live/rosa/rosa/3548.ts
+#EXTINF:-1,FR: FRANCE MUSIQUE
+http://system.fpiptv.com:8080/live/rosa/rosa/3547.ts
+#EXTINF:-1,FR: FUN RADIO
+http://system.fpiptv.com:8080/live/rosa/rosa/3541.ts
+#EXTINF:-1,FR: M2 CLASSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3543.ts
+#EXTINF:-1,FR: M2 LOVE
+http://system.fpiptv.com:8080/live/rosa/rosa/3542.ts
+#EXTINF:-1,FR: Nostalgie France
+http://system.fpiptv.com:8080/live/rosa/rosa/3552.ts
+#EXTINF:-1,FR: NRJ France
+http://system.fpiptv.com:8080/live/rosa/rosa/3553.ts
+#EXTINF:-1,FR: RADIO SHALOM
+http://system.fpiptv.com:8080/live/rosa/rosa/3545.ts
+#EXTINF:-1,FR: RCJ
+http://system.fpiptv.com:8080/live/rosa/rosa/3539.ts
+#EXTINF:-1,FR: Rire & Chansons
+http://system.fpiptv.com:8080/live/rosa/rosa/3554.ts
+#EXTINF:-1,FR: RTL
+http://system.fpiptv.com:8080/live/rosa/rosa/3546.ts
+#EXTINF:-1,USA Miami: Caracol 1260 AM
+http://system.fpiptv.com:8080/live/rosa/rosa/3556.ts
+#EXTINF:-1,USA Miami: 181. The MIX Radio
+http://system.fpiptv.com:8080/live/rosa/rosa/4885.ts
+#EXTINF:-1,CUB: Habana Radio 106.9 FM Havana
+http://system.fpiptv.com:8080/live/rosa/rosa/3555.ts
+#EXTINF:-1,CUB: Radio Cuba International
+http://system.fpiptv.com:8080/live/rosa/rosa/3558.ts
+#EXTINF:-1,CUB: Radio Salsa Stream
+http://system.fpiptv.com:8080/live/rosa/rosa/3560.ts
+#EXTINF:-1,CUB: Salsa Underground Radio
+http://system.fpiptv.com:8080/live/rosa/rosa/3559.ts
+#EXTINF:-1,FR:  TV5 MONDE
+http://system.fpiptv.com:8080/live/rosa/rosa/3709.ts
+#EXTINF:-1,FR: 13EME RUE
+http://system.fpiptv.com:8080/live/rosa/rosa/3708.ts
+#EXTINF:-1,FR: 6TER
+http://system.fpiptv.com:8080/live/rosa/rosa/3707.ts
+#EXTINF:-1,FR: AB1
+http://system.fpiptv.com:8080/live/rosa/rosa/3706.ts
+#EXTINF:-1,FR: AB3
+http://system.fpiptv.com:8080/live/rosa/rosa/3705.ts
+#EXTINF:-1,FR: ANIMAUX
+http://system.fpiptv.com:8080/live/rosa/rosa/3704.ts
+#EXTINF:-1,FR: ARTE
+http://system.fpiptv.com:8080/live/rosa/rosa/3703.ts
+#EXTINF:-1,FR: BEIN MAX 10
+http://system.fpiptv.com:8080/live/rosa/rosa/3702.ts
+#EXTINF:-1,FR: BEIN MAX 4
+http://system.fpiptv.com:8080/live/rosa/rosa/3701.ts
+#EXTINF:-1,FR: BEIN MAX 5
+http://system.fpiptv.com:8080/live/rosa/rosa/3700.ts
+#EXTINF:-1,FR: BEIN MAX 6
+http://system.fpiptv.com:8080/live/rosa/rosa/3699.ts
+#EXTINF:-1,FR: BEIN MAX 7
+http://system.fpiptv.com:8080/live/rosa/rosa/3698.ts
+#EXTINF:-1,FR: BEIN MAX 8
+http://system.fpiptv.com:8080/live/rosa/rosa/3697.ts
+#EXTINF:-1,FR: BEIN MAX 9
+http://system.fpiptv.com:8080/live/rosa/rosa/3696.ts
+#EXTINF:-1,FR: BEIN SPORT 1
+http://system.fpiptv.com:8080/live/rosa/rosa/3695.ts
+#EXTINF:-1,FR: BEIN SPORT 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3694.ts
+#EXTINF:-1,FR: BEIN SPORT 3
+http://system.fpiptv.com:8080/live/rosa/rosa/3693.ts
+#EXTINF:-1,FR: BFM SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3692.ts
+#EXTINF:-1,FR: BFM TV BUSINESS
+http://system.fpiptv.com:8080/live/rosa/rosa/3691.ts
+#EXTINF:-1,FR: BFMTV
+http://system.fpiptv.com:8080/live/rosa/rosa/3690.ts
+#EXTINF:-1,FR: BOING
+http://system.fpiptv.com:8080/live/rosa/rosa/3689.ts
+#EXTINF:-1,FR: BOOMERANG
+http://system.fpiptv.com:8080/live/rosa/rosa/3688.ts
+#EXTINF:-1,FR: C8 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3687.ts
+#EXTINF:-1,FR: CANAL  CINEMA
+http://system.fpiptv.com:8080/live/rosa/rosa/3684.ts
+#EXTINF:-1,FR: CANAL  DECALE
+http://system.fpiptv.com:8080/live/rosa/rosa/3683.ts
+#EXTINF:-1,FR: CANAL  FAMILY
+http://system.fpiptv.com:8080/live/rosa/rosa/3682.ts
+#EXTINF:-1,FR: CANAL  HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3681.ts
+#EXTINF:-1,FR: CANAL  SD
+http://system.fpiptv.com:8080/live/rosa/rosa/3680.ts
+#EXTINF:-1,FR: CANAL  SERIE
+http://system.fpiptv.com:8080/live/rosa/rosa/3679.ts
+#EXTINF:-1,FR: CANAL  SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3678.ts
+#EXTINF:-1,FR: CANAL J
+http://system.fpiptv.com:8080/live/rosa/rosa/3686.ts
+#EXTINF:-1,FR: CANAL SAVOIR
+http://system.fpiptv.com:8080/live/rosa/rosa/3685.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://system.fpiptv.com:8080/live/rosa/rosa/3677.ts
+#EXTINF:-1,FR: CHASSE ET PECHE
+http://system.fpiptv.com:8080/live/rosa/rosa/3676.ts
+#EXTINF:-1,FR: CHERIE 25
+http://system.fpiptv.com:8080/live/rosa/rosa/3675.ts
+#EXTINF:-1,FR: CINE  CLASSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3671.ts
+#EXTINF:-1,FR: CINE  CLUB
+http://system.fpiptv.com:8080/live/rosa/rosa/3670.ts
+#EXTINF:-1,FR: CINE  EMOTION
+http://system.fpiptv.com:8080/live/rosa/rosa/3669.ts
+#EXTINF:-1,FR: CINE  FAMIZ
+http://system.fpiptv.com:8080/live/rosa/rosa/3668.ts
+#EXTINF:-1,FR: CINE  FRISSON
+http://system.fpiptv.com:8080/live/rosa/rosa/3667.ts
+#EXTINF:-1,FR: CINE  PREMIER
+http://system.fpiptv.com:8080/live/rosa/rosa/3666.ts
+#EXTINF:-1,FR: CINE ACTION
+http://system.fpiptv.com:8080/live/rosa/rosa/3674.ts
+#EXTINF:-1,FR: CINE FX
+http://system.fpiptv.com:8080/live/rosa/rosa/3673.ts
+#EXTINF:-1,FR: CINE POLAR
+http://system.fpiptv.com:8080/live/rosa/rosa/3672.ts
+#EXTINF:-1,FR: CLASSICA
+http://system.fpiptv.com:8080/live/rosa/rosa/3665.ts
+#EXTINF:-1,FR: CLUB RTL
+http://system.fpiptv.com:8080/live/rosa/rosa/3664.ts
+#EXTINF:-1,FR: CNEWS
+http://system.fpiptv.com:8080/live/rosa/rosa/3663.ts
+#EXTINF:-1,FR: COMEDIE
+http://system.fpiptv.com:8080/live/rosa/rosa/3662.ts
+#EXTINF:-1,FR: CSTAR
+http://system.fpiptv.com:8080/live/rosa/rosa/3661.ts
+#EXTINF:-1,FR: DISCOVERY CHANNEL
+http://system.fpiptv.com:8080/live/rosa/rosa/3660.ts
+#EXTINF:-1,FR: DISCOVERY SC
+http://system.fpiptv.com:8080/live/rosa/rosa/3659.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://system.fpiptv.com:8080/live/rosa/rosa/3658.ts
+#EXTINF:-1,FR: DISNEY CINEMA
+http://system.fpiptv.com:8080/live/rosa/rosa/3657.ts
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://system.fpiptv.com:8080/live/rosa/rosa/3656.ts
+#EXTINF:-1,FR: DISNEY XD
+http://system.fpiptv.com:8080/live/rosa/rosa/3655.ts
+#EXTINF:-1,FR: E! ENTERTAINMENT
+http://system.fpiptv.com:8080/live/rosa/rosa/3654.ts
+#EXTINF:-1,FR: ELLE GIRL
+http://system.fpiptv.com:8080/live/rosa/rosa/3653.ts
+#EXTINF:-1,FR: EQUIDIA LIFE
+http://system.fpiptv.com:8080/live/rosa/rosa/3652.ts
+#EXTINF:-1,FR: EQUIDIA LIVE
+http://system.fpiptv.com:8080/live/rosa/rosa/3651.ts
+#EXTINF:-1,FR: EURONEWS
+http://system.fpiptv.com:8080/live/rosa/rosa/3650.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://system.fpiptv.com:8080/live/rosa/rosa/3649.ts
+#EXTINF:-1,FR: EUROSPORT 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3648.ts
+#EXTINF:-1,FR: FOOT
+http://system.fpiptv.com:8080/live/rosa/rosa/3647.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3646.ts
+#EXTINF:-1,FR: FRANCE 24
+http://system.fpiptv.com:8080/live/rosa/rosa/3645.ts
+#EXTINF:-1,FR: FRANCE 3 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3644.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3643.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3642.ts
+#EXTINF:-1,FR: FRANCE INFO
+http://system.fpiptv.com:8080/live/rosa/rosa/3641.ts
+#EXTINF:-1,FR: FRANCE O
+http://system.fpiptv.com:8080/live/rosa/rosa/3640.ts
+#EXTINF:-1,FR: GOLF
+http://system.fpiptv.com:8080/live/rosa/rosa/3638.ts
+#EXTINF:-1,FR: GOLF CHANNEL
+http://system.fpiptv.com:8080/live/rosa/rosa/3639.ts
+#EXTINF:-1,FR: GULLI
+http://system.fpiptv.com:8080/live/rosa/rosa/3637.ts
+#EXTINF:-1,FR: HD1
+http://system.fpiptv.com:8080/live/rosa/rosa/3636.ts
+#EXTINF:-1,FR: HISTOIRE
+http://system.fpiptv.com:8080/live/rosa/rosa/3635.ts
+#EXTINF:-1,FR: I24 NEWS
+http://system.fpiptv.com:8080/live/rosa/rosa/3634.ts
+#EXTINF:-1,FR: INFOSPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3633.ts
+#EXTINF:-1,FR: L'EQUIPE 21
+http://system.fpiptv.com:8080/live/rosa/rosa/3632.ts
+#EXTINF:-1,FR: LA DEUX
+http://system.fpiptv.com:8080/live/rosa/rosa/3631.ts
+#EXTINF:-1,FR: LA TROIS
+http://system.fpiptv.com:8080/live/rosa/rosa/3630.ts
+#EXTINF:-1,FR: LA UNE HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3629.ts
+#EXTINF:-1,FR: LATELE
+http://system.fpiptv.com:8080/live/rosa/rosa/3628.ts
+#EXTINF:-1,FR: LCI
+http://system.fpiptv.com:8080/live/rosa/rosa/3627.ts
+#EXTINF:-1,FR: LCP
+http://system.fpiptv.com:8080/live/rosa/rosa/3626.ts
+#EXTINF:-1,FR: Lucky Jack TV
+http://system.fpiptv.com:8080/live/rosa/rosa/3625.ts
+#EXTINF:-1,FR: M6 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3624.ts
+#EXTINF:-1,FR: M6 MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3623.ts
+#EXTINF:-1,FR: MANGAS
+http://system.fpiptv.com:8080/live/rosa/rosa/3622.ts
+#EXTINF:-1,FR: MCM
+http://system.fpiptv.com:8080/live/rosa/rosa/3621.ts
+#EXTINF:-1,FR: MCM TOP
+http://system.fpiptv.com:8080/live/rosa/rosa/3620.ts
+#EXTINF:-1,FR: MEZZO HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3619.ts
+#EXTINF:-1,FR: MEZZO LIVE
+http://system.fpiptv.com:8080/live/rosa/rosa/3618.ts
+#EXTINF:-1,FR: MOVISTAR GOLF
+http://system.fpiptv.com:8080/live/rosa/rosa/3617.ts
+#EXTINF:-1,FR: MTV FR
+http://system.fpiptv.com:8080/live/rosa/rosa/3616.ts
+#EXTINF:-1,FR: NAT GEO WILD
+http://system.fpiptv.com:8080/live/rosa/rosa/3615.ts
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3614.ts
+#EXTINF:-1,FR: NICKELODEON
+http://system.fpiptv.com:8080/live/rosa/rosa/3613.ts
+#EXTINF:-1,FR: NICKELODEON JR
+http://system.fpiptv.com:8080/live/rosa/rosa/3612.ts
+#EXTINF:-1,FR: NOTELE
+http://system.fpiptv.com:8080/live/rosa/rosa/3611.ts
+#EXTINF:-1,FR: NRJ12
+http://system.fpiptv.com:8080/live/rosa/rosa/3610.ts
+#EXTINF:-1,FR: NRJ12 MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3609.ts
+#EXTINF:-1,FR: NT1
+http://system.fpiptv.com:8080/live/rosa/rosa/3608.ts
+#EXTINF:-1,FR: NUMERO 23
+http://system.fpiptv.com:8080/live/rosa/rosa/3607.ts
+#EXTINF:-1,FR: OCS CHOC
+http://system.fpiptv.com:8080/live/rosa/rosa/3606.ts
+#EXTINF:-1,FR: OCS CITY
+http://system.fpiptv.com:8080/live/rosa/rosa/3605.ts
+#EXTINF:-1,FR: OCS GEANTS
+http://system.fpiptv.com:8080/live/rosa/rosa/3604.ts
+#EXTINF:-1,FR: OCS MAX
+http://system.fpiptv.com:8080/live/rosa/rosa/3603.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://system.fpiptv.com:8080/live/rosa/rosa/3602.ts
+#EXTINF:-1,FR: PARIS PREMIERE
+http://system.fpiptv.com:8080/live/rosa/rosa/3601.ts
+#EXTINF:-1,FR: PIWI
+http://system.fpiptv.com:8080/live/rosa/rosa/3600.ts
+#EXTINF:-1,FR: PLANETE
+http://system.fpiptv.com:8080/live/rosa/rosa/3597.ts
+#EXTINF:-1,FR: PLANETE A&E
+http://system.fpiptv.com:8080/live/rosa/rosa/3599.ts
+#EXTINF:-1,FR: PLANETE C.I
+http://system.fpiptv.com:8080/live/rosa/rosa/3598.ts
+#EXTINF:-1,FR: PLUG RTL
+http://system.fpiptv.com:8080/live/rosa/rosa/3596.ts
+#EXTINF:-1,FR: RADIO MONTE-CARLO TV
+http://system.fpiptv.com:8080/live/rosa/rosa/3595.ts
+#EXTINF:-1,FR: RMC DECOUVERT
+http://system.fpiptv.com:8080/live/rosa/rosa/3594.ts
+#EXTINF:-1,FR: RTL-TVI
+http://system.fpiptv.com:8080/live/rosa/rosa/3593.ts
+#EXTINF:-1,FR: RTL9 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3592.ts
+#EXTINF:-1,FR: RTS DEUX
+http://system.fpiptv.com:8080/live/rosa/rosa/3591.ts
+#EXTINF:-1,FR: RTS UN
+http://system.fpiptv.com:8080/live/rosa/rosa/3590.ts
+#EXTINF:-1,FR: SCIENCE ET VIE
+http://system.fpiptv.com:8080/live/rosa/rosa/3589.ts
+#EXTINF:-1,FR: SEASON
+http://system.fpiptv.com:8080/live/rosa/rosa/3588.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://system.fpiptv.com:8080/live/rosa/rosa/3587.ts
+#EXTINF:-1,FR: SFR1 SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3586.ts
+#EXTINF:-1,FR: SFR2 SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3585.ts
+#EXTINF:-1,FR: SFR3 SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3584.ts
+#EXTINF:-1,FR: SFR5 SPORT
+http://system.fpiptv.com:8080/live/rosa/rosa/3583.ts
+#EXTINF:-1,FR: SKY SPORT 4
+http://system.fpiptv.com:8080/live/rosa/rosa/3582.ts
+#EXTINF:-1,FR: SYFY
+http://system.fpiptv.com:8080/live/rosa/rosa/3581.ts
+#EXTINF:-1,FR: TCM CLASSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/3580.ts
+#EXTINF:-1,FR: TELE SAMBRE
+http://system.fpiptv.com:8080/live/rosa/rosa/3579.ts
+#EXTINF:-1,FR: TELE VESDRE
+http://system.fpiptv.com:8080/live/rosa/rosa/3578.ts
+#EXTINF:-1,FR: TELETOON
+http://system.fpiptv.com:8080/live/rosa/rosa/3577.ts
+#EXTINF:-1,FR: TEVA
+http://system.fpiptv.com:8080/live/rosa/rosa/3576.ts
+#EXTINF:-1,FR: TF1 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3575.ts
+#EXTINF:-1,FR: TIJI
+http://system.fpiptv.com:8080/live/rosa/rosa/3574.ts
+#EXTINF:-1,FR: TMC
+http://system.fpiptv.com:8080/live/rosa/rosa/3573.ts
+#EXTINF:-1,FR: TOUTE L`HISTOIRE
+http://system.fpiptv.com:8080/live/rosa/rosa/3572.ts
+#EXTINF:-1,FR: TV BREIZH
+http://system.fpiptv.com:8080/live/rosa/rosa/3571.ts
+#EXTINF:-1,FR: TV LUX
+http://system.fpiptv.com:8080/live/rosa/rosa/3570.ts
+#EXTINF:-1,FR: TVM3
+http://system.fpiptv.com:8080/live/rosa/rosa/3569.ts
+#EXTINF:-1,FR: USHUAIA
+http://system.fpiptv.com:8080/live/rosa/rosa/3568.ts
+#EXTINF:-1,FR: VIVOLTA
+http://system.fpiptv.com:8080/live/rosa/rosa/3567.ts
+#EXTINF:-1,FR: VOYAGE
+http://system.fpiptv.com:8080/live/rosa/rosa/3566.ts
+#EXTINF:-1,FR: W9 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/3565.ts
+#EXTINF:-1,FR: WEO
+http://system.fpiptv.com:8080/live/rosa/rosa/3564.ts
+#EXTINF:-1,FR: ZIGGO GOLF
+http://system.fpiptv.com:8080/live/rosa/rosa/3563.ts
+#EXTINF:-1,FR: ZOUZOUS
+http://system.fpiptv.com:8080/live/rosa/rosa/3562.ts
+#EXTINF:-1,ISR | ARUTZ 1
+http://system.fpiptv.com:8080/live/rosa/rosa/3730.ts
+#EXTINF:-1,ISR | ARUTZ 10
+http://system.fpiptv.com:8080/live/rosa/rosa/3729.ts
+#EXTINF:-1,ISR | ARUTZ 22
+http://system.fpiptv.com:8080/live/rosa/rosa/3728.ts
+#EXTINF:-1,ISR | ARUTZ 99
+http://system.fpiptv.com:8080/live/rosa/rosa/3727.ts
+#EXTINF:-1,ISR | BABY
+http://system.fpiptv.com:8080/live/rosa/rosa/3726.ts
+#EXTINF:-1,ISR | HOP
+http://system.fpiptv.com:8080/live/rosa/rosa/3725.ts
+#EXTINF:-1,ISR | HOT 3
+http://system.fpiptv.com:8080/live/rosa/rosa/3724.ts
+#EXTINF:-1,ISR | HOT ACTION
+http://system.fpiptv.com:8080/live/rosa/rosa/3723.ts
+#EXTINF:-1,ISR | HOT DRAMA
+http://system.fpiptv.com:8080/live/rosa/rosa/3722.ts
+#EXTINF:-1,ISR | HOT FUN
+http://system.fpiptv.com:8080/live/rosa/rosa/3721.ts
+#EXTINF:-1,ISR | HOT GOLD
+http://system.fpiptv.com:8080/live/rosa/rosa/3720.ts
+#EXTINF:-1,ISR | HOT HBO
+http://system.fpiptv.com:8080/live/rosa/rosa/3719.ts
+#EXTINF:-1,ISR | KABALA
+http://system.fpiptv.com:8080/live/rosa/rosa/3718.ts
+#EXTINF:-1,ISR | MUSIC 24
+http://system.fpiptv.com:8080/live/rosa/rosa/3717.ts
+#EXTINF:-1,ISR | NICK Jr
+http://system.fpiptv.com:8080/live/rosa/rosa/3716.ts
+#EXTINF:-1,ISR | NICKELODEON
+http://system.fpiptv.com:8080/live/rosa/rosa/3715.ts
+#EXTINF:-1,ISR | ONE
+http://system.fpiptv.com:8080/live/rosa/rosa/3714.ts
+#EXTINF:-1,ISR | SPORT 1
+http://system.fpiptv.com:8080/live/rosa/rosa/3713.ts
+#EXTINF:-1,ISR | SPORT 2
+http://system.fpiptv.com:8080/live/rosa/rosa/3712.ts
+#EXTINF:-1,ISR | SPORT 5
+http://system.fpiptv.com:8080/live/rosa/rosa/3711.ts
+#EXTINF:-1,ISR | SPORT 5 LIVE
+http://system.fpiptv.com:8080/live/rosa/rosa/3710.ts
+#EXTINF:-1,UK : &tv HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7753.ts
+#EXTINF:-1,UK : 4Seven
+http://system.fpiptv.com:8080/live/rosa/rosa/7757.ts
+#EXTINF:-1,UK : 5Star
+http://system.fpiptv.com:8080/live/rosa/rosa/7874.ts
+#EXTINF:-1,UK : 5Star Plus 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7873.ts
+#EXTINF:-1,UK : 5USA
+http://system.fpiptv.com:8080/live/rosa/rosa/7872.ts
+#EXTINF:-1,UK : 5USA  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7871.ts
+#EXTINF:-1,UK : AAJ TAK
+http://system.fpiptv.com:8080/live/rosa/rosa/7756.ts
+#EXTINF:-1,UK : ABN TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7870.ts
+#EXTINF:-1,UK : ABP News
+http://system.fpiptv.com:8080/live/rosa/rosa/7755.ts
+#EXTINF:-1,UK : Absolute
+http://system.fpiptv.com:8080/live/rosa/rosa/7667.ts
+#EXTINF:-1,UK : Absolute 80s
+http://system.fpiptv.com:8080/live/rosa/rosa/7666.ts
+#EXTINF:-1,UK : Absolute 90s
+http://system.fpiptv.com:8080/live/rosa/rosa/7665.ts
+#EXTINF:-1,UK : Ahlulbayt TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7664.ts
+#EXTINF:-1,UK : Al Arabiya
+http://system.fpiptv.com:8080/live/rosa/rosa/7754.ts
+#EXTINF:-1,UK : Al Jazeera Eng
+http://system.fpiptv.com:8080/live/rosa/rosa/7663.ts
+#EXTINF:-1,UK : Al Jazeera HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7780.ts
+#EXTINF:-1,UK : alibi
+http://system.fpiptv.com:8080/live/rosa/rosa/7779.ts
+#EXTINF:-1,UK : AMC from BT
+http://system.fpiptv.com:8080/live/rosa/rosa/7821.ts
+#EXTINF:-1,UK : Animal Planet
+http://system.fpiptv.com:8080/live/rosa/rosa/7778.ts
+#EXTINF:-1,UK : Animal Plnt 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7777.ts
+#EXTINF:-1,UK : Arirang TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7640.ts
+#EXTINF:-1,UK : BBC Four HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7869.ts
+#EXTINF:-1,UK : BBC NEWS FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7837.ts
+#EXTINF:-1,UK : BBC One HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7752.ts
+#EXTINF:-1,UK : BBC One NI HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7751.ts
+#EXTINF:-1,UK : BBC ONE SCOTTLAND FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7836.ts
+#EXTINF:-1,UK : BBC ONE WALES FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7835.ts
+#EXTINF:-1,UK : BBC Two HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7750.ts
+#EXTINF:-1,UK : Best Direct
+http://system.fpiptv.com:8080/live/rosa/rosa/7749.ts
+#EXTINF:-1,UK : BET:BlackEntTv
+http://system.fpiptv.com:8080/live/rosa/rosa/7639.ts
+#EXTINF:-1,UK : BFBS Radio
+http://system.fpiptv.com:8080/live/rosa/rosa/7662.ts
+#EXTINF:-1,UK : Bike
+http://system.fpiptv.com:8080/live/rosa/rosa/7748.ts
+#EXTINF:-1,UK : BLAZE
+http://system.fpiptv.com:8080/live/rosa/rosa/7661.ts
+#EXTINF:-1,UK : Bloomberg
+http://system.fpiptv.com:8080/live/rosa/rosa/7660.ts
+#EXTINF:-1,UK : Box Hits
+http://system.fpiptv.com:8080/live/rosa/rosa/7868.ts
+#EXTINF:-1,UK : Box Upfront
+http://system.fpiptv.com:8080/live/rosa/rosa/7867.ts
+#EXTINF:-1,UK : CBBC HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7747.ts
+#EXTINF:-1,UK : CBS Action
+http://system.fpiptv.com:8080/live/rosa/rosa/7820.ts
+#EXTINF:-1,UK : CBS Drama
+http://system.fpiptv.com:8080/live/rosa/rosa/7819.ts
+#EXTINF:-1,UK : Channel 4
+http://system.fpiptv.com:8080/live/rosa/rosa/7866.ts
+#EXTINF:-1,UK : Channel 4  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7865.ts
+#EXTINF:-1,UK : Channel 4 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7746.ts
+#EXTINF:-1,UK : Channel 5
+http://system.fpiptv.com:8080/live/rosa/rosa/7864.ts
+#EXTINF:-1,UK : Channel 5 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7863.ts
+#EXTINF:-1,UK : Channel 5 Plus 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7862.ts
+#EXTINF:-1,UK : Channel AKA
+http://system.fpiptv.com:8080/live/rosa/rosa/7861.ts
+#EXTINF:-1,UK : Channels 24
+http://system.fpiptv.com:8080/live/rosa/rosa/7860.ts
+#EXTINF:-1,UK : Chart Show TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7818.ts
+#EXTINF:-1,UK : Chartshow Hits
+http://system.fpiptv.com:8080/live/rosa/rosa/7817.ts
+#EXTINF:-1,UK : CHSTV
+http://system.fpiptv.com:8080/live/rosa/rosa/7659.ts
+#EXTINF:-1,UK : CITV
+http://system.fpiptv.com:8080/live/rosa/rosa/7745.ts
+#EXTINF:-1,UK : Classic Rock
+http://system.fpiptv.com:8080/live/rosa/rosa/7658.ts
+#EXTINF:-1,UK : COLORS HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7776.ts
+#EXTINF:-1,UK : ComedyCent 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7638.ts
+#EXTINF:-1,UK : ComedyCentral
+http://system.fpiptv.com:8080/live/rosa/rosa/7637.ts
+#EXTINF:-1,UK : ComedyXtra
+http://system.fpiptv.com:8080/live/rosa/rosa/7636.ts
+#EXTINF:-1,UK : ComedyXtra 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7635.ts
+#EXTINF:-1,UK : Craft Extra
+http://system.fpiptv.com:8080/live/rosa/rosa/7816.ts
+#EXTINF:-1,UK : Create & Craft
+http://system.fpiptv.com:8080/live/rosa/rosa/7657.ts
+#EXTINF:-1,UK : Dave
+http://system.fpiptv.com:8080/live/rosa/rosa/7775.ts
+#EXTINF:-1,UK : DAYSTAR HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7774.ts
+#EXTINF:-1,UK : Discovery
+http://system.fpiptv.com:8080/live/rosa/rosa/7768.ts
+#EXTINF:-1,UK : Discovery 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7767.ts
+#EXTINF:-1,UK : Discovery History
+http://system.fpiptv.com:8080/live/rosa/rosa/7773.ts
+#EXTINF:-1,UK : Discovery History 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7772.ts
+#EXTINF:-1,UK : Discovery Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7766.ts
+#EXTINF:-1,UK : Discovery Sci 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7771.ts
+#EXTINF:-1,UK : Discovery Science
+http://system.fpiptv.com:8080/live/rosa/rosa/7770.ts
+#EXTINF:-1,UK : Discovery Shed
+http://system.fpiptv.com:8080/live/rosa/rosa/7765.ts
+#EXTINF:-1,UK : Discovery Turbo
+http://system.fpiptv.com:8080/live/rosa/rosa/7769.ts
+#EXTINF:-1,UK : DMAX
+http://system.fpiptv.com:8080/live/rosa/rosa/7764.ts
+#EXTINF:-1,UK : DMAX 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7763.ts
+#EXTINF:-1,UK : Drama
+http://system.fpiptv.com:8080/live/rosa/rosa/7762.ts
+#EXTINF:-1,UK : Drama Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7761.ts
+#EXTINF:-1,UK : Dunya News
+http://system.fpiptv.com:8080/live/rosa/rosa/7815.ts
+#EXTINF:-1,UK : E!  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7744.ts
+#EXTINF:-1,UK : E! Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7743.ts
+#EXTINF:-1,UK : E! UK
+http://system.fpiptv.com:8080/live/rosa/rosa/7742.ts
+#EXTINF:-1,UK : E4
+http://system.fpiptv.com:8080/live/rosa/rosa/7859.ts
+#EXTINF:-1,UK : E4 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7858.ts
+#EXTINF:-1,UK : Eden
+http://system.fpiptv.com:8080/live/rosa/rosa/7760.ts
+#EXTINF:-1,UK : eir Sport 2 HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7634.ts
+#EXTINF:-1,UK : Eman Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7857.ts
+#EXTINF:-1,UK : Flava
+http://system.fpiptv.com:8080/live/rosa/rosa/7656.ts
+#EXTINF:-1,UK : Food Network
+http://system.fpiptv.com:8080/live/rosa/rosa/7814.ts
+#EXTINF:-1,UK : Food Netwrk 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7813.ts
+#EXTINF:-1,UK : FRANCE Eng
+http://system.fpiptv.com:8080/live/rosa/rosa/7812.ts
+#EXTINF:-1,UK : FrontRunner
+http://system.fpiptv.com:8080/live/rosa/rosa/7655.ts
+#EXTINF:-1,UK : FrontRunner 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7654.ts
+#EXTINF:-1,UK : Gems TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7811.ts
+#EXTINF:-1,UK : GEO TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7741.ts
+#EXTINF:-1,UK : Get Lucky TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7810.ts
+#EXTINF:-1,UK : Glory TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7740.ts
+#EXTINF:-1,UK : GOLD
+http://system.fpiptv.com:8080/live/rosa/rosa/7759.ts
+#EXTINF:-1,UK : Good Food
+http://system.fpiptv.com:8080/live/rosa/rosa/7758.ts
+#EXTINF:-1,UK : Gospel Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7653.ts
+#EXTINF:-1,UK : Heart
+http://system.fpiptv.com:8080/live/rosa/rosa/7652.ts
+#EXTINF:-1,UK : Heart 80s
+http://system.fpiptv.com:8080/live/rosa/rosa/7651.ts
+#EXTINF:-1,UK : High Street TV 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7809.ts
+#EXTINF:-1,UK : Hillsong
+http://system.fpiptv.com:8080/live/rosa/rosa/7650.ts
+#EXTINF:-1,UK : Home
+http://system.fpiptv.com:8080/live/rosa/rosa/7699.ts
+#EXTINF:-1,UK : Home & Health
+http://system.fpiptv.com:8080/live/rosa/rosa/7698.ts
+#EXTINF:-1,UK : Home & Health 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7697.ts
+#EXTINF:-1,UK : horror ch 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7808.ts
+#EXTINF:-1,UK : horror channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7807.ts
+#EXTINF:-1,UK : ID
+http://system.fpiptv.com:8080/live/rosa/rosa/7696.ts
+#EXTINF:-1,UK : ID 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7695.ts
+#EXTINF:-1,UK : ID Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7694.ts
+#EXTINF:-1,UK : Ideal Extra
+http://system.fpiptv.com:8080/live/rosa/rosa/7649.ts
+#EXTINF:-1,UK : Ideal World
+http://system.fpiptv.com:8080/live/rosa/rosa/7648.ts
+#EXTINF:-1,UK : Insight HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7633.ts
+#EXTINF:-1,UK : Inspiration TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7647.ts
+#EXTINF:-1,UK : ITV Anglia East
+http://system.fpiptv.com:8080/live/rosa/rosa/7739.ts
+#EXTINF:-1,UK : ITV Anglia East HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7738.ts
+#EXTINF:-1,UK : ITV Anglia East Plus 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7737.ts
+#EXTINF:-1,UK : ITV Be
+http://system.fpiptv.com:8080/live/rosa/rosa/7736.ts
+#EXTINF:-1,UK : ITV Border England HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7735.ts
+#EXTINF:-1,UK : ITV Box Off HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7734.ts
+#EXTINF:-1,UK : ITV Central West
+http://system.fpiptv.com:8080/live/rosa/rosa/7733.ts
+#EXTINF:-1,UK : ITV Central West FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7834.ts
+#EXTINF:-1,UK : ITV Granada
+http://system.fpiptv.com:8080/live/rosa/rosa/7732.ts
+#EXTINF:-1,UK : ITV Granada FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7833.ts
+#EXTINF:-1,UK : ITV London
+http://system.fpiptv.com:8080/live/rosa/rosa/7731.ts
+#EXTINF:-1,UK : ITV London FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7832.ts
+#EXTINF:-1,UK : ITV Meridian East FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7831.ts
+#EXTINF:-1,UK : ITV Meridian East Plus1
+http://system.fpiptv.com:8080/live/rosa/rosa/7730.ts
+#EXTINF:-1,UK : ITV Tyne Tees HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7830.ts
+#EXTINF:-1,UK : ITV Wales FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7829.ts
+#EXTINF:-1,UK : ITV West Country FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7828.ts
+#EXTINF:-1,UK : ITV West Country South West FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7827.ts
+#EXTINF:-1,UK : ITV Yorkshire West FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7826.ts
+#EXTINF:-1,UK : ITV2
+http://system.fpiptv.com:8080/live/rosa/rosa/7729.ts
+#EXTINF:-1,UK : ITV2 FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7825.ts
+#EXTINF:-1,UK : ITV3 FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7824.ts
+#EXTINF:-1,UK : ITV4
+http://system.fpiptv.com:8080/live/rosa/rosa/7728.ts
+#EXTINF:-1,UK : ITV4 FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7823.ts
+#EXTINF:-1,UK : ITV4 Plus 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7727.ts
+#EXTINF:-1,UK : Jewelry Maker
+http://system.fpiptv.com:8080/live/rosa/rosa/7646.ts
+#EXTINF:-1,UK : JML Direct
+http://system.fpiptv.com:8080/live/rosa/rosa/7726.ts
+#EXTINF:-1,UK : Keep It Country
+http://system.fpiptv.com:8080/live/rosa/rosa/7645.ts
+#EXTINF:-1,UK : Kerrang!
+http://system.fpiptv.com:8080/live/rosa/rosa/7856.ts
+#EXTINF:-1,UK : Kiss
+http://system.fpiptv.com:8080/live/rosa/rosa/7855.ts
+#EXTINF:-1,UK : Kix
+http://system.fpiptv.com:8080/live/rosa/rosa/7806.ts
+#EXTINF:-1,UK : Kix 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7805.ts
+#EXTINF:-1,UK : LBC
+http://system.fpiptv.com:8080/live/rosa/rosa/7644.ts
+#EXTINF:-1,UK : LOVEWORLD TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7643.ts
+#EXTINF:-1,UK : Lucky Star
+http://system.fpiptv.com:8080/live/rosa/rosa/7804.ts
+#EXTINF:-1,UK : Made In Bristol
+http://system.fpiptv.com:8080/live/rosa/rosa/7803.ts
+#EXTINF:-1,UK : Made In Cardiff
+http://system.fpiptv.com:8080/live/rosa/rosa/7802.ts
+#EXTINF:-1,UK : Made In Leeds
+http://system.fpiptv.com:8080/live/rosa/rosa/7801.ts
+#EXTINF:-1,UK : Magic
+http://system.fpiptv.com:8080/live/rosa/rosa/7854.ts
+#EXTINF:-1,UK : More4
+http://system.fpiptv.com:8080/live/rosa/rosa/7853.ts
+#EXTINF:-1,UK : Mov4men 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7725.ts
+#EXTINF:-1,UK : Movies 24
+http://system.fpiptv.com:8080/live/rosa/rosa/7724.ts
+#EXTINF:-1,UK : Movies24
+http://system.fpiptv.com:8080/live/rosa/rosa/7723.ts
+#EXTINF:-1,UK : movies4men
+http://system.fpiptv.com:8080/live/rosa/rosa/7722.ts
+#EXTINF:-1,UK : MTV
+http://system.fpiptv.com:8080/live/rosa/rosa/7693.ts
+#EXTINF:-1,UK : MTV 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7692.ts
+#EXTINF:-1,UK : MTV BASE
+http://system.fpiptv.com:8080/live/rosa/rosa/7691.ts
+#EXTINF:-1,UK : MTV CLASSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/7690.ts
+#EXTINF:-1,UK : MTV DANCE
+http://system.fpiptv.com:8080/live/rosa/rosa/7689.ts
+#EXTINF:-1,UK : MTV HITS
+http://system.fpiptv.com:8080/live/rosa/rosa/7688.ts
+#EXTINF:-1,UK : MTV Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7687.ts
+#EXTINF:-1,UK : MTV MUSIC
+http://system.fpiptv.com:8080/live/rosa/rosa/7686.ts
+#EXTINF:-1,UK : MTV Music  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7685.ts
+#EXTINF:-1,UK : MTV ROCKS
+http://system.fpiptv.com:8080/live/rosa/rosa/7684.ts
+#EXTINF:-1,UK : MUTV FHD
+http://system.fpiptv.com:8080/live/rosa/rosa/7796.ts
+#EXTINF:-1,UK : My5
+http://system.fpiptv.com:8080/live/rosa/rosa/7852.ts
+#EXTINF:-1,UK : New Vision  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7800.ts
+#EXTINF:-1,UK : New Vision TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7642.ts
+#EXTINF:-1,UK : Newstalk
+http://system.fpiptv.com:8080/live/rosa/rosa/7721.ts
+#EXTINF:-1,UK : NHK World HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7632.ts
+#EXTINF:-1,UK : Nick Jr 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7631.ts
+#EXTINF:-1,UK : Nick Jr Too
+http://system.fpiptv.com:8080/live/rosa/rosa/7630.ts
+#EXTINF:-1,UK : Nick Jr.
+http://system.fpiptv.com:8080/live/rosa/rosa/7629.ts
+#EXTINF:-1,UK : Nickelodeon
+http://system.fpiptv.com:8080/live/rosa/rosa/7628.ts
+#EXTINF:-1,UK : Nicktoons
+http://system.fpiptv.com:8080/live/rosa/rosa/7627.ts
+#EXTINF:-1,UK : NOW 80s
+http://system.fpiptv.com:8080/live/rosa/rosa/7641.ts
+#EXTINF:-1,UK : Olive TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7851.ts
+#EXTINF:-1,UK : PaversShoes.tv
+http://system.fpiptv.com:8080/live/rosa/rosa/7624.ts
+#EXTINF:-1,UK : PBS America
+http://system.fpiptv.com:8080/live/rosa/rosa/7799.ts
+#EXTINF:-1,UK : Peace TV Urdu
+http://system.fpiptv.com:8080/live/rosa/rosa/7720.ts
+#EXTINF:-1,UK : POP
+http://system.fpiptv.com:8080/live/rosa/rosa/7798.ts
+#EXTINF:-1,UK : POP 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7797.ts
+#EXTINF:-1,UK : Premier HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7626.ts
+#EXTINF:-1,UK : propeller
+http://system.fpiptv.com:8080/live/rosa/rosa/7623.ts
+#EXTINF:-1,UK : Property Show
+http://system.fpiptv.com:8080/live/rosa/rosa/7622.ts
+#EXTINF:-1,UK : Psychic Today
+http://system.fpiptv.com:8080/live/rosa/rosa/7795.ts
+#EXTINF:-1,UK : QUEST
+http://system.fpiptv.com:8080/live/rosa/rosa/7794.ts
+#EXTINF:-1,UK : QUEST 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7683.ts
+#EXTINF:-1,UK : Quest Red
+http://system.fpiptv.com:8080/live/rosa/rosa/7793.ts
+#EXTINF:-1,UK : Quest Red 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7792.ts
+#EXTINF:-1,UK : Really
+http://system.fpiptv.com:8080/live/rosa/rosa/7682.ts
+#EXTINF:-1,UK : Really Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7681.ts
+#EXTINF:-1,UK : Record TV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7680.ts
+#EXTINF:-1,UK : Retail TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7719.ts
+#EXTINF:-1,UK : Rishtey
+http://system.fpiptv.com:8080/live/rosa/rosa/7849.ts
+#EXTINF:-1,UK : RishteyCine
+http://system.fpiptv.com:8080/live/rosa/rosa/7621.ts
+#EXTINF:-1,UK : RT
+http://system.fpiptv.com:8080/live/rosa/rosa/7718.ts
+#EXTINF:-1,UK : RT HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7625.ts
+#EXTINF:-1,UK : S4C HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7717.ts
+#EXTINF:-1,UK : Safeer TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7848.ts
+#EXTINF:-1,UK : Scuzz
+http://system.fpiptv.com:8080/live/rosa/rosa/7791.ts
+#EXTINF:-1,UK : Sikh Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7620.ts
+#EXTINF:-1,UK : Sony Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7716.ts
+#EXTINF:-1,UK : Sony Chnl  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7790.ts
+#EXTINF:-1,UK : SONY MAX
+http://system.fpiptv.com:8080/live/rosa/rosa/7619.ts
+#EXTINF:-1,UK : SONY MIX
+http://system.fpiptv.com:8080/live/rosa/rosa/7715.ts
+#EXTINF:-1,UK : Sony Movies
+http://system.fpiptv.com:8080/live/rosa/rosa/7714.ts
+#EXTINF:-1,UK : Sony Movies 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7713.ts
+#EXTINF:-1,UK : Sony Sab
+http://system.fpiptv.com:8080/live/rosa/rosa/7712.ts
+#EXTINF:-1,UK : SONY TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7711.ts
+#EXTINF:-1,UK : Spike
+http://system.fpiptv.com:8080/live/rosa/rosa/7847.ts
+#EXTINF:-1,UK : Spike   1
+http://system.fpiptv.com:8080/live/rosa/rosa/7846.ts
+#EXTINF:-1,UK : Star GOLD
+http://system.fpiptv.com:8080/live/rosa/rosa/7845.ts
+#EXTINF:-1,UK : Star Life OK
+http://system.fpiptv.com:8080/live/rosa/rosa/7844.ts
+#EXTINF:-1,UK : Star Plus
+http://system.fpiptv.com:8080/live/rosa/rosa/7843.ts
+#EXTINF:-1,UK : Star Utsav
+http://system.fpiptv.com:8080/live/rosa/rosa/7842.ts
+#EXTINF:-1,UK : Starz TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7789.ts
+#EXTINF:-1,UK : Studio 66
+http://system.fpiptv.com:8080/live/rosa/rosa/7788.ts
+#EXTINF:-1,UK : STV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7710.ts
+#EXTINF:-1,UK : Sukh Sagar
+http://system.fpiptv.com:8080/live/rosa/rosa/7841.ts
+#EXTINF:-1,UK : Syfy
+http://system.fpiptv.com:8080/live/rosa/rosa/7709.ts
+#EXTINF:-1,UK : Syfy  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7708.ts
+#EXTINF:-1,UK : Takbeer TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7618.ts
+#EXTINF:-1,UK : TCM 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7840.ts
+#EXTINF:-1,UK : The Box
+http://system.fpiptv.com:8080/live/rosa/rosa/7839.ts
+#EXTINF:-1,UK : The Vault
+http://system.fpiptv.com:8080/live/rosa/rosa/7787.ts
+#EXTINF:-1,UK : Tiny Pop
+http://system.fpiptv.com:8080/live/rosa/rosa/7786.ts
+#EXTINF:-1,UK : Tiny Pop  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7785.ts
+#EXTINF:-1,UK : TJC Choice
+http://system.fpiptv.com:8080/live/rosa/rosa/7617.ts
+#EXTINF:-1,UK : TLC
+http://system.fpiptv.com:8080/live/rosa/rosa/7679.ts
+#EXTINF:-1,UK : TLC 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7678.ts
+#EXTINF:-1,UK : TLC 2
+http://system.fpiptv.com:8080/live/rosa/rosa/7677.ts
+#EXTINF:-1,UK : TLC Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7676.ts
+#EXTINF:-1,UK : Travel Ch  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7838.ts
+#EXTINF:-1,UK : Travel Channel
+http://system.fpiptv.com:8080/live/rosa/rosa/7707.ts
+#EXTINF:-1,UK : Tristar
+http://system.fpiptv.com:8080/live/rosa/rosa/7706.ts
+#EXTINF:-1,UK : TRT World HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7705.ts
+#EXTINF:-1,UK : tru TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7784.ts
+#EXTINF:-1,UK : True Crime
+http://system.fpiptv.com:8080/live/rosa/rosa/7783.ts
+#EXTINF:-1,UK : True Ent
+http://system.fpiptv.com:8080/live/rosa/rosa/7782.ts
+#EXTINF:-1,UK : True Ent  1
+http://system.fpiptv.com:8080/live/rosa/rosa/7781.ts
+#EXTINF:-1,UK : True Movies
+http://system.fpiptv.com:8080/live/rosa/rosa/7671.ts
+#EXTINF:-1,UK : True Movies 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7670.ts
+#EXTINF:-1,UK : TV Warehouse
+http://system.fpiptv.com:8080/live/rosa/rosa/7704.ts
+#EXTINF:-1,UK : TV5 MONDE
+http://system.fpiptv.com:8080/live/rosa/rosa/7669.ts
+#EXTINF:-1,UK : Ummah CH
+http://system.fpiptv.com:8080/live/rosa/rosa/7616.ts
+#EXTINF:-1,UK : Universal 1
+http://system.fpiptv.com:8080/live/rosa/rosa/7703.ts
+#EXTINF:-1,UK : Universal Ireland
+http://system.fpiptv.com:8080/live/rosa/rosa/7702.ts
+#EXTINF:-1,UK : Universal UK
+http://system.fpiptv.com:8080/live/rosa/rosa/7701.ts
+#EXTINF:-1,UK : UTV HD
+http://system.fpiptv.com:8080/live/rosa/rosa/7700.ts
+#EXTINF:-1,UK : VH1
+http://system.fpiptv.com:8080/live/rosa/rosa/7675.ts
+#EXTINF:-1,UK : Vintage TV
+http://system.fpiptv.com:8080/live/rosa/rosa/7822.ts
+#EXTINF:-1,UK : VIVA
+http://system.fpiptv.com:8080/live/rosa/rosa/7674.ts
+#EXTINF:-1,UK : W
+http://system.fpiptv.com:8080/live/rosa/rosa/7673.ts
+#EXTINF:-1,UK : Word Network
+http://system.fpiptv.com:8080/live/rosa/rosa/7615.ts
+#EXTINF:-1,UK : YESTERDAY
+http://system.fpiptv.com:8080/live/rosa/rosa/7672.ts
+#EXTINF:-1,UK : YourTV
+http://system.fpiptv.com:8080/live/rosa/rosa/7668.ts
+#EXTINF:-1,(((((☆▪☆▪☆ENGLISH VOD 2017☆▪☆▪☆)))))
+http://system.fpiptv.com:8080/live/rosa/rosa/1260.ts
+#EXTINF:-1,A Dog's Purpose Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7488.mp4
+#EXTINF:-1,Aftermath Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7489.mp4
+#EXTINF:-1,All Nighter Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7490.mp4
+#EXTINF:-1,American Violence Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7491.mp4
+#EXTINF:-1,Arsenal Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7492.mp4
+#EXTINF:-1,Beauty And The Beast Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7493.mp4
+#EXTINF:-1,Before I Fall Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7494.mp4
+#EXTINF:-1,Bonded By Blood 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7495.mp4
+#EXTINF:-1,Check Point Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7496.mp4
+#EXTINF:-1,Child Of Satan Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7497.mp4
+#EXTINF:-1,Cross Wars Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7498.mp4
+#EXTINF:-1,Death Race 2050 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7499.mp4
+#EXTINF:-1,Fifty Shades Darker Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7500.mp4
+#EXTINF:-1,Fist Fight Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7501.mp4
+#EXTINF:-1,Get Out Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7502.mp4
+#EXTINF:-1,Kill Game 2015 720p Bluray X264-[yts Ag] Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7504.mp4
+#EXTINF:-1,Kill'em All Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7503.mp4
+#EXTINF:-1,King Arthur And The Knights Of The Round Table Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7505.mp4
+#EXTINF:-1,Land Of Smiles Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7506.mp4
+#EXTINF:-1,Logan Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7507.mp4
+#EXTINF:-1,Max 2 White House Hero Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7508.mp4
+#EXTINF:-1,Rings Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7509.mp4
+#EXTINF:-1,Savage Dog Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7510.mp4
+#EXTINF:-1,Sleepless Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7511.mp4
+#EXTINF:-1,Stratton Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7512.mp4
+#EXTINF:-1,T2 Trainspotting Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7513.mp4
+#EXTINF:-1,The Bye Bye Man Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7514.mp4
+#EXTINF:-1,The Institute Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7515.mp4
+#EXTINF:-1,The Last Word Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7516.mp4
+#EXTINF:-1,The Marine 5 Battleground Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7517.mp4
+#EXTINF:-1,The Shack Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7518.mp4
+#EXTINF:-1,The Shadow Effect Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7519.mp4
+#EXTINF:-1,The Space Between Us Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7520.mp4
+#EXTINF:-1,Vengeance A Love Story Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7521.mp4
+#EXTINF:-1,Voice From The Stone Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7522.mp4
+#EXTINF:-1,We Still Steal The Old Way Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7523.mp4
+#EXTINF:-1,Xx Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7524.mp4
+#EXTINF:-1,Xxx Return Of Xander Cage Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7525.mp4
+#EXTINF:-1,(((((☆▪☆▪☆ENGLISH VOD 2016☆▪☆▪☆)))))
+http://system.fpiptv.com:8080/live/rosa/rosa/1259.ts
+#EXTINF:-1,Zootopia Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5653.mp4
+#EXTINF:-1,Zootopia Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5382.mp4
+#EXTINF:-1,10 0 Earthquake Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6066.mp4
+#EXTINF:-1,10 Cloverfield Lane Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6984.mp4
+#EXTINF:-1,10 Cloverfield Lane Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5654.mp4
+#EXTINF:-1,10,000 Saints Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6557.mp4
+#EXTINF:-1,100 Streets Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6985.mp4
+#EXTINF:-1,101 Dalmatians Ii Patchs London Adventure Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5383.mp4
+#EXTINF:-1,101 Dalmatians Ii Patchs London Adventure Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5227.mp4
+#EXTINF:-1,101 Dalmatians Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5228.mp4
+#EXTINF:-1,12 Rounds 3 Lockdown Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6558.mp4
+#EXTINF:-1,13 Hours The Secret Soldiers Of Benghazi Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6986.mp4
+#EXTINF:-1,13 Hours The Secret Soldiers Of Benghazi Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5655.mp4
+#EXTINF:-1,13 Sins Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6067.mp4
+#EXTINF:-1,17 Again Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5656.mp4
+#EXTINF:-1,2 Fast 2 Furious Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5657.mp4
+#EXTINF:-1,2 Lava 2 Lantula! Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6987.mp4
+#EXTINF:-1,20,000 Days On Earth Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6068.mp4
+#EXTINF:-1,2047   Sights Of Death Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6069.mp4
+#EXTINF:-1,20th Century Women Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6988.mp4
+#EXTINF:-1,22 Jump Street Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6070.mp4
+#EXTINF:-1,22 Jump Street Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5658.mp4
+#EXTINF:-1,25th Hour Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5659.mp4
+#EXTINF:-1,3 Days To Kill Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6071.mp4
+#EXTINF:-1,3 Headed Shark Attack Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6559.mp4
+#EXTINF:-1,3 Nights In The Desert Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6072.mp4
+#EXTINF:-1,300 Rise Of An Empire Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6073.mp4
+#EXTINF:-1,31 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6989.mp4
+#EXTINF:-1,400 Days Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6560.mp4
+#EXTINF:-1,45 Years Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6561.mp4
+#EXTINF:-1,4got10 Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5660.mp4
+#EXTINF:-1,6 Ways To Sundown Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6562.mp4
+#EXTINF:-1,71 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6074.mp4
+#EXTINF:-1,9 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5384.mp4
+#EXTINF:-1,9 Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5229.mp4
+#EXTINF:-1,90 Minutes In Heaven Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6563.mp4
+#EXTINF:-1,99 Homes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6075.mp4
+#EXTINF:-1,A Ballerina's Tale Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6564.mp4
+#EXTINF:-1,A Beautiful Mind Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5661.mp4
+#EXTINF:-1,A Bigger Splash Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6565.mp4
+#EXTINF:-1,A Boy Named Charlie Brown Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5385.mp4
+#EXTINF:-1,A Brilliant Young Mind Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6076.mp4
+#EXTINF:-1,A Brony Tale Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6077.mp4
+#EXTINF:-1,A Bugs Life Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5386.mp4
+#EXTINF:-1,A Christmas Carol Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5387.mp4
+#EXTINF:-1,A Christmas Horror Story Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6566.mp4
+#EXTINF:-1,A Christmas Star Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6567.mp4
+#EXTINF:-1,A Cure For Wellness Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6990.mp4
+#EXTINF:-1,A Fighting Man Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6078.mp4
+#EXTINF:-1,A Good Man Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6079.mp4
+#EXTINF:-1,A Good Marriage Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6080.mp4
+#EXTINF:-1,A Haunted House 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6081.mp4
+#EXTINF:-1,A Haunting In Cawdor Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6568.mp4
+#EXTINF:-1,A Kind Of Murder Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6991.mp4
+#EXTINF:-1,A Little Chaos Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5662.mp4
+#EXTINF:-1,A Long Way Down Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6082.mp4
+#EXTINF:-1,A Merry Friggin Christmas Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6083.mp4
+#EXTINF:-1,A Million Ways To Die In The West Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6084.mp4
+#EXTINF:-1,A Monster Calls Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6992.mp4
+#EXTINF:-1,A Most Violent Year Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6085.mp4
+#EXTINF:-1,A Most Wanted Man Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6086.mp4
+#EXTINF:-1,A Perfect Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6569.mp4
+#EXTINF:-1,A Street Cat Named Bob Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6993.mp4
+#EXTINF:-1,A Sunday Horse Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6994.mp4
+#EXTINF:-1,A United Kingdom Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6995.mp4
+#EXTINF:-1,A Walk Among The Tombstones Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6087.mp4
+#EXTINF:-1,A Walk Among The Tombstones Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5663.mp4
+#EXTINF:-1,A Walk In The Clouds Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5664.mp4
+#EXTINF:-1,A Walk In The Woods Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6570.mp4
+#EXTINF:-1,Aaaaaaaah! Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6571.mp4
+#EXTINF:-1,About Last Night Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6088.mp4
+#EXTINF:-1,About Ray Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6572.mp4
+#EXTINF:-1,Absolutely Anything Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6573.mp4
+#EXTINF:-1,Absolutely Fabulous The Movie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6996.mp4
+#EXTINF:-1,Absolution Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6574.mp4
+#EXTINF:-1,Accidental Love Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6575.mp4
+#EXTINF:-1,Accidental Love Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5665.mp4
+#EXTINF:-1,Addicted To Fresno Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6576.mp4
+#EXTINF:-1,Adult Life Skills Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6997.mp4
+#EXTINF:-1,Afterdeath Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6577.mp4
+#EXTINF:-1,Age Of Tomorrow Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6089.mp4
+#EXTINF:-1,Agoraphobia Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6578.mp4
+#EXTINF:-1,Airplane Vs Volcano Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6090.mp4
+#EXTINF:-1,Aladdin And The King Of Thieves Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5388.mp4
+#EXTINF:-1,Aladdin Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5389.mp4
+#EXTINF:-1,Aladdin Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5230.mp4
+#EXTINF:-1,Albion The Enchanted Stallion Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6998.mp4
+#EXTINF:-1,Alex Of Venice Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6091.mp4
+#EXTINF:-1,Alexander And The Terrible, Horrible, No Good, Very Bad Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6092.mp4
+#EXTINF:-1,Alexander And The Terrible, Horrible, No Good, Very Bad Day Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5231.mp4
+#EXTINF:-1,Alice In Wonderland Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5390.mp4
+#EXTINF:-1,Alice In Wonderland Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5666.mp4
+#EXTINF:-1,Alice Through The Looking Glass Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6999.mp4
+#EXTINF:-1,Alice Through The Looking Glass Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5667.mp4
+#EXTINF:-1,Alien Abduction Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6093.mp4
+#EXTINF:-1,Alien Outpost Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6094.mp4
+#EXTINF:-1,Aliens In The Attic Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5391.mp4
+#EXTINF:-1,All American Bikini Car Wash Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6579.mp4
+#EXTINF:-1,All Creatures Big And Small Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5392.mp4
+#EXTINF:-1,All Creatures Big And Small Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5232.mp4
+#EXTINF:-1,All Girls Weekend Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7000.mp4
+#EXTINF:-1,All Roads Lead To Rome Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6580.mp4
+#EXTINF:-1,All The Way Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7001.mp4
+#EXTINF:-1,All Things Must Pass The Rise And Fall Of Tower Records Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6581.mp4
+#EXTINF:-1,All We Had Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7002.mp4
+#EXTINF:-1,Allegiant Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5668.mp4
+#EXTINF:-1,Alleycats Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7003.mp4
+#EXTINF:-1,Allied Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7004.mp4
+#EXTINF:-1,Almost Ablaze Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6095.mp4
+#EXTINF:-1,Almost Christmas Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7005.mp4
+#EXTINF:-1,Almost Married Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6096.mp4
+#EXTINF:-1,Aloft Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6097.mp4
+#EXTINF:-1,Aloha Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6582.mp4
+#EXTINF:-1,Aloha Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5669.mp4
+#EXTINF:-1,Aloha Scooby Doo Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5393.mp4
+#EXTINF:-1,Alpha House Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6098.mp4
+#EXTINF:-1,Already Tomorrow In Hong Kong Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6583.mp4
+#EXTINF:-1,Altman Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6099.mp4
+#EXTINF:-1,Alvin And The Chipmunks - The Road Chip Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5670.mp4
+#EXTINF:-1,Alvin And The Chipmunks Chip Wrecked Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5396.mp4
+#EXTINF:-1,Alvin And The Chipmunks Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5394.mp4
+#EXTINF:-1,Alvin And The Chipmunks The Road Chip Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5395.mp4
+#EXTINF:-1,Always Shine Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7006.mp4
+#EXTINF:-1,Always Woodstock Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6100.mp4
+#EXTINF:-1,America Imagine The World Without Her Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6101.mp4
+#EXTINF:-1,American Conjuring Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7008.mp4
+#EXTINF:-1,American Heist Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6102.mp4
+#EXTINF:-1,American Hero Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6584.mp4
+#EXTINF:-1,American Honey Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7009.mp4
+#EXTINF:-1,American Justice Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6585.mp4
+#EXTINF:-1,American Pastoral Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7010.mp4
+#EXTINF:-1,American Pie 2 Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5671.mp4
+#EXTINF:-1,American Pie Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5674.mp4
+#EXTINF:-1,American Pie Presents Band Camp Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5672.mp4
+#EXTINF:-1,American Pie Presents The Naked Mile Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5673.mp4
+#EXTINF:-1,American Sniper Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6103.mp4
+#EXTINF:-1,Amerigeddon Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7007.mp4
+#EXTINF:-1,Amira And Sam Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6104.mp4
+#EXTINF:-1,Among Ravens Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6105.mp4
+#EXTINF:-1,Amorous Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6106.mp4
+#EXTINF:-1,An American Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5397.mp4
+#EXTINF:-1,An American Tail Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5233.mp4
+#EXTINF:-1,Anarchy Parlor Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6586.mp4
+#EXTINF:-1,Anastasia Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5234.mp4
+#EXTINF:-1,And So It Goes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6107.mp4
+#EXTINF:-1,Android Cop Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6108.mp4
+#EXTINF:-1,Andron Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6587.mp4
+#EXTINF:-1,Anesthesia Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6588.mp4
+#EXTINF:-1,Angels And Demons Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5675.mp4
+#EXTINF:-1,Angry Birds Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7011.mp4
+#EXTINF:-1,Angry Birds Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5398.mp4
+#EXTINF:-1,Anguish Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6589.mp4
+#EXTINF:-1,Animal Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6109.mp4
+#EXTINF:-1,Annabelle Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6110.mp4
+#EXTINF:-1,Annabelle Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5676.mp4
+#EXTINF:-1,Annie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6111.mp4
+#EXTINF:-1,Annie Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5677.mp4
+#EXTINF:-1,Anomalisa Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6590.mp4
+#EXTINF:-1,Anomalisa Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5399.mp4
+#EXTINF:-1,Ant-man Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6591.mp4
+#EXTINF:-1,Apocalypse Pompeii Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6112.mp4
+#EXTINF:-1,Apocalyptic Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6113.mp4
+#EXTINF:-1,Apocalypto Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5678.mp4
+#EXTINF:-1,Appleseed Alpha Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6114.mp4
+#EXTINF:-1,Appleseed Alpha Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5400.mp4
+#EXTINF:-1,April Rain Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6115.mp4
+#EXTINF:-1,Arrietty Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5401.mp4
+#EXTINF:-1,Arrival Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7012.mp4
+#EXTINF:-1,Arrowhead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7013.mp4
+#EXTINF:-1,Arthur & Merlin Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6592.mp4
+#EXTINF:-1,Arthur 3 La Guerre Des Deux Mondes Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5402.mp4
+#EXTINF:-1,Arthur And The Invisibles Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5405.mp4
+#EXTINF:-1,Arthur Christmas Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5403.mp4
+#EXTINF:-1,Arthur Et La Vengeance De Maltazard Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5404.mp4
+#EXTINF:-1,As Above, So Below Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6116.mp4
+#EXTINF:-1,As Dreamers Do Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6117.mp4
+#EXTINF:-1,Ashby Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6593.mp4
+#EXTINF:-1,Ashby Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5679.mp4
+#EXTINF:-1,Assassin Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6594.mp4
+#EXTINF:-1,Assassin's Creed Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7014.mp4
+#EXTINF:-1,Assassination Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6595.mp4
+#EXTINF:-1,Asterix And Obelix Mansion Of The Gods Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5235.mp4
+#EXTINF:-1,Asthma Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6118.mp4
+#EXTINF:-1,At The Devils Door Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6119.mp4
+#EXTINF:-1,Atlantis The Lost Empire  Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5406.mp4
+#EXTINF:-1,Authors Anonymous Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6120.mp4
+#EXTINF:-1,Autómata Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6121.mp4
+#EXTINF:-1,Automata Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5680.mp4
+#EXTINF:-1,Avengers Age Of Ultron Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5681.mp4
+#EXTINF:-1,Avengers Confidential Black Widow And Punisher Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5236.mp4
+#EXTINF:-1,Avengers Grimm Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6596.mp4
+#EXTINF:-1,Babe Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5683.mp4
+#EXTINF:-1,Babe Pig In The City Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5682.mp4
+#EXTINF:-1,Bachelor Night Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6122.mp4
+#EXTINF:-1,Back To The Future Part Ii Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5684.mp4
+#EXTINF:-1,Back To The Future Part Iii Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5685.mp4
+#EXTINF:-1,Backgammon Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6597.mp4
+#EXTINF:-1,Backtrack Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6598.mp4
+#EXTINF:-1,Bad Asses Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6123.mp4
+#EXTINF:-1,Bad Asses On The Bayou Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5686.mp4
+#EXTINF:-1,Bad Country Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6124.mp4
+#EXTINF:-1,Bad Johnson Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6125.mp4
+#EXTINF:-1,Bad Santa 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7015.mp4
+#EXTINF:-1,Badge Of Honor Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6599.mp4
+#EXTINF:-1,Baked In Brooklyn Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7016.mp4
+#EXTINF:-1,Ballet 422 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6126.mp4
+#EXTINF:-1,Balto Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5407.mp4
+#EXTINF:-1,Balto Ii Wolf Quest Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5408.mp4
+#EXTINF:-1,Balto Iii Wings Of Change Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5409.mp4
+#EXTINF:-1,Bambi Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5410.mp4
+#EXTINF:-1,Bambi Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5237.mp4
+#EXTINF:-1,Bang Bang Baby Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6127.mp4
+#EXTINF:-1,Barbershop The Next Cut Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7017.mp4
+#EXTINF:-1,Barbie And The Secret Door Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5411.mp4
+#EXTINF:-1,Barbie In Princess Power Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5238.mp4
+#EXTINF:-1,Barbie In The Pink Shoes Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5414.mp4
+#EXTINF:-1,Barbie Spy Squad Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5412.mp4
+#EXTINF:-1,Barbie Spy Squad Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5239.mp4
+#EXTINF:-1,Barbie Star Light Adventure Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5413.mp4
+#EXTINF:-1,Barefoot Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6128.mp4
+#EXTINF:-1,Barely Lethal Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6600.mp4
+#EXTINF:-1,Barely Lethal Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5687.mp4
+#EXTINF:-1,Barney Thomson Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6601.mp4
+#EXTINF:-1,Bastille Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7018.mp4
+#EXTINF:-1,Batman Assault On Arkham Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5415.mp4
+#EXTINF:-1,Batman Assault On Arkham Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5240.mp4
+#EXTINF:-1,Batman Bad Blood Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5416.mp4
+#EXTINF:-1,Batman Bad Blood Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5243.mp4
+#EXTINF:-1,Batman Mystery Of The Batwoman Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5417.mp4
+#EXTINF:-1,Batman The Dark Knight Part 2 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5418.mp4
+#EXTINF:-1,Batman The Dark Knight Returns Part 1 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5419.mp4
+#EXTINF:-1,Batman The Killing Joke Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5420.mp4
+#EXTINF:-1,Batman The Killing Joke Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5241.mp4
+#EXTINF:-1,Batman Under The Red Hood Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5421.mp4
+#EXTINF:-1,Batman V Superman Dawn Of Justice Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7019.mp4
+#EXTINF:-1,Batman Vs Robin  Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5242.mp4
+#EXTINF:-1,Batman Year One Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5422.mp4
+#EXTINF:-1,Battle For Skyark Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6602.mp4
+#EXTINF:-1,Battle Of Kings Bannockburn Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6129.mp4
+#EXTINF:-1,Bear Story Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5244.mp4
+#EXTINF:-1,Beast Of No Nation Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6603.mp4
+#EXTINF:-1,Beauty And The Beast Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5423.mp4
+#EXTINF:-1,Beauty And The Beast Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5245.mp4
+#EXTINF:-1,Bedknobs And Broomsticks Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5424.mp4
+#EXTINF:-1,Before I Go To Sleep Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6130.mp4
+#EXTINF:-1,Before I Wake Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7020.mp4
+#EXTINF:-1,Before We Go Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6131.mp4
+#EXTINF:-1,Behaving Badly Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6132.mp4
+#EXTINF:-1,Behind Of Candelabra Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5688.mp4
+#EXTINF:-1,Being Ap Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6604.mp4
+#EXTINF:-1,Being Charlie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6605.mp4
+#EXTINF:-1,Believe Me Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6133.mp4
+#EXTINF:-1,Ben Collins Stunt Driver Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6606.mp4
+#EXTINF:-1,Ben-hur Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7021.mp4
+#EXTINF:-1,Beowulf Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5425.mp4
+#EXTINF:-1,Beowulf Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5689.mp4
+#EXTINF:-1,Berkshire County Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6134.mp4
+#EXTINF:-1,Best Day Ever Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6135.mp4
+#EXTINF:-1,Best Of Enemies Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6607.mp4
+#EXTINF:-1,Beyond Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6136.mp4
+#EXTINF:-1,Beyond The Call To Duty Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7022.mp4
+#EXTINF:-1,Beyond The Lights Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6137.mp4
+#EXTINF:-1,Beyond The Mask Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6608.mp4
+#EXTINF:-1,Beyond The Reach Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6138.mp4
+#EXTINF:-1,Beyond The Reach Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5690.mp4
+#EXTINF:-1,Big Eyes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6139.mp4
+#EXTINF:-1,Big Eyes Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5691.mp4
+#EXTINF:-1,Big Hero 6 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5426.mp4
+#EXTINF:-1,Big Hero 6 Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5246.mp4
+#EXTINF:-1,Big Stone Gap Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6140.mp4
+#EXTINF:-1,Big Top Scooby-doo! Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5427.mp4
+#EXTINF:-1,Bikini Model Academy Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6609.mp4
+#EXTINF:-1,Billy Lynn's Long Halftime Walk Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7023.mp4
+#EXTINF:-1,Birdman Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6141.mp4
+#EXTINF:-1,Birdman Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5692.mp4
+#EXTINF:-1,Black Mass Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6610.mp4
+#EXTINF:-1,Black Mountain Side Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6142.mp4
+#EXTINF:-1,Black Or White Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6143.mp4
+#EXTINF:-1,Blackburn Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6611.mp4
+#EXTINF:-1,Blackhat Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6612.mp4
+#EXTINF:-1,Blackhat Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5693.mp4
+#EXTINF:-1,Blair Witch Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7024.mp4
+#EXTINF:-1,Blair Witch Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5694.mp4
+#EXTINF:-1,Bleed For This Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7025.mp4
+#EXTINF:-1,Bleeding Heart Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6613.mp4
+#EXTINF:-1,Blended Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6144.mp4
+#EXTINF:-1,Bling Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5428.mp4
+#EXTINF:-1,Blinky Bill The Movie Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5429.mp4
+#EXTINF:-1,Blood Diamond Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5695.mp4
+#EXTINF:-1,Blood First Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6145.mp4
+#EXTINF:-1,Blood Lake Attack Of The Killer Lampreys Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6146.mp4
+#EXTINF:-1,Blood Lust Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7026.mp4
+#EXTINF:-1,Blood Punch Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6147.mp4
+#EXTINF:-1,Blood Redd Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6614.mp4
+#EXTINF:-1,Blood Shed Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6148.mp4
+#EXTINF:-1,Bloodsucking Bastards Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6615.mp4
+#EXTINF:-1,Blue Mountain State The Rise Of Thadland Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7027.mp4
+#EXTINF:-1,Bobby Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7028.mp4
+#EXTINF:-1,Bone Tomahawk Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6616.mp4
+#EXTINF:-1,Boo! A Madea Halloween Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7029.mp4
+#EXTINF:-1,Born To Race Fast Track Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6149.mp4
+#EXTINF:-1,Boulevard Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6150.mp4
+#EXTINF:-1,Bound To Vengeance Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6617.mp4
+#EXTINF:-1,Boychoir Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6151.mp4
+#EXTINF:-1,Boyhood Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6152.mp4
+#EXTINF:-1,Boys Of Abu Ghraib Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6153.mp4
+#EXTINF:-1,Brand A Second Coming Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6618.mp4
+#EXTINF:-1,Brandon Semenuks Rad Company Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6154.mp4
+#EXTINF:-1,Brave Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5430.mp4
+#EXTINF:-1,Brave Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5247.mp4
+#EXTINF:-1,Brick Mansions Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6155.mp4
+#EXTINF:-1,Brick Mansions Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5696.mp4
+#EXTINF:-1,Bridge Of Spies Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6619.mp4
+#EXTINF:-1,Bridge Of Spies Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5697.mp4
+#EXTINF:-1,Bridget Jones's Baby Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7030.mp4
+#EXTINF:-1,Bridget Joness Baby Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5698.mp4
+#EXTINF:-1,Brimstone Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7031.mp4
+#EXTINF:-1,Brooklyn Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6620.mp4
+#EXTINF:-1,Brooklyn Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5699.mp4
+#EXTINF:-1,Brother Nature Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5700.mp4
+#EXTINF:-1,Brotherhood Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7032.mp4
+#EXTINF:-1,Brothers Of The Wind Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6621.mp4
+#EXTINF:-1,Buck Wild Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6156.mp4
+#EXTINF:-1,Bullet Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6157.mp4
+#EXTINF:-1,Bunker Of The Dead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6622.mp4
+#EXTINF:-1,Burnt Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6623.mp4
+#EXTINF:-1,Burnt Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5701.mp4
+#EXTINF:-1,By The Gun Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6158.mp4
+#EXTINF:-1,By The Sea Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6624.mp4
+#EXTINF:-1,By The Sea Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5702.mp4
+#EXTINF:-1,Cabin Fever Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7033.mp4
+#EXTINF:-1,Cake Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6159.mp4
+#EXTINF:-1,Calvary Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6160.mp4
+#EXTINF:-1,Camp X Ray Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6161.mp4
+#EXTINF:-1,Campus Code Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6625.mp4
+#EXTINF:-1,Captain America Civil War Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7034.mp4
+#EXTINF:-1,Captain America Civil War Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5703.mp4
+#EXTINF:-1,Captain America The Winter Soldier Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6162.mp4
+#EXTINF:-1,Captain Sparky Vs  The Flying Saucers Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5431.mp4
+#EXTINF:-1,Captive Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6626.mp4
+#EXTINF:-1,Captive Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5704.mp4
+#EXTINF:-1,Capture The Flag  Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5248.mp4
+#EXTINF:-1,Capture The Flag Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5432.mp4
+#EXTINF:-1,Cardboard Boxer Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7035.mp4
+#EXTINF:-1,Careful What You Wish For Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6627.mp4
+#EXTINF:-1,Carnage Park Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7036.mp4
+#EXTINF:-1,Carol Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6628.mp4
+#EXTINF:-1,Carol Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5705.mp4
+#EXTINF:-1,Cars 2 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5433.mp4
+#EXTINF:-1,Cars Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5434.mp4
+#EXTINF:-1,Cars Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5249.mp4
+#EXTINF:-1,Cartel Land Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5706.mp4
+#EXTINF:-1,Casper Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5435.mp4
+#EXTINF:-1,Cast Away Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5707.mp4
+#EXTINF:-1,Cat Run 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6163.mp4
+#EXTINF:-1,Cat Shit One Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5436.mp4
+#EXTINF:-1,Catch Hell Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6164.mp4
+#EXTINF:-1,Catfight Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7037.mp4
+#EXTINF:-1,Central Intelligence Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7038.mp4
+#EXTINF:-1,Cesar Chavez Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6165.mp4
+#EXTINF:-1,Chaos Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5708.mp4
+#EXTINF:-1,Chappie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6629.mp4
+#EXTINF:-1,Chasing Niagara Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6630.mp4
+#EXTINF:-1,Checkmate Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6631.mp4
+#EXTINF:-1,Chef Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6166.mp4
+#EXTINF:-1,Chef Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5709.mp4
+#EXTINF:-1,Cherry Tree Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6632.mp4
+#EXTINF:-1,Chi-raq Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6633.mp4
+#EXTINF:-1,Chicken Run Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5437.mp4
+#EXTINF:-1,Child 44 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6634.mp4
+#EXTINF:-1,Child 44 Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5710.mp4
+#EXTINF:-1,Chloe And Theo Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6635.mp4
+#EXTINF:-1,Chocolate Strawberry Vanilla Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6167.mp4
+#EXTINF:-1,Christine Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7039.mp4
+#EXTINF:-1,Christmas Icetastrophe Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6168.mp4
+#EXTINF:-1,Churchill's Secret Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7040.mp4
+#EXTINF:-1,Cinderella Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5438.mp4
+#EXTINF:-1,City Of God Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5711.mp4
+#EXTINF:-1,Clinical Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5712.mp4
+#EXTINF:-1,Close Range Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6636.mp4
+#EXTINF:-1,Closer To God Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6169.mp4
+#EXTINF:-1,Closet Monster Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6637.mp4
+#EXTINF:-1,Clouds Of Sils Maria Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6170.mp4
+#EXTINF:-1,Cloudy With A Chance Of Meatballs 2 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5439.mp4
+#EXTINF:-1,Cloudy With A Chance Of Meatballs Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5440.mp4
+#EXTINF:-1,Cloverfield Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5713.mp4
+#EXTINF:-1,Clown Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6171.mp4
+#EXTINF:-1,Clown Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5714.mp4
+#EXTINF:-1,Coconut Hero Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6638.mp4
+#EXTINF:-1,Coherence Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5715.mp4
+#EXTINF:-1,Coin Heist Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5716.mp4
+#EXTINF:-1,Cold In July Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6172.mp4
+#EXTINF:-1,Cold In July Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5717.mp4
+#EXTINF:-1,Collateral Beauty Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7041.mp4
+#EXTINF:-1,Collide Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7042.mp4
+#EXTINF:-1,Colonia Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6639.mp4
+#EXTINF:-1,Come And Find Me Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7043.mp4
+#EXTINF:-1,Comet Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6173.mp4
+#EXTINF:-1,Concussion Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5718.mp4
+#EXTINF:-1,Condemned Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6640.mp4
+#EXTINF:-1,Confirmation Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7044.mp4
+#EXTINF:-1,Contract To Kill Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7045.mp4
+#EXTINF:-1,Contracted Phase Ii Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6641.mp4
+#EXTINF:-1,Convergence Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6642.mp4
+#EXTINF:-1,Convict Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6174.mp4
+#EXTINF:-1,Conviction Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5719.mp4
+#EXTINF:-1,Coonskin Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5441.mp4
+#EXTINF:-1,Cooties Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6175.mp4
+#EXTINF:-1,Cooties Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5720.mp4
+#EXTINF:-1,Cop Car Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5721.mp4
+#EXTINF:-1,Coraline Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5442.mp4
+#EXTINF:-1,Corner Gas The Movie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6176.mp4
+#EXTINF:-1,Corpse Bride Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5443.mp4
+#EXTINF:-1,Countdown Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7046.mp4
+#EXTINF:-1,Crawl Or Die Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6177.mp4
+#EXTINF:-1,Creative Control Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6643.mp4
+#EXTINF:-1,Creed Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6644.mp4
+#EXTINF:-1,Creed Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5722.mp4
+#EXTINF:-1,Criminal Activities Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6645.mp4
+#EXTINF:-1,Criminal Activities Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5723.mp4
+#EXTINF:-1,Criminal Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5724.mp4
+#EXTINF:-1,Crimson Peak Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6646.mp4
+#EXTINF:-1,Crimson Peak Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5725.mp4
+#EXTINF:-1,Crouching Tiger Hidden Dragon Sword Of Destiny Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5726.mp4
+#EXTINF:-1,Cuban Fury Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6178.mp4
+#EXTINF:-1,Curious George 3 Back To The Jungle Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5444.mp4
+#EXTINF:-1,Curious George Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5445.mp4
+#EXTINF:-1,Curse Of The Witching Tree Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6647.mp4
+#EXTINF:-1,Cut Bank Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6179.mp4
+#EXTINF:-1,Cut Snake Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6180.mp4
+#EXTINF:-1,Cymbeline Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6181.mp4
+#EXTINF:-1,Da Sweet Blood Of Jesus Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6182.mp4
+#EXTINF:-1,Dad's Army Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7047.mp4
+#EXTINF:-1,Dads Army Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5727.mp4
+#EXTINF:-1,Daft Punk Unchained Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6648.mp4
+#EXTINF:-1,Dakotas Summer Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6183.mp4
+#EXTINF:-1,Danny Collins Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6649.mp4
+#EXTINF:-1,Dantes Inferno An Animated Epic Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5250.mp4
+#EXTINF:-1,Dark Places Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6650.mp4
+#EXTINF:-1,Dark Was The Night Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6184.mp4
+#EXTINF:-1,Darkest Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6651.mp4
+#EXTINF:-1,Date And Switch Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6185.mp4
+#EXTINF:-1,David And Goliath Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7048.mp4
+#EXTINF:-1,David Brent Life On The Road Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7049.mp4
+#EXTINF:-1,Dawn Of The Planet Of The Apes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6186.mp4
+#EXTINF:-1,Dawn Of The Planet Of The Apes Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5728.mp4
+#EXTINF:-1,Day Of Reckoning Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7050.mp4
+#EXTINF:-1,Daybreakers Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5729.mp4
+#EXTINF:-1,Daylight's End Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7051.mp4
+#EXTINF:-1,Dc Showcase Catwoman Enk Mp4 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5446.mp4
+#EXTINF:-1,Dead 7 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7052.mp4
+#EXTINF:-1,Dead On Campus Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6187.mp4
+#EXTINF:-1,Dead Sea Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6188.mp4
+#EXTINF:-1,Dead Silence Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5730.mp4
+#EXTINF:-1,Dead Snow 2 Red Vs  Dead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6189.mp4
+#EXTINF:-1,Dear White People Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6190.mp4
+#EXTINF:-1,Death Factory Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6191.mp4
+#EXTINF:-1,Death Proof Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5731.mp4
+#EXTINF:-1,Death Race Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5732.mp4
+#EXTINF:-1,Deathgasm Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6652.mp4
+#EXTINF:-1,Deep In The Darkness Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6192.mp4
+#EXTINF:-1,Deep Web Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6653.mp4
+#EXTINF:-1,Deepwater Horizon Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7053.mp4
+#EXTINF:-1,Deepwater Horizon Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5733.mp4
+#EXTINF:-1,Deliver Us From Evil Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6193.mp4
+#EXTINF:-1,Demolition Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6654.mp4
+#EXTINF:-1,Denial Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7054.mp4
+#EXTINF:-1,Dennis Rodman's Big Bang In Pyongyang Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6655.mp4
+#EXTINF:-1,Despicable Me 2 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5447.mp4
+#EXTINF:-1,Despicable Me 2 Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5251.mp4
+#EXTINF:-1,Despicable Me Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5448.mp4
+#EXTINF:-1,Despicable Me Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5252.mp4
+#EXTINF:-1,Despite The Falling Snow Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7055.mp4
+#EXTINF:-1,Devils Due Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6194.mp4
+#EXTINF:-1,Devils Tower Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6195.mp4
+#EXTINF:-1,Diablo Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6656.mp4
+#EXTINF:-1,Diablo Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5734.mp4
+#EXTINF:-1,Die Fighting Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6196.mp4
+#EXTINF:-1,Die Hard Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5735.mp4
+#EXTINF:-1,Diet Of Sex Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5736.mp4
+#EXTINF:-1,Dino Time Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5449.mp4
+#EXTINF:-1,Dinosaur 13 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6197.mp4
+#EXTINF:-1,Dinosaur Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5450.mp4
+#EXTINF:-1,Dirty Grandpa Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7056.mp4
+#EXTINF:-1,Dirty Grandpa Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5737.mp4
+#EXTINF:-1,Disciples Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6198.mp4
+#EXTINF:-1,Ditch Day Massacre Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7057.mp4
+#EXTINF:-1,Doc Of The Dead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6199.mp4
+#EXTINF:-1,Doctor Strange Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7058.mp4
+#EXTINF:-1,Dog Eat Dog Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7059.mp4
+#EXTINF:-1,Dolphin Tale 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6200.mp4
+#EXTINF:-1,Dominion Prequel To The Exorcist Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5738.mp4
+#EXTINF:-1,Don Gato El Inicio De La Pandilla Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5253.mp4
+#EXTINF:-1,Don Verdean Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6658.mp4
+#EXTINF:-1,Don't Grow Up Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6657.mp4
+#EXTINF:-1,Don't Kill It Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7060.mp4
+#EXTINF:-1,Don't Think Twice Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7061.mp4
+#EXTINF:-1,Donnie Darko Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5739.mp4
+#EXTINF:-1,Dough Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6659.mp4
+#EXTINF:-1,Down Under Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7062.mp4
+#EXTINF:-1,Dracula Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5741.mp4
+#EXTINF:-1,Dracula Untold Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6201.mp4
+#EXTINF:-1,Dracula Untold Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5740.mp4
+#EXTINF:-1,Draft Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6202.mp4
+#EXTINF:-1,Dragon Ball Z Doragon Bôru Z - Fukkatsu No 'f' Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5451.mp4
+#EXTINF:-1,Dragon Ball Z Gaiden Saiya Jin Zetsumetsu Keikaku Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5254.mp4
+#EXTINF:-1,Dragon Nest Warriors Dawn Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5452.mp4
+#EXTINF:-1,Dragonheart 3 The Sorcerers Curse Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6660.mp4
+#EXTINF:-1,Dragonheart 3 The Sorcerers Curse Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5742.mp4
+#EXTINF:-1,Dredd Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5743.mp4
+#EXTINF:-1,Drifter Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7063.mp4
+#EXTINF:-1,Dumb And Dumber To Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6203.mp4
+#EXTINF:-1,Dumb And Dumber To Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5744.mp4
+#EXTINF:-1,Dumbo Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5453.mp4
+#EXTINF:-1,Dying Of The Light Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6204.mp4
+#EXTINF:-1,Earth To Echo Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6205.mp4
+#EXTINF:-1,Earthfall Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6661.mp4
+#EXTINF:-1,Echoes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6206.mp4
+#EXTINF:-1,Eddie The Eagle Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7064.mp4
+#EXTINF:-1,Eddie The Eagle Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5745.mp4
+#EXTINF:-1,Eden Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6662.mp4
+#EXTINF:-1,Edgar Allan Poe's Lighthouse Keeper Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7065.mp4
+#EXTINF:-1,Edge Of Tomorrow Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6207.mp4
+#EXTINF:-1,Edge Of Winter Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5746.mp4
+#EXTINF:-1,Effie Gray Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6208.mp4
+#EXTINF:-1,Ejecta Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6209.mp4
+#EXTINF:-1,El Hijo De La Novia Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5747.mp4
+#EXTINF:-1,Eliminators Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7066.mp4
+#EXTINF:-1,Elsa And Fred Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6210.mp4
+#EXTINF:-1,Elvis & Nixon Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7067.mp4
+#EXTINF:-1,Elvis And Nixon Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5748.mp4
+#EXTINF:-1,Elvis Lives! Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7068.mp4
+#EXTINF:-1,Emelie Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6663.mp4
+#EXTINF:-1,End Of A Gun Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7069.mp4
+#EXTINF:-1,Endgame Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6664.mp4
+#EXTINF:-1,Endless Love Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6211.mp4
+#EXTINF:-1,Enemy Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5749.mp4
+#EXTINF:-1,Entertainment Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6665.mp4
+#EXTINF:-1,Entourage Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6666.mp4
+#EXTINF:-1,Epic Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5454.mp4
+#EXTINF:-1,Epic Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5255.mp4
+#EXTINF:-1,Equity Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7070.mp4
+#EXTINF:-1,Escape From Planet Earth Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5455.mp4
+#EXTINF:-1,Escape From Planet Earth Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5256.mp4
+#EXTINF:-1,Escobar Paradise Lost Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6213.mp4
+#EXTINF:-1,Eurotrip Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5750.mp4
+#EXTINF:-1,Everest Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6667.mp4
+#EXTINF:-1,Everest Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5751.mp4
+#EXTINF:-1,Everly Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6214.mp4
+#EXTINF:-1,Everybody Wants Some Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5752.mp4
+#EXTINF:-1,Everybody Wants Some!! Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7071.mp4
+#EXTINF:-1,Exists Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6215.mp4
+#EXTINF:-1,Exodus Gods And Kings Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6216.mp4
+#EXTINF:-1,Exodus Gods And Kings Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5753.mp4
+#EXTINF:-1,Experimenter Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6668.mp4
+#EXTINF:-1,Exposed Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7072.mp4
+#EXTINF:-1,Extinction Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6217.mp4
+#EXTINF:-1,Extraction Day Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6218.mp4
+#EXTINF:-1,Extraction Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6669.mp4
+#EXTINF:-1,Extraterrestrial Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6219.mp4
+#EXTINF:-1,Eye In The Sky Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6670.mp4
+#EXTINF:-1,Eye In The Sky Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5754.mp4
+#EXTINF:-1,Falcon Rising Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6220.mp4
+#EXTINF:-1,Fallen Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7073.mp4
+#EXTINF:-1,Fantasia 2000 Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5456.mp4
+#EXTINF:-1,Fantasia Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5457.mp4
+#EXTINF:-1,Fantastic Beasts And Where To Find Them Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7074.mp4
+#EXTINF:-1,Fantastic Four Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6671.mp4
+#EXTINF:-1,Fantastic Mr Fox Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5458.mp4
+#EXTINF:-1,Fast And Furious 6 Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5756.mp4
+#EXTINF:-1,Fast And Furious Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5757.mp4
+#EXTINF:-1,Fast Five Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5755.mp4
+#EXTINF:-1,Fastball Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7075.mp4
+#EXTINF:-1,Fear Clinic Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6672.mp4
+#EXTINF:-1,Female Werewolf Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6673.mp4
+#EXTINF:-1,Fences Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7076.mp4
+#EXTINF:-1,Fender Bender Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7077.mp4
+#EXTINF:-1,Field Of Lost Shoes Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6674.mp4
+#EXTINF:-1,Fields Of The Dead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6221.mp4
+#EXTINF:-1,Fifty Shades Of Black Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7078.mp4
+#EXTINF:-1,Fifty Shades Of Black Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5758.mp4
+#EXTINF:-1,Fight Valley Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7079.mp4
+#EXTINF:-1,Final Fantasy The Spirits Within  Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5459.mp4
+#EXTINF:-1,Final Fantasy Vii Advent Children Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5460.mp4
+#EXTINF:-1,Finding Altamira Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7080.mp4
+#EXTINF:-1,Finding Dory Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5461.mp4
+#EXTINF:-1,Finding Dory Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5258.mp4
+#EXTINF:-1,Finding Nemo Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5462.mp4
+#EXTINF:-1,Finding Nemo Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5257.mp4
+#EXTINF:-1,Five Nights In Maine Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6675.mp4
+#EXTINF:-1,Florence Foster Jenkins Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7081.mp4
+#EXTINF:-1,Focus Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6676.mp4
+#EXTINF:-1,Focus Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5759.mp4
+#EXTINF:-1,For The Love Of Spock Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7082.mp4
+#EXTINF:-1,Forsaken Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6677.mp4
+#EXTINF:-1,Fort Tilden Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6222.mp4
+#EXTINF:-1,Four Weddings And A Funeral Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5760.mp4
+#EXTINF:-1,Fourth Man Out Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6678.mp4
+#EXTINF:-1,Foxcatcher Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6223.mp4
+#EXTINF:-1,Frank Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6224.mp4
+#EXTINF:-1,Frankenweenie Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5463.mp4
+#EXTINF:-1,Freaks Of Nature Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6679.mp4
+#EXTINF:-1,Freaks Of Nature Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5761.mp4
+#EXTINF:-1,Free Birds Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5464.mp4
+#EXTINF:-1,Free Fall Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6225.mp4
+#EXTINF:-1,Free State Of Jones Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7083.mp4
+#EXTINF:-1,Free The Nipple Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6226.mp4
+#EXTINF:-1,Free To Play Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6227.mp4
+#EXTINF:-1,Freeheld Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6680.mp4
+#EXTINF:-1,Freetown Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6681.mp4
+#EXTINF:-1,Frequency Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5762.mp4
+#EXTINF:-1,Friend Request Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7084.mp4
+#EXTINF:-1,From The Dark Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6228.mp4
+#EXTINF:-1,Frontera Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6229.mp4
+#EXTINF:-1,Frozen Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5465.mp4
+#EXTINF:-1,Frozen Fever Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5466.mp4
+#EXTINF:-1,Frozen Fever Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5259.mp4
+#EXTINF:-1,Frozen Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5260.mp4
+#EXTINF:-1,Fury Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6230.mp4
+#EXTINF:-1,Fury Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5763.mp4
+#EXTINF:-1,Futurama Benders Game Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5261.mp4
+#EXTINF:-1,Gangs Of New York Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5764.mp4
+#EXTINF:-1,Garfield Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5468.mp4
+#EXTINF:-1,Garfield's Pet Force Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5467.mp4
+#EXTINF:-1,Garm Wars The Last Druid Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6231.mp4
+#EXTINF:-1,Genius Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7085.mp4
+#EXTINF:-1,George De La Selva 2 Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5262.mp4
+#EXTINF:-1,George De La Selva Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5263.mp4
+#EXTINF:-1,Gernika Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7086.mp4
+#EXTINF:-1,Get On Up Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6232.mp4
+#EXTINF:-1,Get On Up Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5765.mp4
+#EXTINF:-1,Get Squirrely Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5469.mp4
+#EXTINF:-1,Ghosthunters Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7087.mp4
+#EXTINF:-1,Ghosthunters On Icy Trails Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6682.mp4
+#EXTINF:-1,Ghosthunters On Icy Trails Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5470.mp4
+#EXTINF:-1,Gimme Danger Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7088.mp4
+#EXTINF:-1,Girl Asleep Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6683.mp4
+#EXTINF:-1,Girl House Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6233.mp4
+#EXTINF:-1,Gladiators Of Rome Lak
+http://system.fpiptv.com:8080/movie/rosa/rosa/5264.mp4
+#EXTINF:-1,God Help The Girl Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6234.mp4
+#EXTINF:-1,God's Not Dead 2 Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7089.mp4
+#EXTINF:-1,Gods Not Dead 2 Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5767.mp4
+#EXTINF:-1,Gods Not Dead Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6235.mp4
+#EXTINF:-1,Gods Pocket Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6236.mp4
+#EXTINF:-1,Gods Pocket Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5766.mp4
+#EXTINF:-1,Godzilla Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6237.mp4
+#EXTINF:-1,Going Clear Scientology And The Prison Of Belief Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6684.mp4
+#EXTINF:-1,Gold Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7090.mp4
+#EXTINF:-1,Gone Girl Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6238.mp4
+#EXTINF:-1,Good Kids Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7091.mp4
+#EXTINF:-1,Good Kill Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6239.mp4
+#EXTINF:-1,Good People Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6240.mp4
+#EXTINF:-1,Goodbye To All That Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6241.mp4
+#EXTINF:-1,Goosebumps Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6685.mp4
+#EXTINF:-1,Grace Of Monaco Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6242.mp4
+#EXTINF:-1,Grandma Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6686.mp4
+#EXTINF:-1,Grandma Lat
+http://system.fpiptv.com:8080/movie/rosa/rosa/5768.mp4
+#EXTINF:-1,Gravy Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/6687.mp4
+#EXTINF:-1,Greater Eng
+http://system.fpiptv.com:8080/movie/rosa/rosa/7092.mp4
+#EXTINF:-1,Green Lantern Emerald Knights Enk
+http://system.fpiptv.com:8080/movie/rosa/rosa/5471.mp4
